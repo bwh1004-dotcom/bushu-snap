@@ -41,73 +41,93 @@ html, body {
 /* ── 홈 ── */
 #screen-home {
   align-items: center;
-  justify-content: center;
-  padding: 32px 24px;
-  gap: 0;
+  justify-content: flex-start;
+  padding: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
 }
 
+/* 홈 헤더 */
+.home-header {
+  width: 100%;
+  padding: 52px 24px 20px;
+  background: linear-gradient(180deg, #0e0e1a 0%, transparent 100%);
+  text-align: center;
+  flex-shrink: 0;
+}
 .home-logo {
-  font-size: 11px;
-  letter-spacing: 6px;
+  font-size: 10px;
+  letter-spacing: 5px;
   color: var(--muted);
-  margin-bottom: 12px;
+  margin-bottom: 6px;
 }
 .home-title {
   font-family: 'Noto Serif JP', serif;
-  font-size: 42px;
+  font-size: 30px;
   font-weight: 900;
   color: var(--accent);
-  letter-spacing: 4px;
-  margin-bottom: 4px;
+  letter-spacing: 3px;
+  line-height: 1.1;
 }
 .home-sub {
-  font-size: 13px;
+  font-size: 12px;
   color: var(--muted);
-  margin-bottom: 48px;
+  margin-top: 6px;
+}
+
+/* 홈 콘텐츠 */
+.home-content {
+  width: 100%;
+  max-width: 420px;
+  padding: 0 16px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-self: center;
 }
 
 .level-list {
   width: 100%;
-  max-width: 360px;
   display: flex;
   flex-direction: column;
-  gap: 10px;
-  margin-bottom: 32px;
+  gap: 6px;
+  margin-top: 4px;
 }
 
 .level-card {
   background: var(--card);
   border: 1px solid var(--border);
-  border-radius: 14px;
-  padding: 18px 20px;
+  border-radius: 12px;
+  padding: 13px 16px;
   display: flex;
   align-items: center;
-  gap: 16px;
+  gap: 12px;
   cursor: pointer;
   transition: all 0.18s;
   position: relative;
   overflow: hidden;
 }
-.level-card:hover { border-color: var(--accent); transform: translateX(4px); }
+.level-card:active { border-color: var(--accent); background: #23222f; }
 .level-card.locked { opacity: 0.45; cursor: default; }
-.level-card.locked:hover { transform: none; border-color: var(--border); }
 
 .level-num {
   font-family: 'Noto Serif JP', serif;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 900;
   color: var(--accent);
-  width: 36px;
+  width: 28px;
   text-align: center;
+  flex-shrink: 0;
 }
-.level-info { flex: 1; }
-.level-name { font-size: 15px; font-weight: 700; }
-.level-desc { font-size: 12px; color: var(--muted); margin-top: 2px; }
+.level-info { flex: 1; min-width: 0; }
+.level-name { font-size: 14px; font-weight: 700; }
+.level-desc { font-size: 11px; color: var(--muted); margin-top: 1px; }
 .level-badge {
-  font-size: 11px;
-  padding: 3px 10px;
+  font-size: 10px;
+  padding: 2px 8px;
   border-radius: 20px;
   font-weight: 700;
+  flex-shrink: 0;
 }
 .badge-free { background: rgba(76,168,107,0.2); color: #4ca86b; border: 1px solid rgba(76,168,107,0.3); }
 .badge-pro { background: rgba(201,168,76,0.15); color: var(--accent); border: 1px solid rgba(201,168,76,0.3); }
@@ -117,6 +137,15 @@ html, body {
   color: var(--muted);
 }
 .best-display span { color: var(--accent); font-weight: 700; font-family: 'Noto Serif JP', serif; }
+
+/* 섹션 라벨 */
+.section-label {
+  font-size: 10px;
+  letter-spacing: 2px;
+  color: var(--muted);
+  padding: 0 4px;
+  margin-top: 4px;
+}
 
 /* ── 게임 ── */
 #screen-game {
@@ -500,17 +529,15 @@ html, body {
 }
 .daily-card {
   width: 100%;
-  max-width: 360px;
   background: linear-gradient(135deg, #1a1a0f 0%, #1c1a10 100%);
   border: 1px solid rgba(201,168,76,0.4);
-  border-radius: 16px;
-  padding: 18px 20px;
+  border-radius: 12px;
+  padding: 14px 16px;
   display: flex;
   align-items: center;
-  gap: 16px;
+  gap: 12px;
   cursor: pointer;
   transition: all 0.18s;
-  margin-bottom: 12px;
   position: relative;
   overflow: hidden;
 }
@@ -521,49 +548,47 @@ html, body {
   height: 2px;
   background: linear-gradient(90deg, var(--accent), transparent);
 }
-.daily-card:hover { border-color: var(--accent); transform: translateX(4px); }
+.daily-card:active { border-color: var(--accent); }
 .daily-card.done { opacity: 0.5; cursor: default; }
-.daily-card.done:hover { transform: none; }
-.daily-icon { font-size: 28px; }
+.daily-icon { font-size: 22px; }
 .daily-info { flex: 1; }
-.daily-title { font-size: 15px; font-weight: 700; color: var(--accent); }
-.daily-desc { font-size: 12px; color: var(--muted); margin-top: 2px; }
+.daily-title { font-size: 13px; font-weight: 700; color: var(--accent); }
+.daily-desc { font-size: 11px; color: var(--muted); margin-top: 1px; }
 .daily-streak {
   font-family: 'Noto Serif JP', serif;
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 700;
   color: var(--accent);
+  text-align: center;
 }
 .streak-label { font-size: 9px; color: var(--muted); text-align: center; }
 
 /* 복습 카드 */
 .review-card {
   width: 100%;
-  max-width: 360px;
   background: var(--card);
-  border: 1px solid rgba(239,83,80,0.3);
-  border-radius: 14px;
-  padding: 14px 20px;
+  border: 1px solid rgba(239,83,80,0.25);
+  border-radius: 12px;
+  padding: 12px 16px;
   display: flex;
   align-items: center;
-  gap: 14px;
+  gap: 12px;
   cursor: pointer;
   transition: all 0.18s;
-  margin-bottom: 16px;
 }
-.review-card:hover { border-color: rgba(239,83,80,0.6); transform: translateX(4px); }
+.review-card:active { border-color: rgba(239,83,80,0.6); }
 .review-card.empty { opacity: 0.35; cursor: default; }
-.review-card.empty:hover { transform: none; }
 .review-count-badge {
-  background: rgba(239,83,80,0.2);
-  border: 1px solid rgba(239,83,80,0.4);
+  background: rgba(239,83,80,0.15);
+  border: 1px solid rgba(239,83,80,0.3);
   color: #ef5350;
   font-family: 'Noto Serif JP', serif;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 700;
-  width: 40px; height: 40px;
-  border-radius: 10px;
+  width: 34px; height: 34px;
+  border-radius: 8px;
   display: flex; align-items: center; justify-content: center;
+  flex-shrink: 0;
 }
 
 /* 게임 모드 태그 */
@@ -579,20 +604,11 @@ html, body {
 .tag-daily { background: rgba(201,168,76,0.2); color: var(--accent); }
 .tag-review { background: rgba(239,83,80,0.2); color: #ef5350; }
 
-/* 데일리 완료 배너 */
-.done-banner {
-  font-size: 12px;
-  color: var(--correct);
-  text-align: center;
-  padding: 8px;
-}
-
 /* 홈 하단 통계 */
 .home-stats-row {
   display: flex;
-  gap: 12px;
+  gap: 8px;
   width: 100%;
-  max-width: 360px;
   margin-top: 4px;
 }
 .home-stat {
@@ -600,12 +616,12 @@ html, body {
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: 10px;
-  padding: 10px;
+  padding: 10px 8px;
   text-align: center;
 }
 .home-stat-num {
   font-family: 'Noto Serif JP', serif;
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 700;
   color: var(--accent);
 }
@@ -616,89 +632,100 @@ html, body {
 
 <!-- ── 홈 ── -->
 <div id="screen-home" class="screen active">
-  <div class="home-logo">UNO_DEYA</div>
-  <div class="home-title">部首 SNAP</div>
-  <div class="home-sub">N2 단어 <strong style="color:var(--accent)">380개</strong> 기반 · 한자 부수 분류 게임</div>
 
-  <!-- 데일리 챌린지 -->
-  <div class="daily-card" id="daily-card" onclick="startDaily()">
-    <div class="daily-icon">☀️</div>
-    <div class="daily-info">
-      <div class="daily-title">오늘의 DAILY 5</div>
-      <div class="daily-desc" id="daily-desc">오늘의 한자 5개 · 매일 새로 출제</div>
-    </div>
-    <div>
-      <div class="daily-streak" id="streak-num">0</div>
-      <div class="streak-label">연속</div>
-    </div>
+  <!-- 헤더 -->
+  <div class="home-header">
+    <div class="home-logo">U N O _ D E Y A</div>
+    <div class="home-title">部首 SNAP</div>
+    <div class="home-sub">N2 단어 <strong style="color:var(--accent)">380개</strong> 기반 · 한자 부수 분류 게임</div>
   </div>
 
-  <!-- 오답 복습 -->
-  <div class="review-card" id="review-card" onclick="startReview()">
-    <div class="review-count-badge" id="review-count">0</div>
-    <div class="daily-info">
-      <div style="font-size:14px;font-weight:700;">오답 복습</div>
-      <div class="daily-desc" id="review-desc">틀린 한자가 없어요</div>
-    </div>
-    <div style="font-size:18px;color:var(--muted)">→</div>
-  </div>
+  <!-- 콘텐츠 -->
+  <div class="home-content">
 
-  <div class="level-list">
-    <div class="level-card" onclick="startGame(1)">
-      <div class="level-num">1</div>
-      <div class="level-info">
-        <div class="level-name">亻 vs 扌</div>
-        <div class="level-desc">사람인변 vs 손수변 · 45개 한자</div>
+    <!-- 데일리 + 복습 -->
+    <div class="daily-card" id="daily-card" onclick="startDaily()">
+      <div class="daily-icon">☀️</div>
+      <div class="daily-info">
+        <div class="daily-title">오늘의 DAILY 5</div>
+        <div class="daily-desc" id="daily-desc">매일 새로 출제</div>
       </div>
-      <div class="level-badge badge-free">FREE</div>
-    </div>
-    <div class="level-card" onclick="startGame(2)">
-      <div class="level-num">2</div>
-      <div class="level-info">
-        <div class="level-name">言 vs 忄</div>
-        <div class="level-desc">말씀언변 vs 마음심변 · 28개 한자</div>
+      <div>
+        <div class="daily-streak" id="streak-num">0</div>
+        <div class="streak-label">연속</div>
       </div>
-      <div class="level-badge badge-free">FREE</div>
     </div>
-    <div class="level-card" onclick="startGame(3)">
-      <div class="level-num">3</div>
-      <div class="level-info">
-        <div class="level-name">氵 vs 糸</div>
-        <div class="level-desc">삼수변 vs 실사변 · 28개 한자</div>
-      </div>
-      <div class="level-badge badge-free">FREE</div>
-    </div>
-    <div class="level-card" onclick="startGame(4)">
-      <div class="level-num">4</div>
-      <div class="level-info">
-        <div class="level-name">亻扌言忄 혼합</div>
-        <div class="level-desc">4개 부수 동시 분류 · 73개 한자</div>
-      </div>
-      <div class="level-badge badge-free">FREE</div>
-    </div>
-    <div class="level-card" onclick="startGame(5)">
-      <div class="level-num">∞</div>
-      <div class="level-info">
-        <div class="level-name">MASTER MODE</div>
-        <div class="level-desc">6개 부수 전체 · 101개 한자</div>
-      </div>
-      <div class="level-badge badge-free">FREE</div>
-    </div>
-  </div>
 
-  <div class="home-stats-row">
-    <div class="home-stat">
-      <div class="home-stat-num" id="best-display">—</div>
-      <div class="home-stat-label">최고기록</div>
+    <div class="review-card" id="review-card" onclick="startReview()">
+      <div class="review-count-badge" id="review-count">0</div>
+      <div class="daily-info">
+        <div style="font-size:13px;font-weight:700;">오답 복습</div>
+        <div class="daily-desc" id="review-desc">틀린 한자가 없어요</div>
+      </div>
+      <div style="font-size:16px;color:var(--muted)">→</div>
     </div>
-    <div class="home-stat">
-      <div class="home-stat-num" id="total-played">0</div>
-      <div class="home-stat-label">총 플레이</div>
+
+    <!-- 레벨 -->
+    <div class="section-label">LEVELS</div>
+    <div class="level-list">
+      <div class="level-card" onclick="startGame(1)">
+        <div class="level-num">1</div>
+        <div class="level-info">
+          <div class="level-name">亻 vs 扌</div>
+          <div class="level-desc">사람인변 vs 손수변 · 45개</div>
+        </div>
+        <div class="level-badge badge-free">FREE</div>
+      </div>
+      <div class="level-card" onclick="startGame(2)">
+        <div class="level-num">2</div>
+        <div class="level-info">
+          <div class="level-name">言 vs 忄</div>
+          <div class="level-desc">말씀언변 vs 마음심변 · 28개</div>
+        </div>
+        <div class="level-badge badge-free">FREE</div>
+      </div>
+      <div class="level-card" onclick="startGame(3)">
+        <div class="level-num">3</div>
+        <div class="level-info">
+          <div class="level-name">氵 vs 糸</div>
+          <div class="level-desc">삼수변 vs 실사변 · 28개</div>
+        </div>
+        <div class="level-badge badge-free">FREE</div>
+      </div>
+      <div class="level-card" onclick="startGame(4)">
+        <div class="level-num">4</div>
+        <div class="level-info">
+          <div class="level-name">亻扌言忄 혼합</div>
+          <div class="level-desc">4개 부수 동시 분류 · 73개</div>
+        </div>
+        <div class="level-badge badge-free">FREE</div>
+      </div>
+      <div class="level-card" onclick="startGame(5)" style="border-color:rgba(201,168,76,0.3);">
+        <div class="level-num">∞</div>
+        <div class="level-info">
+          <div class="level-name">MASTER MODE</div>
+          <div class="level-desc">6개 부수 전체 · 101개 한자</div>
+        </div>
+        <div class="level-badge badge-free">FREE</div>
+      </div>
     </div>
-    <div class="home-stat">
-      <div class="home-stat-num" id="accuracy-display">—</div>
-      <div class="home-stat-label">정답률</div>
+
+    <!-- 통계 -->
+    <div class="home-stats-row">
+      <div class="home-stat">
+        <div class="home-stat-num" id="best-display">—</div>
+        <div class="home-stat-label">최고기록</div>
+      </div>
+      <div class="home-stat">
+        <div class="home-stat-num" id="total-played">0</div>
+        <div class="home-stat-label">총 플레이</div>
+      </div>
+      <div class="home-stat">
+        <div class="home-stat-num" id="accuracy-display">—</div>
+        <div class="home-stat-label">정답률</div>
+      </div>
     </div>
+
   </div>
 </div>
 
