@@ -637,7 +637,7 @@ html, body {
   <div class="home-header">
     <div class="home-logo">U N O _ D E Y A</div>
     <div class="home-title">部首 SNAP</div>
-    <div class="home-sub">N2 단어 <strong style="color:var(--accent)">380개</strong> 기반 · 한자 부수 분류 게임</div>
+    <div class="home-sub">N2 단어 <strong style="color:var(--accent)" id="word-count">—</strong>개 기반 · 한자 부수 분류 게임</div>
     <button onclick="toggleSound()" id="sound-btn-home"
       style="margin-top:10px;background:var(--card);border:1px solid var(--border);border-radius:20px;padding:6px 16px;font-size:12px;color:var(--text);cursor:pointer;letter-spacing:1px;">
       🔊 SOUND ON
@@ -844,7 +844,11 @@ let LEVELS = {};
 async function loadKanjiData() {
   try {
     const res = await fetch('kanji.json');
-    LEVELS = await res.json();
+    const data = await res.json();
+    LEVELS = data.levels;
+    // 총 단어 수 표시
+    const el = document.getElementById('word-count');
+    if (el && data.total_words) el.textContent = data.total_words;
     console.log('kanji.json 로드 완료');
   } catch(e) {
     console.error('kanji.json 로드 실패:', e);
