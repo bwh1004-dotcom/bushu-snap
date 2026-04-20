@@ -1,5 +1,5 @@
 {
-  "total_words": 400,
+  "total_words": 420,
   "levels": {
     "1": {
       "radicals": [
@@ -904,6 +904,15 @@
           "word": "続編",
           "word_reading": "ぞくへん",
           "word_meaning": "속편, 이어지는 편"
+        },
+        {
+          "char": "消",
+          "radical": "氵",
+          "component": "月",
+          "meaning": "취소하다, 철회하다",
+          "word": "取り消す",
+          "word_reading": "とりけす",
+          "word_meaning": "취소하다, 철회하다"
         }
       ]
     },
@@ -1819,6 +1828,15 @@
           "word": "警告",
           "word_reading": "けいこく",
           "word_meaning": "경고, 위험을 미리 알림"
+        },
+        {
+          "char": "消",
+          "radical": "氵",
+          "component": "月",
+          "meaning": "취소하다, 철회하다",
+          "word": "取り消す",
+          "word_reading": "とりけす",
+          "word_meaning": "취소하다, 철회하다"
         }
       ]
     }
