@@ -1,5 +1,5 @@
 {
-  "total_words": 420,
+  "total_words": 440,
   "levels": {
     "1": {
       "radicals": [
@@ -405,6 +405,15 @@
           "word": "拭う",
           "word_reading": "ぬぐう",
           "word_meaning": "닦다, 닦아내다, 씻어내다"
+        },
+        {
+          "char": "投",
+          "radical": "扌",
+          "component": "殳",
+          "meaning": "의기투합, 서로 마음이 딱 맞음",
+          "word": "意気投合",
+          "word_reading": "いきとうごう",
+          "word_meaning": "의기투합, 서로 마음이 딱 맞음"
         }
       ]
     },
@@ -1583,6 +1592,15 @@
           "word": "戦慄",
           "word_reading": "せんりつ",
           "word_meaning": "전율, 두려움으로 몸이 떨림"
+        },
+        {
+          "char": "投",
+          "radical": "扌",
+          "component": "殳",
+          "meaning": "의기투합, 서로 마음이 딱 맞음",
+          "word": "意気投合",
+          "word_reading": "いきとうごう",
+          "word_meaning": "의기투합, 서로 마음이 딱 맞음"
         }
       ]
     },
