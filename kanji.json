@@ -1,5 +1,5 @@
 {
-  "total_words": 440,
+  "total_words": 460,
   "levels": {
     "1": {
       "radicals": [
@@ -677,6 +677,42 @@
           "word": "戦慄",
           "word_reading": "せんりつ",
           "word_meaning": "전율, 두려움으로 몸이 떨림"
+        },
+        {
+          "char": "講",
+          "radical": "言",
+          "component": "冂",
+          "meaning": "강의, 학문을 가르침",
+          "word": "講義",
+          "word_reading": "こうぎ",
+          "word_meaning": "강의, 학문을 가르침"
+        },
+        {
+          "char": "論",
+          "radical": "言",
+          "component": "｜",
+          "meaning": "언쟁, 말다툼",
+          "word": "口論",
+          "word_reading": "こうろん",
+          "word_meaning": "언쟁, 말다툼"
+        },
+        {
+          "char": "誇",
+          "radical": "言",
+          "component": "大",
+          "meaning": "과장, 사실보다 크게 부풀림",
+          "word": "誇張",
+          "word_reading": "こちょう",
+          "word_meaning": "과장, 사실보다 크게 부풀림"
+        },
+        {
+          "char": "性",
+          "radical": "忄",
+          "component": "生",
+          "meaning": "본성, 출신, 신원",
+          "word": "素性",
+          "word_reading": "すじょう",
+          "word_meaning": "본성, 출신, 신원"
         }
       ]
     },
@@ -922,6 +958,15 @@
           "word": "取り消す",
           "word_reading": "とりけす",
           "word_meaning": "취소하다, 철회하다"
+        },
+        {
+          "char": "活",
+          "radical": "氵",
+          "component": "ノ",
+          "meaning": "활기, 생기, 힘차고 활발한 기운",
+          "word": "活気",
+          "word_reading": "かっき",
+          "word_meaning": "활기, 생기, 힘차고 활발한 기운"
         }
       ]
     },
@@ -1248,6 +1293,33 @@
           "word": "警告",
           "word_reading": "けいこく",
           "word_meaning": "경고, 위험을 미리 알림"
+        },
+        {
+          "char": "講",
+          "radical": "言",
+          "component": "冂",
+          "meaning": "강의, 학문을 가르침",
+          "word": "講義",
+          "word_reading": "こうぎ",
+          "word_meaning": "강의, 학문을 가르침"
+        },
+        {
+          "char": "論",
+          "radical": "言",
+          "component": "｜",
+          "meaning": "언쟁, 말다툼",
+          "word": "口論",
+          "word_reading": "こうろん",
+          "word_meaning": "언쟁, 말다툼"
+        },
+        {
+          "char": "誇",
+          "radical": "言",
+          "component": "大",
+          "meaning": "과장, 사실보다 크게 부풀림",
+          "word": "誇張",
+          "word_reading": "こちょう",
+          "word_meaning": "과장, 사실보다 크게 부풀림"
         }
       ]
     },
@@ -1601,6 +1673,15 @@
           "word": "意気投合",
           "word_reading": "いきとうごう",
           "word_meaning": "의기투합, 서로 마음이 딱 맞음"
+        },
+        {
+          "char": "性",
+          "radical": "忄",
+          "component": "生",
+          "meaning": "본성, 출신, 신원",
+          "word": "素性",
+          "word_reading": "すじょう",
+          "word_meaning": "본성, 출신, 신원"
         }
       ]
     },
@@ -1855,6 +1936,42 @@
           "word": "取り消す",
           "word_reading": "とりけす",
           "word_meaning": "취소하다, 철회하다"
+        },
+        {
+          "char": "活",
+          "radical": "氵",
+          "component": "ノ",
+          "meaning": "활기, 생기, 힘차고 활발한 기운",
+          "word": "活気",
+          "word_reading": "かっき",
+          "word_meaning": "활기, 생기, 힘차고 활발한 기운"
+        },
+        {
+          "char": "講",
+          "radical": "言",
+          "component": "冂",
+          "meaning": "강의, 학문을 가르침",
+          "word": "講義",
+          "word_reading": "こうぎ",
+          "word_meaning": "강의, 학문을 가르침"
+        },
+        {
+          "char": "論",
+          "radical": "言",
+          "component": "｜",
+          "meaning": "언쟁, 말다툼",
+          "word": "口論",
+          "word_reading": "こうろん",
+          "word_meaning": "언쟁, 말다툼"
+        },
+        {
+          "char": "誇",
+          "radical": "言",
+          "component": "大",
+          "meaning": "과장, 사실보다 크게 부풀림",
+          "word": "誇張",
+          "word_reading": "こちょう",
+          "word_meaning": "과장, 사실보다 크게 부풀림"
         }
       ]
     }
