@@ -1,5 +1,5 @@
 {
-  "total_words": 460,
+  "total_words": 480,
   "levels": {
     "1": {
       "radicals": [
@@ -414,6 +414,33 @@
           "word": "意気投合",
           "word_reading": "いきとうごう",
           "word_meaning": "의기투합, 서로 마음이 딱 맞음"
+        },
+        {
+          "char": "件",
+          "radical": "亻",
+          "component": "牛",
+          "meaning": "용건, 볼일, 용무",
+          "word": "用件",
+          "word_reading": "ようけん",
+          "word_meaning": "용건, 볼일, 용무"
+        },
+        {
+          "char": "信",
+          "radical": "亻",
+          "component": "言",
+          "meaning": "신빙성, 믿을 만한 정도",
+          "word": "信憑性",
+          "word_reading": "しんぴょうせい",
+          "word_meaning": "신빙성, 믿을 만한 정도"
+        },
+        {
+          "char": "他",
+          "radical": "亻",
+          "component": "也",
+          "meaning": "(비밀을) 타인에게 말함, 누설",
+          "word": "他言",
+          "word_reading": "たごん",
+          "word_meaning": "(비밀을) 타인에게 말함, 누설"
         }
       ]
     },
@@ -713,6 +740,15 @@
           "word": "素性",
           "word_reading": "すじょう",
           "word_meaning": "본성, 출신, 신원"
+        },
+        {
+          "char": "謬",
+          "radical": "言",
+          "component": "翏",
+          "meaning": "오류, 잘못된 판단·추론",
+          "word": "誤謬",
+          "word_reading": "ごびゅう",
+          "word_meaning": "오류, 잘못된 판단·추론"
         }
       ]
     },
@@ -1320,6 +1356,42 @@
           "word": "誇張",
           "word_reading": "こちょう",
           "word_meaning": "과장, 사실보다 크게 부풀림"
+        },
+        {
+          "char": "件",
+          "radical": "亻",
+          "component": "牛",
+          "meaning": "용건, 볼일, 용무",
+          "word": "用件",
+          "word_reading": "ようけん",
+          "word_meaning": "용건, 볼일, 용무"
+        },
+        {
+          "char": "謬",
+          "radical": "言",
+          "component": "翏",
+          "meaning": "오류, 잘못된 판단·추론",
+          "word": "誤謬",
+          "word_reading": "ごびゅう",
+          "word_meaning": "오류, 잘못된 판단·추론"
+        },
+        {
+          "char": "信",
+          "radical": "亻",
+          "component": "言",
+          "meaning": "신빙성, 믿을 만한 정도",
+          "word": "信憑性",
+          "word_reading": "しんぴょうせい",
+          "word_meaning": "신빙성, 믿을 만한 정도"
+        },
+        {
+          "char": "他",
+          "radical": "亻",
+          "component": "也",
+          "meaning": "(비밀을) 타인에게 말함, 누설",
+          "word": "他言",
+          "word_reading": "たごん",
+          "word_meaning": "(비밀을) 타인에게 말함, 누설"
         }
       ]
     },
@@ -1972,6 +2044,15 @@
           "word": "誇張",
           "word_reading": "こちょう",
           "word_meaning": "과장, 사실보다 크게 부풀림"
+        },
+        {
+          "char": "謬",
+          "radical": "言",
+          "component": "翏",
+          "meaning": "오류, 잘못된 판단·추론",
+          "word": "誤謬",
+          "word_reading": "ごびゅう",
+          "word_meaning": "오류, 잘못된 판단·추론"
         }
       ]
     }
