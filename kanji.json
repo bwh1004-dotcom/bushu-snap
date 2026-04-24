@@ -1,5 +1,5 @@
 {
-  "total_words": 480,
+  "total_words": 500,
   "levels": {
     "1": {
       "radicals": [
@@ -749,6 +749,15 @@
           "word": "誤謬",
           "word_reading": "ごびゅう",
           "word_meaning": "오류, 잘못된 판단·추론"
+        },
+        {
+          "char": "謎",
+          "radical": "言",
+          "component": "辶",
+          "meaning": "수수께끼, 미스터리, 불가사의",
+          "word": "謎",
+          "word_reading": "なぞ",
+          "word_meaning": "수수께끼, 미스터리, 불가사의"
         }
       ]
     },
@@ -1003,6 +1012,24 @@
           "word": "活気",
           "word_reading": "かっき",
           "word_meaning": "활기, 생기, 힘차고 활발한 기운"
+        },
+        {
+          "char": "染",
+          "radical": "氵",
+          "component": "九",
+          "meaning": "얼룩, 때, 기미",
+          "word": "染み",
+          "word_reading": "しみ",
+          "word_meaning": "얼룩, 때, 기미"
+        },
+        {
+          "char": "泥",
+          "radical": "氵",
+          "component": "匕",
+          "meaning": "진흙, 흙탕물",
+          "word": "泥",
+          "word_reading": "どろ",
+          "word_meaning": "진흙, 흙탕물"
         }
       ]
     },
@@ -1392,6 +1419,15 @@
           "word": "他言",
           "word_reading": "たごん",
           "word_meaning": "(비밀을) 타인에게 말함, 누설"
+        },
+        {
+          "char": "謎",
+          "radical": "言",
+          "component": "辶",
+          "meaning": "수수께끼, 미스터리, 불가사의",
+          "word": "謎",
+          "word_reading": "なぞ",
+          "word_meaning": "수수께끼, 미스터리, 불가사의"
         }
       ]
     },
@@ -2053,6 +2089,33 @@
           "word": "誤謬",
           "word_reading": "ごびゅう",
           "word_meaning": "오류, 잘못된 판단·추론"
+        },
+        {
+          "char": "染",
+          "radical": "氵",
+          "component": "九",
+          "meaning": "얼룩, 때, 기미",
+          "word": "染み",
+          "word_reading": "しみ",
+          "word_meaning": "얼룩, 때, 기미"
+        },
+        {
+          "char": "泥",
+          "radical": "氵",
+          "component": "匕",
+          "meaning": "진흙, 흙탕물",
+          "word": "泥",
+          "word_reading": "どろ",
+          "word_meaning": "진흙, 흙탕물"
+        },
+        {
+          "char": "謎",
+          "radical": "言",
+          "component": "辶",
+          "meaning": "수수께끼, 미스터리, 불가사의",
+          "word": "謎",
+          "word_reading": "なぞ",
+          "word_meaning": "수수께끼, 미스터리, 불가사의"
         }
       ]
     }
