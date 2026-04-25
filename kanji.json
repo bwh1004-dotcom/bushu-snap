@@ -1,5 +1,5 @@
 {
-  "total_words": 500,
+  "total_words": 520,
   "levels": {
     "1": {
       "radicals": [
@@ -441,6 +441,24 @@
           "word": "他言",
           "word_reading": "たごん",
           "word_meaning": "(비밀을) 타인에게 말함, 누설"
+        },
+        {
+          "char": "掛",
+          "radical": "扌",
+          "component": "圭",
+          "meaning": "기대어 세워놓다",
+          "word": "立て掛ける",
+          "word_reading": "たてかける",
+          "word_meaning": "기대어 세워놓다"
+        },
+        {
+          "char": "何",
+          "radical": "亻",
+          "component": "口",
+          "meaning": "무심한 듯하다, 아무렇지 않다, 자연스럽다",
+          "word": "何気ない",
+          "word_reading": "なにげない",
+          "word_meaning": "무심한 듯하다, 아무렇지 않다, 자연스럽다"
         }
       ]
     },
@@ -1030,6 +1048,15 @@
           "word": "泥",
           "word_reading": "どろ",
           "word_meaning": "진흙, 흙탕물"
+        },
+        {
+          "char": "繋",
+          "radical": "糸",
+          "component": "系",
+          "meaning": "연결하다, 잇다, 묶다",
+          "word": "繋ぐ",
+          "word_reading": "つなぐ",
+          "word_meaning": "연결하다, 잇다, 묶다"
         }
       ]
     },
@@ -1428,6 +1455,15 @@
           "word": "謎",
           "word_reading": "なぞ",
           "word_meaning": "수수께끼, 미스터리, 불가사의"
+        },
+        {
+          "char": "何",
+          "radical": "亻",
+          "component": "口",
+          "meaning": "무심한 듯하다, 아무렇지 않다, 자연스럽다",
+          "word": "何気ない",
+          "word_reading": "なにげない",
+          "word_meaning": "무심한 듯하다, 아무렇지 않다, 자연스럽다"
         }
       ]
     },
@@ -1790,6 +1826,15 @@
           "word": "素性",
           "word_reading": "すじょう",
           "word_meaning": "본성, 출신, 신원"
+        },
+        {
+          "char": "掛",
+          "radical": "扌",
+          "component": "圭",
+          "meaning": "기대어 세워놓다",
+          "word": "立て掛ける",
+          "word_reading": "たてかける",
+          "word_meaning": "기대어 세워놓다"
         }
       ]
     },
