@@ -1,5 +1,5 @@
 {
-  "total_words": 520,
+  "total_words": 540,
   "levels": {
     "1": {
       "radicals": [
@@ -459,6 +459,15 @@
           "word": "何気ない",
           "word_reading": "なにげない",
           "word_meaning": "무심한 듯하다, 아무렇지 않다, 자연스럽다"
+        },
+        {
+          "char": "体",
+          "radical": "亻",
+          "component": "木",
+          "meaning": "일심동체, 마음과 몸이 하나",
+          "word": "一心同体",
+          "word_reading": "いっしんどうたい",
+          "word_meaning": "일심동체, 마음과 몸이 하나"
         }
       ]
     },
@@ -1464,6 +1473,15 @@
           "word": "何気ない",
           "word_reading": "なにげない",
           "word_meaning": "무심한 듯하다, 아무렇지 않다, 자연스럽다"
+        },
+        {
+          "char": "体",
+          "radical": "亻",
+          "component": "木",
+          "meaning": "일심동체, 마음과 몸이 하나",
+          "word": "一心同体",
+          "word_reading": "いっしんどうたい",
+          "word_meaning": "일심동체, 마음과 몸이 하나"
         }
       ]
     },
