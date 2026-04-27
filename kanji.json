@@ -1,5 +1,5 @@
 {
-  "total_words": 540,
+  "total_words": 560,
   "levels": {
     "1": {
       "radicals": [
@@ -468,6 +468,15 @@
           "word": "一心同体",
           "word_reading": "いっしんどうたい",
           "word_meaning": "일심동체, 마음과 몸이 하나"
+        },
+        {
+          "char": "符",
+          "radical": "亻",
+          "component": "寸",
+          "meaning": "물음표, 의문부호(?)",
+          "word": "疑問符",
+          "word_reading": "ぎもんふ",
+          "word_meaning": "물음표, 의문부호(?)"
         }
       ]
     },
@@ -1482,6 +1491,15 @@
           "word": "一心同体",
           "word_reading": "いっしんどうたい",
           "word_meaning": "일심동체, 마음과 몸이 하나"
+        },
+        {
+          "char": "符",
+          "radical": "亻",
+          "component": "寸",
+          "meaning": "물음표, 의문부호(?)",
+          "word": "疑問符",
+          "word_reading": "ぎもんふ",
+          "word_meaning": "물음표, 의문부호(?)"
         }
       ]
     },
