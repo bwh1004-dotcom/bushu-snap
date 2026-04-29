@@ -1,5 +1,5 @@
 {
-  "total_words": 580,
+  "total_words": 600,
   "levels": {
     "1": {
       "radicals": [
@@ -477,6 +477,15 @@
           "word": "疑問符",
           "word_reading": "ぎもんふ",
           "word_meaning": "물음표, 의문부호(?)"
+        },
+        {
+          "char": "侮",
+          "radical": "亻",
+          "component": "每",
+          "meaning": "모멸, 업신여김, 경멸",
+          "word": "侮蔑",
+          "word_reading": "ぶべつ",
+          "word_meaning": "모멸, 업신여김, 경멸"
         }
       ]
     },
@@ -1075,6 +1084,33 @@
           "word": "繋ぐ",
           "word_reading": "つなぐ",
           "word_meaning": "연결하다, 잇다, 묶다"
+        },
+        {
+          "char": "潮",
+          "radical": "氵",
+          "component": "朝",
+          "meaning": "퇴조, 기운·세력이 약해짐",
+          "word": "退潮",
+          "word_reading": "たいちょう",
+          "word_meaning": "퇴조, 기운·세력이 약해짐"
+        },
+        {
+          "char": "緒",
+          "radical": "糸",
+          "component": "者",
+          "meaning": "유서, 옛날부터 전해 내려오는 내력",
+          "word": "由緒",
+          "word_reading": "ゆいしょ",
+          "word_meaning": "유서, 옛날부터 전해 내려오는 내력"
+        },
+        {
+          "char": "源",
+          "radical": "氵",
+          "component": "小",
+          "meaning": "원천, 근원, 시작점",
+          "word": "源",
+          "word_reading": "みなもと",
+          "word_meaning": "원천, 근원, 시작점"
         }
       ]
     },
@@ -1500,6 +1536,15 @@
           "word": "疑問符",
           "word_reading": "ぎもんふ",
           "word_meaning": "물음표, 의문부호(?)"
+        },
+        {
+          "char": "侮",
+          "radical": "亻",
+          "component": "每",
+          "meaning": "모멸, 업신여김, 경멸",
+          "word": "侮蔑",
+          "word_reading": "ぶべつ",
+          "word_meaning": "모멸, 업신여김, 경멸"
         }
       ]
     },
@@ -2197,6 +2242,24 @@
           "word": "謎",
           "word_reading": "なぞ",
           "word_meaning": "수수께끼, 미스터리, 불가사의"
+        },
+        {
+          "char": "潮",
+          "radical": "氵",
+          "component": "朝",
+          "meaning": "퇴조, 기운·세력이 약해짐",
+          "word": "退潮",
+          "word_reading": "たいちょう",
+          "word_meaning": "퇴조, 기운·세력이 약해짐"
+        },
+        {
+          "char": "源",
+          "radical": "氵",
+          "component": "小",
+          "meaning": "원천, 근원, 시작점",
+          "word": "源",
+          "word_reading": "みなもと",
+          "word_meaning": "원천, 근원, 시작점"
         }
       ]
     }
