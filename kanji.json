@@ -1,5 +1,5 @@
 {
-  "total_words": 600,
+  "total_words": 640,
   "levels": {
     "1": {
       "radicals": [
@@ -486,6 +486,24 @@
           "word": "侮蔑",
           "word_reading": "ぶべつ",
           "word_meaning": "모멸, 업신여김, 경멸"
+        },
+        {
+          "char": "傾",
+          "radical": "亻",
+          "component": "頃",
+          "meaning": "기울다, 기울어지다, 쏠리다",
+          "word": "傾く",
+          "word_reading": "かたむく",
+          "word_meaning": "기울다, 기울어지다, 쏠리다"
+        },
+        {
+          "char": "偶",
+          "radical": "亻",
+          "component": "田",
+          "meaning": "우연히, 우연",
+          "word": "偶然",
+          "word_reading": "ぐうぜん",
+          "word_meaning": "우연히, 우연"
         }
       ]
     },
@@ -803,6 +821,24 @@
           "word": "謎",
           "word_reading": "なぞ",
           "word_meaning": "수수께끼, 미스터리, 불가사의"
+        },
+        {
+          "char": "誘",
+          "radical": "言",
+          "component": "秀",
+          "meaning": "(함께하자고) 권하다, 유혹하다, 불러내다",
+          "word": "誘う",
+          "word_reading": "さそう",
+          "word_meaning": "(함께하자고) 권하다, 유혹하다, 불러내다"
+        },
+        {
+          "char": "惜",
+          "radical": "忄",
+          "component": "｜",
+          "meaning": "아깝다, 아쉽다",
+          "word": "惜しい",
+          "word_reading": "おしい",
+          "word_meaning": "아깝다, 아쉽다"
         }
       ]
     },
@@ -1111,6 +1147,24 @@
           "word": "源",
           "word_reading": "みなもと",
           "word_meaning": "원천, 근원, 시작점"
+        },
+        {
+          "char": "潰",
+          "radical": "氵",
+          "component": "貝",
+          "meaning": "으깨다, 눌러 부수다",
+          "word": "押し潰す",
+          "word_reading": "おしつぶす",
+          "word_meaning": "으깨다, 눌러 부수다"
+        },
+        {
+          "char": "継",
+          "radical": "糸",
+          "component": "｜",
+          "meaning": "이어받다, 인계받다",
+          "word": "引き継ぐ",
+          "word_reading": "ひきつぐ",
+          "word_meaning": "이어받다, 인계받다"
         }
       ]
     },
@@ -1545,6 +1599,33 @@
           "word": "侮蔑",
           "word_reading": "ぶべつ",
           "word_meaning": "모멸, 업신여김, 경멸"
+        },
+        {
+          "char": "傾",
+          "radical": "亻",
+          "component": "頃",
+          "meaning": "기울다, 기울어지다, 쏠리다",
+          "word": "傾く",
+          "word_reading": "かたむく",
+          "word_meaning": "기울다, 기울어지다, 쏠리다"
+        },
+        {
+          "char": "誘",
+          "radical": "言",
+          "component": "秀",
+          "meaning": "(함께하자고) 권하다, 유혹하다, 불러내다",
+          "word": "誘う",
+          "word_reading": "さそう",
+          "word_meaning": "(함께하자고) 권하다, 유혹하다, 불러내다"
+        },
+        {
+          "char": "偶",
+          "radical": "亻",
+          "component": "田",
+          "meaning": "우연히, 우연",
+          "word": "偶然",
+          "word_reading": "ぐうぜん",
+          "word_meaning": "우연히, 우연"
         }
       ]
     },
@@ -1916,6 +1997,15 @@
           "word": "立て掛ける",
           "word_reading": "たてかける",
           "word_meaning": "기대어 세워놓다"
+        },
+        {
+          "char": "惜",
+          "radical": "忄",
+          "component": "｜",
+          "meaning": "아깝다, 아쉽다",
+          "word": "惜しい",
+          "word_reading": "おしい",
+          "word_meaning": "아깝다, 아쉽다"
         }
       ]
     },
@@ -2260,6 +2350,24 @@
           "word": "源",
           "word_reading": "みなもと",
           "word_meaning": "원천, 근원, 시작점"
+        },
+        {
+          "char": "誘",
+          "radical": "言",
+          "component": "秀",
+          "meaning": "(함께하자고) 권하다, 유혹하다, 불러내다",
+          "word": "誘う",
+          "word_reading": "さそう",
+          "word_meaning": "(함께하자고) 권하다, 유혹하다, 불러내다"
+        },
+        {
+          "char": "潰",
+          "radical": "氵",
+          "component": "貝",
+          "meaning": "으깨다, 눌러 부수다",
+          "word": "押し潰す",
+          "word_reading": "おしつぶす",
+          "word_meaning": "으깨다, 눌러 부수다"
         }
       ]
     }
