@@ -1,5 +1,5 @@
 {
-  "total_words": 660,
+  "total_words": 680,
   "levels": {
     "1": {
       "radicals": [
@@ -504,6 +504,15 @@
           "word": "偶然",
           "word_reading": "ぐうぜん",
           "word_meaning": "우연히, 우연"
+        },
+        {
+          "char": "批",
+          "radical": "扌",
+          "component": "比",
+          "meaning": "비평, 잘잘못을 따져 평가함",
+          "word": "批評",
+          "word_reading": "ひひょう",
+          "word_meaning": "비평, 잘잘못을 따져 평가함"
         }
       ]
     },
@@ -839,6 +848,33 @@
           "word": "惜しい",
           "word_reading": "おしい",
           "word_meaning": "아깝다, 아쉽다"
+        },
+        {
+          "char": "訂",
+          "radical": "言",
+          "component": "丁",
+          "meaning": "정정, 잘못된 것을 바로잡음",
+          "word": "訂正",
+          "word_reading": "ていせい",
+          "word_meaning": "정정, 잘못된 것을 바로잡음"
+        },
+        {
+          "char": "討",
+          "radical": "言",
+          "component": "寸",
+          "meaning": "토론, 서로 논의함",
+          "word": "討論",
+          "word_reading": "とうろん",
+          "word_meaning": "토론, 서로 논의함"
+        },
+        {
+          "char": "評",
+          "radical": "言",
+          "component": "｜",
+          "meaning": "비평, 잘잘못을 따져 평가함",
+          "word": "批評",
+          "word_reading": "ひひょう",
+          "word_meaning": "비평, 잘잘못을 따져 평가함"
         }
       ]
     },
@@ -1165,6 +1201,24 @@
           "word": "引き継ぐ",
           "word_reading": "ひきつぐ",
           "word_meaning": "이어받다, 인계받다"
+        },
+        {
+          "char": "決",
+          "radical": "氵",
+          "component": "人",
+          "meaning": "다수결, 다수의 의견으로 결정함",
+          "word": "多数決",
+          "word_reading": "たすうけつ",
+          "word_meaning": "다수결, 다수의 의견으로 결정함"
+        },
+        {
+          "char": "納",
+          "radical": "糸",
+          "component": "幺",
+          "meaning": "납득, 충분히 이해하고 승복함",
+          "word": "納得",
+          "word_reading": "なっとく",
+          "word_meaning": "납득, 충분히 이해하고 승복함"
         }
       ]
     },
@@ -1626,6 +1680,33 @@
           "word": "偶然",
           "word_reading": "ぐうぜん",
           "word_meaning": "우연히, 우연"
+        },
+        {
+          "char": "訂",
+          "radical": "言",
+          "component": "丁",
+          "meaning": "정정, 잘못된 것을 바로잡음",
+          "word": "訂正",
+          "word_reading": "ていせい",
+          "word_meaning": "정정, 잘못된 것을 바로잡음"
+        },
+        {
+          "char": "討",
+          "radical": "言",
+          "component": "寸",
+          "meaning": "토론, 서로 논의함",
+          "word": "討論",
+          "word_reading": "とうろん",
+          "word_meaning": "토론, 서로 논의함"
+        },
+        {
+          "char": "評",
+          "radical": "言",
+          "component": "｜",
+          "meaning": "비평, 잘잘못을 따져 평가함",
+          "word": "批評",
+          "word_reading": "ひひょう",
+          "word_meaning": "비평, 잘잘못을 따져 평가함"
         }
       ]
     },
@@ -2006,6 +2087,15 @@
           "word": "惜しい",
           "word_reading": "おしい",
           "word_meaning": "아깝다, 아쉽다"
+        },
+        {
+          "char": "批",
+          "radical": "扌",
+          "component": "比",
+          "meaning": "비평, 잘잘못을 따져 평가함",
+          "word": "批評",
+          "word_reading": "ひひょう",
+          "word_meaning": "비평, 잘잘못을 따져 평가함"
         }
       ]
     },
@@ -2368,6 +2458,42 @@
           "word": "押し潰す",
           "word_reading": "おしつぶす",
           "word_meaning": "으깨다, 눌러 부수다"
+        },
+        {
+          "char": "決",
+          "radical": "氵",
+          "component": "人",
+          "meaning": "다수결, 다수의 의견으로 결정함",
+          "word": "多数決",
+          "word_reading": "たすうけつ",
+          "word_meaning": "다수결, 다수의 의견으로 결정함"
+        },
+        {
+          "char": "訂",
+          "radical": "言",
+          "component": "丁",
+          "meaning": "정정, 잘못된 것을 바로잡음",
+          "word": "訂正",
+          "word_reading": "ていせい",
+          "word_meaning": "정정, 잘못된 것을 바로잡음"
+        },
+        {
+          "char": "討",
+          "radical": "言",
+          "component": "寸",
+          "meaning": "토론, 서로 논의함",
+          "word": "討論",
+          "word_reading": "とうろん",
+          "word_meaning": "토론, 서로 논의함"
+        },
+        {
+          "char": "評",
+          "radical": "言",
+          "component": "｜",
+          "meaning": "비평, 잘잘못을 따져 평가함",
+          "word": "批評",
+          "word_reading": "ひひょう",
+          "word_meaning": "비평, 잘잘못을 따져 평가함"
         }
       ]
     }
