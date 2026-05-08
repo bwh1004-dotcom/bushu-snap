@@ -1,5 +1,5 @@
 {
-  "total_words": 680,
+  "total_words": 700,
   "levels": {
     "1": {
       "radicals": [
@@ -513,6 +513,24 @@
           "word": "批評",
           "word_reading": "ひひょう",
           "word_meaning": "비평, 잘잘못을 따져 평가함"
+        },
+        {
+          "char": "振",
+          "radical": "扌",
+          "component": "衣",
+          "meaning": "부진, 활기가 없고 성적이 좋지 않음",
+          "word": "不振",
+          "word_reading": "ふしん",
+          "word_meaning": "부진, 활기가 없고 성적이 좋지 않음"
+        },
+        {
+          "char": "換",
+          "radical": "扌",
+          "component": "奐",
+          "meaning": "변환, 다른 형태로 바꿈",
+          "word": "変換",
+          "word_reading": "へんかん",
+          "word_meaning": "변환, 다른 형태로 바꿈"
         }
       ]
     },
@@ -875,6 +893,15 @@
           "word": "批評",
           "word_reading": "ひひょう",
           "word_meaning": "비평, 잘잘못을 따져 평가함"
+        },
+        {
+          "char": "詣",
+          "radical": "言",
+          "component": "旨",
+          "meaning": "조예, 학문이나 예술의 깊은 이해와 지식",
+          "word": "造詣",
+          "word_reading": "ぞうけい",
+          "word_meaning": "조예, 학문이나 예술의 깊은 이해와 지식"
         }
       ]
     },
@@ -1707,6 +1734,15 @@
           "word": "批評",
           "word_reading": "ひひょう",
           "word_meaning": "비평, 잘잘못을 따져 평가함"
+        },
+        {
+          "char": "詣",
+          "radical": "言",
+          "component": "旨",
+          "meaning": "조예, 학문이나 예술의 깊은 이해와 지식",
+          "word": "造詣",
+          "word_reading": "ぞうけい",
+          "word_meaning": "조예, 학문이나 예술의 깊은 이해와 지식"
         }
       ]
     },
@@ -2096,6 +2132,24 @@
           "word": "批評",
           "word_reading": "ひひょう",
           "word_meaning": "비평, 잘잘못을 따져 평가함"
+        },
+        {
+          "char": "振",
+          "radical": "扌",
+          "component": "衣",
+          "meaning": "부진, 활기가 없고 성적이 좋지 않음",
+          "word": "不振",
+          "word_reading": "ふしん",
+          "word_meaning": "부진, 활기가 없고 성적이 좋지 않음"
+        },
+        {
+          "char": "換",
+          "radical": "扌",
+          "component": "奐",
+          "meaning": "변환, 다른 형태로 바꿈",
+          "word": "変換",
+          "word_reading": "へんかん",
+          "word_meaning": "변환, 다른 형태로 바꿈"
         }
       ]
     },
@@ -2494,6 +2548,15 @@
           "word": "批評",
           "word_reading": "ひひょう",
           "word_meaning": "비평, 잘잘못을 따져 평가함"
+        },
+        {
+          "char": "詣",
+          "radical": "言",
+          "component": "旨",
+          "meaning": "조예, 학문이나 예술의 깊은 이해와 지식",
+          "word": "造詣",
+          "word_reading": "ぞうけい",
+          "word_meaning": "조예, 학문이나 예술의 깊은 이해와 지식"
         }
       ]
     }
