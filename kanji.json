@@ -1,5 +1,5 @@
 {
-  "total_words": 700,
+  "total_words": 720,
   "levels": {
     "1": {
       "radicals": [
@@ -1246,6 +1246,15 @@
           "word": "納得",
           "word_reading": "なっとく",
           "word_meaning": "납득, 충분히 이해하고 승복함"
+        },
+        {
+          "char": "沼",
+          "radical": "氵",
+          "component": "口",
+          "meaning": "수렁, 헤어나기 힘든 나쁜 상황",
+          "word": "泥沼",
+          "word_reading": "どろぬま",
+          "word_meaning": "수렁, 헤어나기 힘든 나쁜 상황"
         }
       ]
     },
@@ -2557,6 +2566,15 @@
           "word": "造詣",
           "word_reading": "ぞうけい",
           "word_meaning": "조예, 학문이나 예술의 깊은 이해와 지식"
+        },
+        {
+          "char": "沼",
+          "radical": "氵",
+          "component": "口",
+          "meaning": "수렁, 헤어나기 힘든 나쁜 상황",
+          "word": "泥沼",
+          "word_reading": "どろぬま",
+          "word_meaning": "수렁, 헤어나기 힘든 나쁜 상황"
         }
       ]
     }
