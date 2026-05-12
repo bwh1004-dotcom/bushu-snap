@@ -1,5 +1,5 @@
 {
-  "total_words": 740,
+  "total_words": 760,
   "levels": {
     "1": {
       "radicals": [
@@ -902,6 +902,15 @@
           "word": "造詣",
           "word_reading": "ぞうけい",
           "word_meaning": "조예, 학문이나 예술의 깊은 이해와 지식"
+        },
+        {
+          "char": "惨",
+          "radical": "忄",
+          "component": "一",
+          "meaning": "비참함, 처량함",
+          "word": "惨め",
+          "word_reading": "みじめ",
+          "word_meaning": "비참함, 처량함"
         }
       ]
     },
@@ -1255,6 +1264,24 @@
           "word": "泥沼",
           "word_reading": "どろぬま",
           "word_meaning": "수렁, 헤어나기 힘든 나쁜 상황"
+        },
+        {
+          "char": "海",
+          "radical": "氵",
+          "component": "母",
+          "meaning": "새우로 도미를 낚는다, 적은 투자로 큰 이익을 얻음",
+          "word": "海老で鯛を釣る",
+          "word_reading": "えびでたいをつる",
+          "word_meaning": "새우로 도미를 낚는다, 적은 투자로 큰 이익을 얻음"
+        },
+        {
+          "char": "津",
+          "radical": "氵",
+          "component": "聿",
+          "meaning": "흥미진진, 몹시 흥미로워 빠져드는 모양",
+          "word": "興味津々",
+          "word_reading": "きょうみしんしん",
+          "word_meaning": "흥미진진, 몹시 흥미로워 빠져드는 모양"
         }
       ]
     },
@@ -2159,6 +2186,15 @@
           "word": "変換",
           "word_reading": "へんかん",
           "word_meaning": "변환, 다른 형태로 바꿈"
+        },
+        {
+          "char": "惨",
+          "radical": "忄",
+          "component": "一",
+          "meaning": "비참함, 처량함",
+          "word": "惨め",
+          "word_reading": "みじめ",
+          "word_meaning": "비참함, 처량함"
         }
       ]
     },
@@ -2575,6 +2611,24 @@
           "word": "泥沼",
           "word_reading": "どろぬま",
           "word_meaning": "수렁, 헤어나기 힘든 나쁜 상황"
+        },
+        {
+          "char": "海",
+          "radical": "氵",
+          "component": "母",
+          "meaning": "새우로 도미를 낚는다, 적은 투자로 큰 이익을 얻음",
+          "word": "海老で鯛を釣る",
+          "word_reading": "えびでたいをつる",
+          "word_meaning": "새우로 도미를 낚는다, 적은 투자로 큰 이익을 얻음"
+        },
+        {
+          "char": "津",
+          "radical": "氵",
+          "component": "聿",
+          "meaning": "흥미진진, 몹시 흥미로워 빠져드는 모양",
+          "word": "興味津々",
+          "word_reading": "きょうみしんしん",
+          "word_meaning": "흥미진진, 몹시 흥미로워 빠져드는 모양"
         }
       ]
     }
