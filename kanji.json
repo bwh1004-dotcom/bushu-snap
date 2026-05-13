@@ -1,5 +1,5 @@
 {
-  "total_words": 760,
+  "total_words": 780,
   "levels": {
     "1": {
       "radicals": [
@@ -1282,6 +1282,42 @@
           "word": "興味津々",
           "word_reading": "きょうみしんしん",
           "word_meaning": "흥미진진, 몹시 흥미로워 빠져드는 모양"
+        },
+        {
+          "char": "演",
+          "radical": "氵",
+          "component": "田",
+          "meaning": "연주, 악기를 연주함",
+          "word": "演奏",
+          "word_reading": "えんそう",
+          "word_meaning": "연주, 악기를 연주함"
+        },
+        {
+          "char": "絵",
+          "radical": "糸",
+          "component": "会",
+          "meaning": "회화, 그림",
+          "word": "絵画",
+          "word_reading": "かいが",
+          "word_meaning": "회화, 그림"
+        },
+        {
+          "char": "湿",
+          "radical": "氵",
+          "component": "㬎",
+          "meaning": "가습기, 공기에 습기를 더하는 기기",
+          "word": "加湿器",
+          "word_reading": "かしつき",
+          "word_meaning": "가습기, 공기에 습기를 더하는 기기"
+        },
+        {
+          "char": "汁",
+          "radical": "氵",
+          "component": "十",
+          "meaning": "과즙, 과일의 즙",
+          "word": "果汁",
+          "word_reading": "かじゅう",
+          "word_meaning": "과즙, 과일의 즙"
         }
       ]
     },
@@ -2629,6 +2665,33 @@
           "word": "興味津々",
           "word_reading": "きょうみしんしん",
           "word_meaning": "흥미진진, 몹시 흥미로워 빠져드는 모양"
+        },
+        {
+          "char": "演",
+          "radical": "氵",
+          "component": "田",
+          "meaning": "연주, 악기를 연주함",
+          "word": "演奏",
+          "word_reading": "えんそう",
+          "word_meaning": "연주, 악기를 연주함"
+        },
+        {
+          "char": "湿",
+          "radical": "氵",
+          "component": "㬎",
+          "meaning": "가습기, 공기에 습기를 더하는 기기",
+          "word": "加湿器",
+          "word_reading": "かしつき",
+          "word_meaning": "가습기, 공기에 습기를 더하는 기기"
+        },
+        {
+          "char": "汁",
+          "radical": "氵",
+          "component": "十",
+          "meaning": "과즙, 과일의 즙",
+          "word": "果汁",
+          "word_reading": "かじゅう",
+          "word_meaning": "과즙, 과일의 즙"
         }
       ]
     }
