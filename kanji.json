@@ -1,5 +1,5 @@
 {
-  "total_words": 780,
+  "total_words": 800,
   "levels": {
     "1": {
       "radicals": [
@@ -531,6 +531,15 @@
           "word": "変換",
           "word_reading": "へんかん",
           "word_meaning": "변환, 다른 형태로 바꿈"
+        },
+        {
+          "char": "挽",
+          "radical": "扌",
+          "component": "免",
+          "meaning": "만회, 잃은 것을 되찾음",
+          "word": "挽回",
+          "word_reading": "ばんかい",
+          "word_meaning": "만회, 잃은 것을 되찾음"
         }
       ]
     },
@@ -2231,6 +2240,15 @@
           "word": "惨め",
           "word_reading": "みじめ",
           "word_meaning": "비참함, 처량함"
+        },
+        {
+          "char": "挽",
+          "radical": "扌",
+          "component": "免",
+          "meaning": "만회, 잃은 것을 되찾음",
+          "word": "挽回",
+          "word_reading": "ばんかい",
+          "word_meaning": "만회, 잃은 것을 되찾음"
         }
       ]
     },
