@@ -1,5 +1,5 @@
 {
-  "total_words": 800,
+  "total_words": 820,
   "levels": {
     "1": {
       "radicals": [
@@ -540,6 +540,24 @@
           "word": "挽回",
           "word_reading": "ばんかい",
           "word_meaning": "만회, 잃은 것을 되찾음"
+        },
+        {
+          "char": "排",
+          "radical": "扌",
+          "component": "非",
+          "meaning": "배척, 밀어내어 물리침",
+          "word": "排斥",
+          "word_reading": "はいせき",
+          "word_meaning": "배척, 밀어내어 물리침"
+        },
+        {
+          "char": "便",
+          "radical": "亻",
+          "component": "更",
+          "meaning": "편승, 기회를 이용해서 함께 올라탐",
+          "word": "便乗",
+          "word_reading": "びんじょう",
+          "word_meaning": "편승, 기회를 이용해서 함께 올라탐"
         }
       ]
     },
@@ -1327,6 +1345,24 @@
           "word": "果汁",
           "word_reading": "かじゅう",
           "word_meaning": "과즙, 과일의 즙"
+        },
+        {
+          "char": "線",
+          "radical": "糸",
+          "component": "幺",
+          "meaning": "탈선, 이야기가 옆길로 샘",
+          "word": "脱線",
+          "word_reading": "だっせん",
+          "word_meaning": "탈선, 이야기가 옆길로 샘"
+        },
+        {
+          "char": "浮",
+          "radical": "氵",
+          "component": "孚",
+          "meaning": "원형 튜브, 튜브형 부표",
+          "word": "浮き輪",
+          "word_reading": "うきわ",
+          "word_meaning": "원형 튜브, 튜브형 부표"
         }
       ]
     },
@@ -1824,6 +1860,15 @@
           "word": "造詣",
           "word_reading": "ぞうけい",
           "word_meaning": "조예, 학문이나 예술의 깊은 이해와 지식"
+        },
+        {
+          "char": "便",
+          "radical": "亻",
+          "component": "更",
+          "meaning": "편승, 기회를 이용해서 함께 올라탐",
+          "word": "便乗",
+          "word_reading": "びんじょう",
+          "word_meaning": "편승, 기회를 이용해서 함께 올라탐"
         }
       ]
     },
@@ -2249,6 +2294,15 @@
           "word": "挽回",
           "word_reading": "ばんかい",
           "word_meaning": "만회, 잃은 것을 되찾음"
+        },
+        {
+          "char": "排",
+          "radical": "扌",
+          "component": "非",
+          "meaning": "배척, 밀어내어 물리침",
+          "word": "排斥",
+          "word_reading": "はいせき",
+          "word_meaning": "배척, 밀어내어 물리침"
         }
       ]
     },
@@ -2710,6 +2764,15 @@
           "word": "果汁",
           "word_reading": "かじゅう",
           "word_meaning": "과즙, 과일의 즙"
+        },
+        {
+          "char": "浮",
+          "radical": "氵",
+          "component": "孚",
+          "meaning": "원형 튜브, 튜브형 부표",
+          "word": "浮き輪",
+          "word_reading": "うきわ",
+          "word_meaning": "원형 튜브, 튜브형 부표"
         }
       ]
     }
