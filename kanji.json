@@ -1,5 +1,5 @@
 {
-  "total_words": 820,
+  "total_words": 840,
   "levels": {
     "1": {
       "radicals": [
@@ -1363,6 +1363,24 @@
           "word": "浮き輪",
           "word_reading": "うきわ",
           "word_meaning": "원형 튜브, 튜브형 부표"
+        },
+        {
+          "char": "沈",
+          "radical": "氵",
+          "component": "冘",
+          "meaning": "가라앉다, 침울해지다",
+          "word": "沈む",
+          "word_reading": "しずむ",
+          "word_meaning": "가라앉다, 침울해지다"
+        },
+        {
+          "char": "治",
+          "radical": "氵",
+          "component": "口",
+          "meaning": "고치다, 낫게 하다 (병·상처) ※直す(수리)와 구별",
+          "word": "治す",
+          "word_reading": "なおす",
+          "word_meaning": "고치다, 낫게 하다 (병·상처) ※直す(수리)와 구별"
         }
       ]
     },
@@ -2773,6 +2791,24 @@
           "word": "浮き輪",
           "word_reading": "うきわ",
           "word_meaning": "원형 튜브, 튜브형 부표"
+        },
+        {
+          "char": "沈",
+          "radical": "氵",
+          "component": "冘",
+          "meaning": "가라앉다, 침울해지다",
+          "word": "沈む",
+          "word_reading": "しずむ",
+          "word_meaning": "가라앉다, 침울해지다"
+        },
+        {
+          "char": "治",
+          "radical": "氵",
+          "component": "口",
+          "meaning": "고치다, 낫게 하다 (병·상처) ※直す(수리)와 구별",
+          "word": "治す",
+          "word_reading": "なおす",
+          "word_meaning": "고치다, 낫게 하다 (병·상처) ※直す(수리)와 구별"
         }
       ]
     }
