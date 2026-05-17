@@ -1,5 +1,5 @@
 {
-  "total_words": 840,
+  "total_words": 860,
   "levels": {
     "1": {
       "radicals": [
@@ -1381,6 +1381,15 @@
           "word": "治す",
           "word_reading": "なおす",
           "word_meaning": "고치다, 낫게 하다 (병·상처) ※直す(수리)와 구별"
+        },
+        {
+          "char": "渡",
+          "radical": "氵",
+          "component": "又",
+          "meaning": "울려 퍼지다, 넓게 울리다",
+          "word": "響き渡る",
+          "word_reading": "ひびきわたる",
+          "word_meaning": "울려 퍼지다, 넓게 울리다"
         }
       ]
     },
@@ -2809,6 +2818,15 @@
           "word": "治す",
           "word_reading": "なおす",
           "word_meaning": "고치다, 낫게 하다 (병·상처) ※直す(수리)와 구별"
+        },
+        {
+          "char": "渡",
+          "radical": "氵",
+          "component": "又",
+          "meaning": "울려 퍼지다, 넓게 울리다",
+          "word": "響き渡る",
+          "word_reading": "ひびきわたる",
+          "word_meaning": "울려 퍼지다, 넓게 울리다"
         }
       ]
     }
