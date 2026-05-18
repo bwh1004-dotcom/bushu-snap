@@ -1,5 +1,5 @@
 {
-  "total_words": 860,
+  "total_words": 880,
   "levels": {
     "1": {
       "radicals": [
@@ -1390,6 +1390,33 @@
           "word": "響き渡る",
           "word_reading": "ひびきわたる",
           "word_meaning": "울려 퍼지다, 넓게 울리다"
+        },
+        {
+          "char": "浦",
+          "radical": "氵",
+          "component": "十",
+          "meaning": "방방곡곡, 구석구석",
+          "word": "津々浦々",
+          "word_reading": "つつうらうら",
+          "word_meaning": "방방곡곡, 구석구석"
+        },
+        {
+          "char": "法",
+          "radical": "氵",
+          "component": "土",
+          "meaning": "허풍을 떨다, 거짓말을 부풀리다",
+          "word": "法螺を吹く",
+          "word_reading": "ほらをふく",
+          "word_meaning": "허풍을 떨다, 거짓말을 부풀리다"
+        },
+        {
+          "char": "螺",
+          "radical": "糸",
+          "component": "幺",
+          "meaning": "허풍을 떨다, 거짓말을 부풀리다",
+          "word": "法螺を吹く",
+          "word_reading": "ほらをふく",
+          "word_meaning": "허풍을 떨다, 거짓말을 부풀리다"
         }
       ]
     },
@@ -2827,6 +2854,24 @@
           "word": "響き渡る",
           "word_reading": "ひびきわたる",
           "word_meaning": "울려 퍼지다, 넓게 울리다"
+        },
+        {
+          "char": "浦",
+          "radical": "氵",
+          "component": "十",
+          "meaning": "방방곡곡, 구석구석",
+          "word": "津々浦々",
+          "word_reading": "つつうらうら",
+          "word_meaning": "방방곡곡, 구석구석"
+        },
+        {
+          "char": "法",
+          "radical": "氵",
+          "component": "土",
+          "meaning": "허풍을 떨다, 거짓말을 부풀리다",
+          "word": "法螺を吹く",
+          "word_reading": "ほらをふく",
+          "word_meaning": "허풍을 떨다, 거짓말을 부풀리다"
         }
       ]
     }
