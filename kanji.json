@@ -1,5 +1,5 @@
 {
-  "total_words": 880,
+  "total_words": 900,
   "levels": {
     "1": {
       "radicals": [
@@ -558,6 +558,15 @@
           "word": "便乗",
           "word_reading": "びんじょう",
           "word_meaning": "편승, 기회를 이용해서 함께 올라탐"
+        },
+        {
+          "char": "提",
+          "radical": "扌",
+          "component": "日",
+          "meaning": "제안, 의견이나 아이디어를 내놓음",
+          "word": "提案",
+          "word_reading": "ていあん",
+          "word_meaning": "제안, 의견이나 아이디어를 내놓음"
         }
       ]
     },
@@ -1417,6 +1426,15 @@
           "word": "法螺を吹く",
           "word_reading": "ほらをふく",
           "word_meaning": "허풍을 떨다, 거짓말을 부풀리다"
+        },
+        {
+          "char": "流",
+          "radical": "氵",
+          "component": "㐬",
+          "meaning": "교류, 서로 왕래하며 사귐",
+          "word": "交流",
+          "word_reading": "こうりゅう",
+          "word_meaning": "교류, 서로 왕래하며 사귐"
         }
       ]
     },
@@ -2357,6 +2375,15 @@
           "word": "排斥",
           "word_reading": "はいせき",
           "word_meaning": "배척, 밀어내어 물리침"
+        },
+        {
+          "char": "提",
+          "radical": "扌",
+          "component": "日",
+          "meaning": "제안, 의견이나 아이디어를 내놓음",
+          "word": "提案",
+          "word_reading": "ていあん",
+          "word_meaning": "제안, 의견이나 아이디어를 내놓음"
         }
       ]
     },
@@ -2872,6 +2899,15 @@
           "word": "法螺を吹く",
           "word_reading": "ほらをふく",
           "word_meaning": "허풍을 떨다, 거짓말을 부풀리다"
+        },
+        {
+          "char": "流",
+          "radical": "氵",
+          "component": "㐬",
+          "meaning": "교류, 서로 왕래하며 사귐",
+          "word": "交流",
+          "word_reading": "こうりゅう",
+          "word_meaning": "교류, 서로 왕래하며 사귐"
         }
       ]
     }
