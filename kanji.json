@@ -1,5 +1,5 @@
 {
-  "total_words": 900,
+  "total_words": 920,
   "levels": {
     "1": {
       "radicals": [
@@ -567,6 +567,15 @@
           "word": "提案",
           "word_reading": "ていあん",
           "word_meaning": "제안, 의견이나 아이디어를 내놓음"
+        },
+        {
+          "char": "供",
+          "radical": "亻",
+          "component": "｜",
+          "meaning": "공양, 죽은 이를 위해 제사나 기도를 올림",
+          "word": "供養",
+          "word_reading": "くよう",
+          "word_meaning": "공양, 죽은 이를 위해 제사나 기도를 올림"
         }
       ]
     },
@@ -1435,6 +1444,15 @@
           "word": "交流",
           "word_reading": "こうりゅう",
           "word_meaning": "교류, 서로 왕래하며 사귐"
+        },
+        {
+          "char": "濤",
+          "radical": "氵",
+          "component": "舀",
+          "meaning": "노도, 거세게 치는 파도, 거침없는 기세",
+          "word": "怒濤",
+          "word_reading": "どとう",
+          "word_meaning": "노도, 거세게 치는 파도, 거침없는 기세"
         }
       ]
     },
@@ -1941,6 +1959,15 @@
           "word": "便乗",
           "word_reading": "びんじょう",
           "word_meaning": "편승, 기회를 이용해서 함께 올라탐"
+        },
+        {
+          "char": "供",
+          "radical": "亻",
+          "component": "｜",
+          "meaning": "공양, 죽은 이를 위해 제사나 기도를 올림",
+          "word": "供養",
+          "word_reading": "くよう",
+          "word_meaning": "공양, 죽은 이를 위해 제사나 기도를 올림"
         }
       ]
     },
@@ -2908,6 +2935,15 @@
           "word": "交流",
           "word_reading": "こうりゅう",
           "word_meaning": "교류, 서로 왕래하며 사귐"
+        },
+        {
+          "char": "濤",
+          "radical": "氵",
+          "component": "舀",
+          "meaning": "노도, 거세게 치는 파도, 거침없는 기세",
+          "word": "怒濤",
+          "word_reading": "どとう",
+          "word_meaning": "노도, 거세게 치는 파도, 거침없는 기세"
         }
       ]
     }
