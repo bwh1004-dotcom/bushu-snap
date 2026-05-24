@@ -1,5 +1,5 @@
 {
-  "total_words": 920,
+  "total_words": 940,
   "levels": {
     "1": {
       "radicals": [
@@ -576,6 +576,33 @@
           "word": "供養",
           "word_reading": "くよう",
           "word_meaning": "공양, 죽은 이를 위해 제사나 기도를 올림"
+        },
+        {
+          "char": "荷",
+          "radical": "亻",
+          "component": "口",
+          "meaning": "짐싸기, 포장",
+          "word": "荷造り",
+          "word_reading": "にづくり",
+          "word_meaning": "짐싸기, 포장"
+        },
+        {
+          "char": "俯",
+          "radical": "亻",
+          "component": "寸",
+          "meaning": "고개를 숙이다, 아래를 향하다",
+          "word": "俯く",
+          "word_reading": "うつむく",
+          "word_meaning": "고개를 숙이다, 아래를 향하다"
+        },
+        {
+          "char": "佇",
+          "radical": "亻",
+          "component": "宁",
+          "meaning": "가만히 서다, 멈춰 서다",
+          "word": "佇む",
+          "word_reading": "たたずむ",
+          "word_meaning": "가만히 서다, 멈춰 서다"
         }
       ]
     },
@@ -1453,6 +1480,15 @@
           "word": "怒濤",
           "word_reading": "どとう",
           "word_meaning": "노도, 거세게 치는 파도, 거침없는 기세"
+        },
+        {
+          "char": "窪",
+          "radical": "氵",
+          "component": "穴",
+          "meaning": "움푹 패다, 오목하게 들어가다",
+          "word": "窪む",
+          "word_reading": "くぼむ",
+          "word_meaning": "움푹 패다, 오목하게 들어가다"
         }
       ]
     },
@@ -1968,6 +2004,33 @@
           "word": "供養",
           "word_reading": "くよう",
           "word_meaning": "공양, 죽은 이를 위해 제사나 기도를 올림"
+        },
+        {
+          "char": "荷",
+          "radical": "亻",
+          "component": "口",
+          "meaning": "짐싸기, 포장",
+          "word": "荷造り",
+          "word_reading": "にづくり",
+          "word_meaning": "짐싸기, 포장"
+        },
+        {
+          "char": "俯",
+          "radical": "亻",
+          "component": "寸",
+          "meaning": "고개를 숙이다, 아래를 향하다",
+          "word": "俯く",
+          "word_reading": "うつむく",
+          "word_meaning": "고개를 숙이다, 아래를 향하다"
+        },
+        {
+          "char": "佇",
+          "radical": "亻",
+          "component": "宁",
+          "meaning": "가만히 서다, 멈춰 서다",
+          "word": "佇む",
+          "word_reading": "たたずむ",
+          "word_meaning": "가만히 서다, 멈춰 서다"
         }
       ]
     },
@@ -2944,6 +3007,15 @@
           "word": "怒濤",
           "word_reading": "どとう",
           "word_meaning": "노도, 거세게 치는 파도, 거침없는 기세"
+        },
+        {
+          "char": "窪",
+          "radical": "氵",
+          "component": "穴",
+          "meaning": "움푹 패다, 오목하게 들어가다",
+          "word": "窪む",
+          "word_reading": "くぼむ",
+          "word_meaning": "움푹 패다, 오목하게 들어가다"
         }
       ]
     }
