@@ -1,5 +1,5 @@
 {
-  "total_words": 940,
+  "total_words": 960,
   "levels": {
     "1": {
       "radicals": [
@@ -603,6 +603,42 @@
           "word": "佇む",
           "word_reading": "たたずむ",
           "word_meaning": "가만히 서다, 멈춰 서다"
+        },
+        {
+          "char": "抓",
+          "radical": "扌",
+          "component": "爪",
+          "meaning": "꼬집다",
+          "word": "抓る",
+          "word_reading": "つねる",
+          "word_meaning": "꼬집다"
+        },
+        {
+          "char": "撫",
+          "radical": "扌",
+          "component": "無",
+          "meaning": "쓰다듬다, 어루만지다",
+          "word": "撫でる",
+          "word_reading": "なでる",
+          "word_meaning": "쓰다듬다, 어루만지다"
+        },
+        {
+          "char": "捩",
+          "radical": "扌",
+          "component": "戻",
+          "meaning": "비틀다, 꼬다",
+          "word": "捩る",
+          "word_reading": "ねじる",
+          "word_meaning": "비틀다, 꼬다"
+        },
+        {
+          "char": "貸",
+          "radical": "亻",
+          "component": "貝",
+          "meaning": "빌려주다, 대출하다",
+          "word": "貸し出す",
+          "word_reading": "かしだす",
+          "word_meaning": "빌려주다, 대출하다"
         }
       ]
     },
@@ -983,6 +1019,15 @@
           "word": "惨め",
           "word_reading": "みじめ",
           "word_meaning": "비참함, 처량함"
+        },
+        {
+          "char": "読",
+          "radical": "言",
+          "component": "士",
+          "meaning": "되풀이하여 읽다, 다시 읽다",
+          "word": "読み返す",
+          "word_reading": "よみかえす",
+          "word_meaning": "되풀이하여 읽다, 다시 읽다"
         }
       ]
     },
@@ -2031,6 +2076,24 @@
           "word": "佇む",
           "word_reading": "たたずむ",
           "word_meaning": "가만히 서다, 멈춰 서다"
+        },
+        {
+          "char": "貸",
+          "radical": "亻",
+          "component": "貝",
+          "meaning": "빌려주다, 대출하다",
+          "word": "貸し出す",
+          "word_reading": "かしだす",
+          "word_meaning": "빌려주다, 대출하다"
+        },
+        {
+          "char": "読",
+          "radical": "言",
+          "component": "士",
+          "meaning": "되풀이하여 읽다, 다시 읽다",
+          "word": "読み返す",
+          "word_reading": "よみかえす",
+          "word_meaning": "되풀이하여 읽다, 다시 읽다"
         }
       ]
     },
@@ -2474,6 +2537,33 @@
           "word": "提案",
           "word_reading": "ていあん",
           "word_meaning": "제안, 의견이나 아이디어를 내놓음"
+        },
+        {
+          "char": "抓",
+          "radical": "扌",
+          "component": "爪",
+          "meaning": "꼬집다",
+          "word": "抓る",
+          "word_reading": "つねる",
+          "word_meaning": "꼬집다"
+        },
+        {
+          "char": "撫",
+          "radical": "扌",
+          "component": "無",
+          "meaning": "쓰다듬다, 어루만지다",
+          "word": "撫でる",
+          "word_reading": "なでる",
+          "word_meaning": "쓰다듬다, 어루만지다"
+        },
+        {
+          "char": "捩",
+          "radical": "扌",
+          "component": "戻",
+          "meaning": "비틀다, 꼬다",
+          "word": "捩る",
+          "word_reading": "ねじる",
+          "word_meaning": "비틀다, 꼬다"
         }
       ]
     },
@@ -3016,6 +3106,15 @@
           "word": "窪む",
           "word_reading": "くぼむ",
           "word_meaning": "움푹 패다, 오목하게 들어가다"
+        },
+        {
+          "char": "読",
+          "radical": "言",
+          "component": "士",
+          "meaning": "되풀이하여 읽다, 다시 읽다",
+          "word": "読み返す",
+          "word_reading": "よみかえす",
+          "word_meaning": "되풀이하여 읽다, 다시 읽다"
         }
       ]
     }
