@@ -1,5 +1,5 @@
 {
-  "total_words": 960,
+  "total_words": 980,
   "levels": {
     "1": {
       "radicals": [
@@ -1028,6 +1028,15 @@
           "word": "読み返す",
           "word_reading": "よみかえす",
           "word_meaning": "되풀이하여 읽다, 다시 읽다"
+        },
+        {
+          "char": "誠",
+          "radical": "言",
+          "component": "ノ",
+          "meaning": "성실함, 진심으로 정성을 다함",
+          "word": "誠実",
+          "word_reading": "せいじつ",
+          "word_meaning": "성실함, 진심으로 정성을 다함"
         }
       ]
     },
@@ -2094,6 +2103,15 @@
           "word": "読み返す",
           "word_reading": "よみかえす",
           "word_meaning": "되풀이하여 읽다, 다시 읽다"
+        },
+        {
+          "char": "誠",
+          "radical": "言",
+          "component": "ノ",
+          "meaning": "성실함, 진심으로 정성을 다함",
+          "word": "誠実",
+          "word_reading": "せいじつ",
+          "word_meaning": "성실함, 진심으로 정성을 다함"
         }
       ]
     },
@@ -3115,6 +3133,15 @@
           "word": "読み返す",
           "word_reading": "よみかえす",
           "word_meaning": "되풀이하여 읽다, 다시 읽다"
+        },
+        {
+          "char": "誠",
+          "radical": "言",
+          "component": "ノ",
+          "meaning": "성실함, 진심으로 정성을 다함",
+          "word": "誠実",
+          "word_reading": "せいじつ",
+          "word_meaning": "성실함, 진심으로 정성을 다함"
         }
       ]
     }
