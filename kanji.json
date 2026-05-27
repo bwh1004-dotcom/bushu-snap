@@ -1,5 +1,5 @@
 {
-  "total_words": 980,
+  "total_words": 1000,
   "levels": {
     "1": {
       "radicals": [
@@ -639,6 +639,15 @@
           "word": "貸し出す",
           "word_reading": "かしだす",
           "word_meaning": "빌려주다, 대출하다"
+        },
+        {
+          "char": "拓",
+          "radical": "扌",
+          "component": "口",
+          "meaning": "개척, 새로운 분야를 열어나감",
+          "word": "開拓",
+          "word_reading": "かいたく",
+          "word_meaning": "개척, 새로운 분야를 열어나감"
         }
       ]
     },
@@ -1037,6 +1046,15 @@
           "word": "誠実",
           "word_reading": "せいじつ",
           "word_meaning": "성실함, 진심으로 정성을 다함"
+        },
+        {
+          "char": "許",
+          "radical": "言",
+          "component": "午",
+          "meaning": "허용, 용인함",
+          "word": "許容",
+          "word_reading": "きょうよう",
+          "word_meaning": "허용, 용인함"
         }
       ]
     },
@@ -1543,6 +1561,15 @@
           "word": "窪む",
           "word_reading": "くぼむ",
           "word_meaning": "움푹 패다, 오목하게 들어가다"
+        },
+        {
+          "char": "薄",
+          "radical": "氵",
+          "component": "十",
+          "meaning": "살얼음판을 걷다, 위험한 상황을 헤쳐나가다",
+          "word": "薄氷を踏む",
+          "word_reading": "はくひょうをふむ",
+          "word_meaning": "살얼음판을 걷다, 위험한 상황을 헤쳐나가다"
         }
       ]
     },
@@ -2112,6 +2139,15 @@
           "word": "誠実",
           "word_reading": "せいじつ",
           "word_meaning": "성실함, 진심으로 정성을 다함"
+        },
+        {
+          "char": "許",
+          "radical": "言",
+          "component": "午",
+          "meaning": "허용, 용인함",
+          "word": "許容",
+          "word_reading": "きょうよう",
+          "word_meaning": "허용, 용인함"
         }
       ]
     },
@@ -2582,6 +2618,15 @@
           "word": "捩る",
           "word_reading": "ねじる",
           "word_meaning": "비틀다, 꼬다"
+        },
+        {
+          "char": "拓",
+          "radical": "扌",
+          "component": "口",
+          "meaning": "개척, 새로운 분야를 열어나감",
+          "word": "開拓",
+          "word_reading": "かいたく",
+          "word_meaning": "개척, 새로운 분야를 열어나감"
         }
       ]
     },
@@ -3142,6 +3187,24 @@
           "word": "誠実",
           "word_reading": "せいじつ",
           "word_meaning": "성실함, 진심으로 정성을 다함"
+        },
+        {
+          "char": "薄",
+          "radical": "氵",
+          "component": "十",
+          "meaning": "살얼음판을 걷다, 위험한 상황을 헤쳐나가다",
+          "word": "薄氷を踏む",
+          "word_reading": "はくひょうをふむ",
+          "word_meaning": "살얼음판을 걷다, 위험한 상황을 헤쳐나가다"
+        },
+        {
+          "char": "許",
+          "radical": "言",
+          "component": "午",
+          "meaning": "허용, 용인함",
+          "word": "許容",
+          "word_reading": "きょうよう",
+          "word_meaning": "허용, 용인함"
         }
       ]
     }
