@@ -1,5 +1,5 @@
 {
-  "total_words": 1000,
+  "total_words": 1020,
   "levels": {
     "1": {
       "radicals": [
@@ -648,6 +648,42 @@
           "word": "開拓",
           "word_reading": "かいたく",
           "word_meaning": "개척, 새로운 분야를 열어나감"
+        },
+        {
+          "char": "損",
+          "radical": "扌",
+          "component": "貝",
+          "meaning": "손해, 입은 피해나 손실",
+          "word": "損害",
+          "word_reading": "そんがい",
+          "word_meaning": "손해, 입은 피해나 손실"
+        },
+        {
+          "char": "探",
+          "radical": "扌",
+          "component": "木",
+          "meaning": "탐험, 미지의 곳을 탐색함",
+          "word": "探険",
+          "word_reading": "たんけん",
+          "word_meaning": "탐험, 미지의 곳을 탐색함"
+        },
+        {
+          "char": "賃",
+          "radical": "亻",
+          "component": "王",
+          "meaning": "임대, 돈을 받고 빌려줌",
+          "word": "賃貸",
+          "word_reading": "ちんたい",
+          "word_meaning": "임대, 돈을 받고 빌려줌"
+        },
+        {
+          "char": "携",
+          "radical": "扌",
+          "component": "隽",
+          "meaning": "제휴, 서로 손잡고 협력함",
+          "word": "提携",
+          "word_reading": "ていけい",
+          "word_meaning": "제휴, 서로 손잡고 협력함"
         }
       ]
     },
@@ -1055,6 +1091,15 @@
           "word": "許容",
           "word_reading": "きょうよう",
           "word_meaning": "허용, 용인함"
+        },
+        {
+          "char": "請",
+          "radical": "言",
+          "component": "月",
+          "meaning": "신청, 공식적으로 요청함",
+          "word": "申請",
+          "word_reading": "しんせい",
+          "word_meaning": "신청, 공식적으로 요청함"
         }
       ]
     },
@@ -1570,6 +1615,15 @@
           "word": "薄氷を踏む",
           "word_reading": "はくひょうをふむ",
           "word_meaning": "살얼음판을 걷다, 위험한 상황을 헤쳐나가다"
+        },
+        {
+          "char": "滞",
+          "radical": "氵",
+          "component": "帯",
+          "meaning": "체재, 어떤 곳에 머무름",
+          "word": "滞在",
+          "word_reading": "たいざい",
+          "word_meaning": "체재, 어떤 곳에 머무름"
         }
       ]
     },
@@ -2148,6 +2202,24 @@
           "word": "許容",
           "word_reading": "きょうよう",
           "word_meaning": "허용, 용인함"
+        },
+        {
+          "char": "請",
+          "radical": "言",
+          "component": "月",
+          "meaning": "신청, 공식적으로 요청함",
+          "word": "申請",
+          "word_reading": "しんせい",
+          "word_meaning": "신청, 공식적으로 요청함"
+        },
+        {
+          "char": "賃",
+          "radical": "亻",
+          "component": "王",
+          "meaning": "임대, 돈을 받고 빌려줌",
+          "word": "賃貸",
+          "word_reading": "ちんたい",
+          "word_meaning": "임대, 돈을 받고 빌려줌"
         }
       ]
     },
@@ -2627,6 +2699,33 @@
           "word": "開拓",
           "word_reading": "かいたく",
           "word_meaning": "개척, 새로운 분야를 열어나감"
+        },
+        {
+          "char": "損",
+          "radical": "扌",
+          "component": "貝",
+          "meaning": "손해, 입은 피해나 손실",
+          "word": "損害",
+          "word_reading": "そんがい",
+          "word_meaning": "손해, 입은 피해나 손실"
+        },
+        {
+          "char": "探",
+          "radical": "扌",
+          "component": "木",
+          "meaning": "탐험, 미지의 곳을 탐색함",
+          "word": "探険",
+          "word_reading": "たんけん",
+          "word_meaning": "탐험, 미지의 곳을 탐색함"
+        },
+        {
+          "char": "携",
+          "radical": "扌",
+          "component": "隽",
+          "meaning": "제휴, 서로 손잡고 협력함",
+          "word": "提携",
+          "word_reading": "ていけい",
+          "word_meaning": "제휴, 서로 손잡고 협력함"
         }
       ]
     },
@@ -3205,6 +3304,24 @@
           "word": "許容",
           "word_reading": "きょうよう",
           "word_meaning": "허용, 용인함"
+        },
+        {
+          "char": "請",
+          "radical": "言",
+          "component": "月",
+          "meaning": "신청, 공식적으로 요청함",
+          "word": "申請",
+          "word_reading": "しんせい",
+          "word_meaning": "신청, 공식적으로 요청함"
+        },
+        {
+          "char": "滞",
+          "radical": "氵",
+          "component": "帯",
+          "meaning": "체재, 어떤 곳에 머무름",
+          "word": "滞在",
+          "word_reading": "たいざい",
+          "word_meaning": "체재, 어떤 곳에 머무름"
         }
       ]
     }
