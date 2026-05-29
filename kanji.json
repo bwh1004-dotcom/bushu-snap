@@ -1,5 +1,5 @@
 {
-  "total_words": 1020,
+  "total_words": 1040,
   "levels": {
     "1": {
       "radicals": [
@@ -1624,6 +1624,24 @@
           "word": "滞在",
           "word_reading": "たいざい",
           "word_meaning": "체재, 어떤 곳에 머무름"
+        },
+        {
+          "char": "溜",
+          "radical": "氵",
+          "component": "留",
+          "meaning": "사재기, 물건을 대량으로 사 모음",
+          "word": "買い溜め",
+          "word_reading": "かいだめ",
+          "word_meaning": "사재기, 물건을 대량으로 사 모음"
+        },
+        {
+          "char": "組",
+          "radical": "糸",
+          "component": "一",
+          "meaning": "틀을 짬, 기본 구조, 프레임워크",
+          "word": "枠組み",
+          "word_reading": "わくぐみ",
+          "word_meaning": "틀을 짬, 기본 구조, 프레임워크"
         }
       ]
     },
@@ -3322,6 +3340,15 @@
           "word": "滞在",
           "word_reading": "たいざい",
           "word_meaning": "체재, 어떤 곳에 머무름"
+        },
+        {
+          "char": "溜",
+          "radical": "氵",
+          "component": "留",
+          "meaning": "사재기, 물건을 대량으로 사 모음",
+          "word": "買い溜め",
+          "word_reading": "かいだめ",
+          "word_meaning": "사재기, 물건을 대량으로 사 모음"
         }
       ]
     }
