@@ -1,5 +1,5 @@
 {
-  "total_words": 1040,
+  "total_words": 1060,
   "levels": {
     "1": {
       "radicals": [
@@ -1100,6 +1100,15 @@
           "word": "申請",
           "word_reading": "しんせい",
           "word_meaning": "신청, 공식적으로 요청함"
+        },
+        {
+          "char": "詰",
+          "radical": "言",
+          "component": "口",
+          "meaning": "궁지에 몰리다, 막다른 곳에 처하다",
+          "word": "切羽詰まる",
+          "word_reading": "せっぱつまる",
+          "word_meaning": "궁지에 몰리다, 막다른 곳에 처하다"
         }
       ]
     },
@@ -1642,6 +1651,15 @@
           "word": "枠組み",
           "word_reading": "わくぐみ",
           "word_meaning": "틀을 짬, 기본 구조, 프레임워크"
+        },
+        {
+          "char": "漏",
+          "radical": "氵",
+          "component": "雨",
+          "meaning": "할 말을 빠뜨리다, 말을 놓치다",
+          "word": "言い漏らす",
+          "word_reading": "いいもらす",
+          "word_meaning": "할 말을 빠뜨리다, 말을 놓치다"
         }
       ]
     },
@@ -2238,6 +2256,15 @@
           "word": "賃貸",
           "word_reading": "ちんたい",
           "word_meaning": "임대, 돈을 받고 빌려줌"
+        },
+        {
+          "char": "詰",
+          "radical": "言",
+          "component": "口",
+          "meaning": "궁지에 몰리다, 막다른 곳에 처하다",
+          "word": "切羽詰まる",
+          "word_reading": "せっぱつまる",
+          "word_meaning": "궁지에 몰리다, 막다른 곳에 처하다"
         }
       ]
     },
@@ -3349,6 +3376,24 @@
           "word": "買い溜め",
           "word_reading": "かいだめ",
           "word_meaning": "사재기, 물건을 대량으로 사 모음"
+        },
+        {
+          "char": "詰",
+          "radical": "言",
+          "component": "口",
+          "meaning": "궁지에 몰리다, 막다른 곳에 처하다",
+          "word": "切羽詰まる",
+          "word_reading": "せっぱつまる",
+          "word_meaning": "궁지에 몰리다, 막다른 곳에 처하다"
+        },
+        {
+          "char": "漏",
+          "radical": "氵",
+          "component": "雨",
+          "meaning": "할 말을 빠뜨리다, 말을 놓치다",
+          "word": "言い漏らす",
+          "word_reading": "いいもらす",
+          "word_meaning": "할 말을 빠뜨리다, 말을 놓치다"
         }
       ]
     }
