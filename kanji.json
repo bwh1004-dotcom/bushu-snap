@@ -1,5 +1,5 @@
 {
-  "total_words": 1060,
+  "total_words": 1080,
   "levels": {
     "1": {
       "radicals": [
@@ -1109,6 +1109,24 @@
           "word": "切羽詰まる",
           "word_reading": "せっぱつまる",
           "word_meaning": "궁지에 몰리다, 막다른 곳에 처하다"
+        },
+        {
+          "char": "慢",
+          "radical": "忄",
+          "component": "日",
+          "meaning": "인내심이 강하다, 참을성이 있다",
+          "word": "我慢強い",
+          "word_reading": "がまんづよい",
+          "word_meaning": "인내심이 강하다, 참을성이 있다"
+        },
+        {
+          "char": "忙",
+          "radical": "忄",
+          "component": "亡",
+          "meaning": "다망함, 매우 바쁨",
+          "word": "多忙",
+          "word_reading": "たぼう",
+          "word_meaning": "다망함, 매우 바쁨"
         }
       ]
     },
@@ -1660,6 +1678,15 @@
           "word": "言い漏らす",
           "word_reading": "いいもらす",
           "word_meaning": "할 말을 빠뜨리다, 말을 놓치다"
+        },
+        {
+          "char": "結",
+          "radical": "糸",
+          "component": "口",
+          "meaning": "꽤, 상당히, 됐습니다",
+          "word": "結構",
+          "word_reading": "けっこう",
+          "word_meaning": "꽤, 상당히, 됐습니다"
         }
       ]
     },
@@ -2771,6 +2798,24 @@
           "word": "提携",
           "word_reading": "ていけい",
           "word_meaning": "제휴, 서로 손잡고 협력함"
+        },
+        {
+          "char": "慢",
+          "radical": "忄",
+          "component": "日",
+          "meaning": "인내심이 강하다, 참을성이 있다",
+          "word": "我慢強い",
+          "word_reading": "がまんづよい",
+          "word_meaning": "인내심이 강하다, 참을성이 있다"
+        },
+        {
+          "char": "忙",
+          "radical": "忄",
+          "component": "亡",
+          "meaning": "다망함, 매우 바쁨",
+          "word": "多忙",
+          "word_reading": "たぼう",
+          "word_meaning": "다망함, 매우 바쁨"
         }
       ]
     },
