@@ -1,5 +1,5 @@
 {
-  "total_words": 1080,
+  "total_words": 1100,
   "levels": {
     "1": {
       "radicals": [
@@ -1127,6 +1127,15 @@
           "word": "多忙",
           "word_reading": "たぼう",
           "word_meaning": "다망함, 매우 바쁨"
+        },
+        {
+          "char": "談",
+          "radical": "言",
+          "component": "火",
+          "meaning": "이야기가 어설프고 장황함, 서툰 자의 긴 변명",
+          "word": "下手の長談義",
+          "word_reading": "へたのながだんぎ",
+          "word_meaning": "이야기가 어설프고 장황함, 서툰 자의 긴 변명"
         }
       ]
     },
@@ -2292,6 +2301,15 @@
           "word": "切羽詰まる",
           "word_reading": "せっぱつまる",
           "word_meaning": "궁지에 몰리다, 막다른 곳에 처하다"
+        },
+        {
+          "char": "談",
+          "radical": "言",
+          "component": "火",
+          "meaning": "이야기가 어설프고 장황함, 서툰 자의 긴 변명",
+          "word": "下手の長談義",
+          "word_reading": "へたのながだんぎ",
+          "word_meaning": "이야기가 어설프고 장황함, 서툰 자의 긴 변명"
         }
       ]
     },
@@ -3439,6 +3457,15 @@
           "word": "言い漏らす",
           "word_reading": "いいもらす",
           "word_meaning": "할 말을 빠뜨리다, 말을 놓치다"
+        },
+        {
+          "char": "談",
+          "radical": "言",
+          "component": "火",
+          "meaning": "이야기가 어설프고 장황함, 서툰 자의 긴 변명",
+          "word": "下手の長談義",
+          "word_reading": "へたのながだんぎ",
+          "word_meaning": "이야기가 어설프고 장황함, 서툰 자의 긴 변명"
         }
       ]
     }
