@@ -1,5 +1,5 @@
 {
-  "total_words": 1100,
+  "total_words": 1120,
   "levels": {
     "1": {
       "radicals": [
@@ -684,6 +684,33 @@
           "word": "提携",
           "word_reading": "ていけい",
           "word_meaning": "제휴, 서로 손잡고 협력함"
+        },
+        {
+          "char": "催",
+          "radical": "亻",
+          "component": "山",
+          "meaning": "개최, 행사를 엶",
+          "word": "開催",
+          "word_reading": "かいさい",
+          "word_meaning": "개최, 행사를 엶"
+        },
+        {
+          "char": "候",
+          "radical": "亻",
+          "component": "｜",
+          "meaning": "후보, 선택 대상",
+          "word": "候補",
+          "word_reading": "こうほ",
+          "word_meaning": "후보, 선택 대상"
+        },
+        {
+          "char": "縮",
+          "radical": "亻",
+          "component": "肅",
+          "meaning": "축소, 작게 줄임",
+          "word": "縮小",
+          "word_reading": "しゅくしょう",
+          "word_meaning": "축소, 작게 줄임"
         }
       ]
     },
@@ -1136,6 +1163,15 @@
           "word": "下手の長談義",
           "word_reading": "へたのながだんぎ",
           "word_meaning": "이야기가 어설프고 장황함, 서툰 자의 긴 변명"
+        },
+        {
+          "char": "託",
+          "radical": "言",
+          "component": "ノ",
+          "meaning": "위탁, 맡김",
+          "word": "委託",
+          "word_reading": "いたく",
+          "word_meaning": "위탁, 맡김"
         }
       ]
     },
@@ -1696,6 +1732,15 @@
           "word": "結構",
           "word_reading": "けっこう",
           "word_meaning": "꽤, 상당히, 됐습니다"
+        },
+        {
+          "char": "渉",
+          "radical": "氵",
+          "component": "歩",
+          "meaning": "교섭, 협상",
+          "word": "交渉",
+          "word_reading": "こうしょう",
+          "word_meaning": "교섭, 협상"
         }
       ]
     },
@@ -2310,6 +2355,42 @@
           "word": "下手の長談義",
           "word_reading": "へたのながだんぎ",
           "word_meaning": "이야기가 어설프고 장황함, 서툰 자의 긴 변명"
+        },
+        {
+          "char": "託",
+          "radical": "言",
+          "component": "ノ",
+          "meaning": "위탁, 맡김",
+          "word": "委託",
+          "word_reading": "いたく",
+          "word_meaning": "위탁, 맡김"
+        },
+        {
+          "char": "催",
+          "radical": "亻",
+          "component": "山",
+          "meaning": "개최, 행사를 엶",
+          "word": "開催",
+          "word_reading": "かいさい",
+          "word_meaning": "개최, 행사를 엶"
+        },
+        {
+          "char": "候",
+          "radical": "亻",
+          "component": "｜",
+          "meaning": "후보, 선택 대상",
+          "word": "候補",
+          "word_reading": "こうほ",
+          "word_meaning": "후보, 선택 대상"
+        },
+        {
+          "char": "縮",
+          "radical": "亻",
+          "component": "肅",
+          "meaning": "축소, 작게 줄임",
+          "word": "縮小",
+          "word_reading": "しゅくしょう",
+          "word_meaning": "축소, 작게 줄임"
         }
       ]
     },
@@ -3466,6 +3547,24 @@
           "word": "下手の長談義",
           "word_reading": "へたのながだんぎ",
           "word_meaning": "이야기가 어설프고 장황함, 서툰 자의 긴 변명"
+        },
+        {
+          "char": "託",
+          "radical": "言",
+          "component": "ノ",
+          "meaning": "위탁, 맡김",
+          "word": "委託",
+          "word_reading": "いたく",
+          "word_meaning": "위탁, 맡김"
+        },
+        {
+          "char": "渉",
+          "radical": "氵",
+          "component": "歩",
+          "meaning": "교섭, 협상",
+          "word": "交渉",
+          "word_reading": "こうしょう",
+          "word_meaning": "교섭, 협상"
         }
       ]
     }
