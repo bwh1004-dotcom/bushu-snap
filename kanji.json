@@ -1,5 +1,5 @@
 {
-  "total_words": 1120,
+  "total_words": 1140,
   "levels": {
     "1": {
       "radicals": [
@@ -711,6 +711,33 @@
           "word": "縮小",
           "word_reading": "しゅくしょう",
           "word_meaning": "축소, 작게 줄임"
+        },
+        {
+          "char": "抽",
+          "radical": "扌",
+          "component": "由",
+          "meaning": "추첨, 제비를 뽑아 결정",
+          "word": "抽選",
+          "word_reading": "ちゅうせん",
+          "word_meaning": "추첨, 제비를 뽑아 결정"
+        },
+        {
+          "char": "捕",
+          "radical": "扌",
+          "component": "甫",
+          "meaning": "나포, 선박이나 사람을 붙잡음",
+          "word": "拿捕",
+          "word_reading": "だほ",
+          "word_meaning": "나포, 선박이나 사람을 붙잡음"
+        },
+        {
+          "char": "仇",
+          "radical": "亻",
+          "component": "九",
+          "meaning": "원수, 적",
+          "word": "仇",
+          "word_reading": "あだ",
+          "word_meaning": "원수, 적"
         }
       ]
     },
@@ -1172,6 +1199,15 @@
           "word": "委託",
           "word_reading": "いたく",
           "word_meaning": "위탁, 맡김"
+        },
+        {
+          "char": "恫",
+          "radical": "忄",
+          "component": "口",
+          "meaning": "공갈, 위협하여 협박함",
+          "word": "恫喝",
+          "word_reading": "どうかつ",
+          "word_meaning": "공갈, 위협하여 협박함"
         }
       ]
     },
@@ -1741,6 +1777,24 @@
           "word": "交渉",
           "word_reading": "こうしょう",
           "word_meaning": "교섭, 협상"
+        },
+        {
+          "char": "総",
+          "radical": "糸",
+          "component": "悤",
+          "meaning": "종합, 여러 가지를 하나로 합침",
+          "word": "総合",
+          "word_reading": "そうごう",
+          "word_meaning": "종합, 여러 가지를 하나로 합침"
+        },
+        {
+          "char": "満",
+          "radical": "氵",
+          "component": "｜",
+          "meaning": "가득함, 실을 수 있는 한 가득",
+          "word": "満載",
+          "word_reading": "まんさい",
+          "word_meaning": "가득함, 실을 수 있는 한 가득"
         }
       ]
     },
@@ -2391,6 +2445,15 @@
           "word": "縮小",
           "word_reading": "しゅくしょう",
           "word_meaning": "축소, 작게 줄임"
+        },
+        {
+          "char": "仇",
+          "radical": "亻",
+          "component": "九",
+          "meaning": "원수, 적",
+          "word": "仇",
+          "word_reading": "あだ",
+          "word_meaning": "원수, 적"
         }
       ]
     },
@@ -2915,6 +2978,33 @@
           "word": "多忙",
           "word_reading": "たぼう",
           "word_meaning": "다망함, 매우 바쁨"
+        },
+        {
+          "char": "抽",
+          "radical": "扌",
+          "component": "由",
+          "meaning": "추첨, 제비를 뽑아 결정",
+          "word": "抽選",
+          "word_reading": "ちゅうせん",
+          "word_meaning": "추첨, 제비를 뽑아 결정"
+        },
+        {
+          "char": "捕",
+          "radical": "扌",
+          "component": "甫",
+          "meaning": "나포, 선박이나 사람을 붙잡음",
+          "word": "拿捕",
+          "word_reading": "だほ",
+          "word_meaning": "나포, 선박이나 사람을 붙잡음"
+        },
+        {
+          "char": "恫",
+          "radical": "忄",
+          "component": "口",
+          "meaning": "공갈, 위협하여 협박함",
+          "word": "恫喝",
+          "word_reading": "どうかつ",
+          "word_meaning": "공갈, 위협하여 협박함"
         }
       ]
     },
@@ -3565,6 +3655,15 @@
           "word": "交渉",
           "word_reading": "こうしょう",
           "word_meaning": "교섭, 협상"
+        },
+        {
+          "char": "満",
+          "radical": "氵",
+          "component": "｜",
+          "meaning": "가득함, 실을 수 있는 한 가득",
+          "word": "満載",
+          "word_reading": "まんさい",
+          "word_meaning": "가득함, 실을 수 있는 한 가득"
         }
       ]
     }
