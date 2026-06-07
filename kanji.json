@@ -1,5 +1,5 @@
 {
-  "total_words": 1140,
+  "total_words": 1160,
   "levels": {
     "1": {
       "radicals": [
@@ -1208,6 +1208,24 @@
           "word": "恫喝",
           "word_reading": "どうかつ",
           "word_meaning": "공갈, 위협하여 협박함"
+        },
+        {
+          "char": "怖",
+          "radical": "忄",
+          "component": "ノ",
+          "meaning": "겁이 많은 사람, 겁쟁이",
+          "word": "怖がり屋",
+          "word_reading": "こわがりや",
+          "word_meaning": "겁이 많은 사람, 겁쟁이"
+        },
+        {
+          "char": "憧",
+          "radical": "忄",
+          "component": "里",
+          "meaning": "동경하다, 그리워하다",
+          "word": "憧れる",
+          "word_reading": "あこがれる",
+          "word_meaning": "동경하다, 그리워하다"
         }
       ]
     },
@@ -1795,6 +1813,24 @@
           "word": "満載",
           "word_reading": "まんさい",
           "word_meaning": "가득함, 실을 수 있는 한 가득"
+        },
+        {
+          "char": "滑",
+          "radical": "氵",
+          "component": "月",
+          "meaning": "첫 출발, 시작",
+          "word": "滑り出し",
+          "word_reading": "すべりだし",
+          "word_meaning": "첫 출발, 시작"
+        },
+        {
+          "char": "漉",
+          "radical": "氵",
+          "component": "鹿",
+          "meaning": "거르다, 여과하다",
+          "word": "漉す",
+          "word_reading": "こす",
+          "word_meaning": "거르다, 여과하다"
         }
       ]
     },
@@ -3005,6 +3041,24 @@
           "word": "恫喝",
           "word_reading": "どうかつ",
           "word_meaning": "공갈, 위협하여 협박함"
+        },
+        {
+          "char": "怖",
+          "radical": "忄",
+          "component": "ノ",
+          "meaning": "겁이 많은 사람, 겁쟁이",
+          "word": "怖がり屋",
+          "word_reading": "こわがりや",
+          "word_meaning": "겁이 많은 사람, 겁쟁이"
+        },
+        {
+          "char": "憧",
+          "radical": "忄",
+          "component": "里",
+          "meaning": "동경하다, 그리워하다",
+          "word": "憧れる",
+          "word_reading": "あこがれる",
+          "word_meaning": "동경하다, 그리워하다"
         }
       ]
     },
@@ -3664,6 +3718,24 @@
           "word": "満載",
           "word_reading": "まんさい",
           "word_meaning": "가득함, 실을 수 있는 한 가득"
+        },
+        {
+          "char": "滑",
+          "radical": "氵",
+          "component": "月",
+          "meaning": "첫 출발, 시작",
+          "word": "滑り出し",
+          "word_reading": "すべりだし",
+          "word_meaning": "첫 출발, 시작"
+        },
+        {
+          "char": "漉",
+          "radical": "氵",
+          "component": "鹿",
+          "meaning": "거르다, 여과하다",
+          "word": "漉す",
+          "word_reading": "こす",
+          "word_meaning": "거르다, 여과하다"
         }
       ]
     }
