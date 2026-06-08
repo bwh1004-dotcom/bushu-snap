@@ -1,5 +1,5 @@
 {
-  "total_words": 1160,
+  "total_words": 1180,
   "levels": {
     "1": {
       "radicals": [
@@ -1226,6 +1226,24 @@
           "word": "憧れる",
           "word_reading": "あこがれる",
           "word_meaning": "동경하다, 그리워하다"
+        },
+        {
+          "char": "悩",
+          "radical": "忄",
+          "component": "⺌",
+          "meaning": "괴롭히다, 고민하게 하다",
+          "word": "悩ます",
+          "word_reading": "なやます",
+          "word_meaning": "괴롭히다, 고민하게 하다"
+        },
+        {
+          "char": "詳",
+          "radical": "言",
+          "component": "王",
+          "meaning": "자세하다, 상세히 알다",
+          "word": "詳しい",
+          "word_reading": "くわしい",
+          "word_meaning": "자세하다, 상세히 알다"
         }
       ]
     },
@@ -1831,6 +1849,15 @@
           "word": "漉す",
           "word_reading": "こす",
           "word_meaning": "거르다, 여과하다"
+        },
+        {
+          "char": "注",
+          "radical": "氵",
+          "component": "王",
+          "meaning": "투입하다, 쏟아붓다",
+          "word": "注ぎ込む",
+          "word_reading": "つぎこむ",
+          "word_meaning": "투입하다, 쏟아붓다"
         }
       ]
     },
@@ -2490,6 +2517,15 @@
           "word": "仇",
           "word_reading": "あだ",
           "word_meaning": "원수, 적"
+        },
+        {
+          "char": "詳",
+          "radical": "言",
+          "component": "王",
+          "meaning": "자세하다, 상세히 알다",
+          "word": "詳しい",
+          "word_reading": "くわしい",
+          "word_meaning": "자세하다, 상세히 알다"
         }
       ]
     },
@@ -3059,6 +3095,15 @@
           "word": "憧れる",
           "word_reading": "あこがれる",
           "word_meaning": "동경하다, 그리워하다"
+        },
+        {
+          "char": "悩",
+          "radical": "忄",
+          "component": "⺌",
+          "meaning": "괴롭히다, 고민하게 하다",
+          "word": "悩ます",
+          "word_reading": "なやます",
+          "word_meaning": "괴롭히다, 고민하게 하다"
         }
       ]
     },
@@ -3736,6 +3781,24 @@
           "word": "漉す",
           "word_reading": "こす",
           "word_meaning": "거르다, 여과하다"
+        },
+        {
+          "char": "注",
+          "radical": "氵",
+          "component": "王",
+          "meaning": "투입하다, 쏟아붓다",
+          "word": "注ぎ込む",
+          "word_reading": "つぎこむ",
+          "word_meaning": "투입하다, 쏟아붓다"
+        },
+        {
+          "char": "詳",
+          "radical": "言",
+          "component": "王",
+          "meaning": "자세하다, 상세히 알다",
+          "word": "詳しい",
+          "word_reading": "くわしい",
+          "word_meaning": "자세하다, 상세히 알다"
         }
       ]
     }
