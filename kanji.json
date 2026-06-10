@@ -1,5 +1,5 @@
 {
-  "total_words": 1200,
+  "total_words": 1220,
   "levels": {
     "1": {
       "radicals": [
@@ -738,6 +738,15 @@
           "word": "仇",
           "word_reading": "あだ",
           "word_meaning": "원수, 적"
+        },
+        {
+          "char": "修",
+          "radical": "亻",
+          "component": "｜",
+          "meaning": "연수, 실무 훈련",
+          "word": "研修",
+          "word_reading": "けんしゅう",
+          "word_meaning": "연수, 실무 훈련"
         }
       ]
     },
@@ -1858,6 +1867,24 @@
           "word": "注ぎ込む",
           "word_reading": "つぎこむ",
           "word_meaning": "투입하다, 쏟아붓다"
+        },
+        {
+          "char": "濁",
+          "radical": "氵",
+          "component": "虫",
+          "meaning": "얼버무리다, 적당히 넘기다",
+          "word": "お茶を濁す",
+          "word_reading": "おちゃをにごす",
+          "word_meaning": "얼버무리다, 적당히 넘기다"
+        },
+        {
+          "char": "箔",
+          "radical": "氵",
+          "component": "竹",
+          "meaning": "가치·위신이 올라가다, 박이 붙다",
+          "word": "箔がつく",
+          "word_reading": "はくがつく",
+          "word_meaning": "가치·위신이 올라가다, 박이 붙다"
         }
       ]
     },
@@ -2526,6 +2553,15 @@
           "word": "詳しい",
           "word_reading": "くわしい",
           "word_meaning": "자세하다, 상세히 알다"
+        },
+        {
+          "char": "修",
+          "radical": "亻",
+          "component": "｜",
+          "meaning": "연수, 실무 훈련",
+          "word": "研修",
+          "word_reading": "けんしゅう",
+          "word_meaning": "연수, 실무 훈련"
         }
       ]
     },
@@ -3799,6 +3835,24 @@
           "word": "詳しい",
           "word_reading": "くわしい",
           "word_meaning": "자세하다, 상세히 알다"
+        },
+        {
+          "char": "濁",
+          "radical": "氵",
+          "component": "虫",
+          "meaning": "얼버무리다, 적당히 넘기다",
+          "word": "お茶を濁す",
+          "word_reading": "おちゃをにごす",
+          "word_meaning": "얼버무리다, 적당히 넘기다"
+        },
+        {
+          "char": "箔",
+          "radical": "氵",
+          "component": "竹",
+          "meaning": "가치·위신이 올라가다, 박이 붙다",
+          "word": "箔がつく",
+          "word_reading": "はくがつく",
+          "word_meaning": "가치·위신이 올라가다, 박이 붙다"
         }
       ]
     }
