@@ -1,5 +1,5 @@
 {
-  "total_words": 1220,
+  "total_words": 1240,
   "levels": {
     "1": {
       "radicals": [
@@ -747,6 +747,15 @@
           "word": "研修",
           "word_reading": "けんしゅう",
           "word_meaning": "연수, 실무 훈련"
+        },
+        {
+          "char": "促",
+          "radical": "亻",
+          "component": "口",
+          "meaning": "촉진, 재촉하여 빨리 나아가게 함",
+          "word": "促進",
+          "word_reading": "そくしん",
+          "word_meaning": "촉진, 재촉하여 빨리 나아가게 함"
         }
       ]
     },
@@ -1885,6 +1894,15 @@
           "word": "箔がつく",
           "word_reading": "はくがつく",
           "word_meaning": "가치·위신이 올라가다, 박이 붙다"
+        },
+        {
+          "char": "闊",
+          "radical": "氵",
+          "component": "口",
+          "meaning": "활보, 당당하게 걷는 모양",
+          "word": "闊歩",
+          "word_reading": "かっぽ",
+          "word_meaning": "활보, 당당하게 걷는 모양"
         }
       ]
     },
@@ -2562,6 +2580,15 @@
           "word": "研修",
           "word_reading": "けんしゅう",
           "word_meaning": "연수, 실무 훈련"
+        },
+        {
+          "char": "促",
+          "radical": "亻",
+          "component": "口",
+          "meaning": "촉진, 재촉하여 빨리 나아가게 함",
+          "word": "促進",
+          "word_reading": "そくしん",
+          "word_meaning": "촉진, 재촉하여 빨리 나아가게 함"
         }
       ]
     },
@@ -3853,6 +3880,15 @@
           "word": "箔がつく",
           "word_reading": "はくがつく",
           "word_meaning": "가치·위신이 올라가다, 박이 붙다"
+        },
+        {
+          "char": "闊",
+          "radical": "氵",
+          "component": "口",
+          "meaning": "활보, 당당하게 걷는 모양",
+          "word": "闊歩",
+          "word_reading": "かっぽ",
+          "word_meaning": "활보, 당당하게 걷는 모양"
         }
       ]
     }
