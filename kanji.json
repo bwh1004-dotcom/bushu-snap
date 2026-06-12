@@ -1,5 +1,5 @@
 {
-  "total_words": 1240,
+  "total_words": 1260,
   "levels": {
     "1": {
       "radicals": [
@@ -1903,6 +1903,33 @@
           "word": "闊歩",
           "word_reading": "かっぽ",
           "word_meaning": "활보, 당당하게 걷는 모양"
+        },
+        {
+          "char": "沙",
+          "radical": "氵",
+          "component": "ノ",
+          "meaning": "격조함, 오랫동안 연락하지 못함",
+          "word": "ご無沙汰",
+          "word_reading": "ごぶさた",
+          "word_meaning": "격조함, 오랫동안 연락하지 못함"
+        },
+        {
+          "char": "汰",
+          "radical": "氵",
+          "component": "大",
+          "meaning": "격조함, 오랫동안 연락하지 못함",
+          "word": "ご無沙汰",
+          "word_reading": "ごぶさた",
+          "word_meaning": "격조함, 오랫동안 연락하지 못함"
+        },
+        {
+          "char": "綜",
+          "radical": "糸",
+          "component": "幺",
+          "meaning": "복잡하게 뒤얽힘",
+          "word": "錯綜",
+          "word_reading": "さくそう",
+          "word_meaning": "복잡하게 뒤얽힘"
         }
       ]
     },
@@ -3889,6 +3916,24 @@
           "word": "闊歩",
           "word_reading": "かっぽ",
           "word_meaning": "활보, 당당하게 걷는 모양"
+        },
+        {
+          "char": "沙",
+          "radical": "氵",
+          "component": "ノ",
+          "meaning": "격조함, 오랫동안 연락하지 못함",
+          "word": "ご無沙汰",
+          "word_reading": "ごぶさた",
+          "word_meaning": "격조함, 오랫동안 연락하지 못함"
+        },
+        {
+          "char": "汰",
+          "radical": "氵",
+          "component": "大",
+          "meaning": "격조함, 오랫동안 연락하지 못함",
+          "word": "ご無沙汰",
+          "word_reading": "ごぶさた",
+          "word_meaning": "격조함, 오랫동안 연락하지 못함"
         }
       ]
     }
