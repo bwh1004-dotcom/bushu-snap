@@ -1,5 +1,5 @@
 {
-  "total_words": 1260,
+  "total_words": 1280,
   "levels": {
     "1": {
       "radicals": [
@@ -756,6 +756,15 @@
           "word": "促進",
           "word_reading": "そくしん",
           "word_meaning": "촉진, 재촉하여 빨리 나아가게 함"
+        },
+        {
+          "char": "挑",
+          "radical": "扌",
+          "component": "儿",
+          "meaning": "도전하다, 대담하게 맞서다",
+          "word": "挑む",
+          "word_reading": "いどむ",
+          "word_meaning": "도전하다, 대담하게 맞서다"
         }
       ]
     },
@@ -1262,6 +1271,15 @@
           "word": "詳しい",
           "word_reading": "くわしい",
           "word_meaning": "자세하다, 상세히 알다"
+        },
+        {
+          "char": "記",
+          "radical": "言",
+          "component": "己",
+          "meaning": "적다, 기록하다",
+          "word": "記す",
+          "word_reading": "しるす",
+          "word_meaning": "적다, 기록하다"
         }
       ]
     },
@@ -1930,6 +1948,15 @@
           "word": "錯綜",
           "word_reading": "さくそう",
           "word_meaning": "복잡하게 뒤얽힘"
+        },
+        {
+          "char": "漕",
+          "radical": "氵",
+          "component": "曹",
+          "meaning": "젓다, 노를 젓다, 페달을 밟다",
+          "word": "漕ぐ",
+          "word_reading": "こぐ",
+          "word_meaning": "젓다, 노를 젓다, 페달을 밟다"
         }
       ]
     },
@@ -2616,6 +2643,15 @@
           "word": "促進",
           "word_reading": "そくしん",
           "word_meaning": "촉진, 재촉하여 빨리 나아가게 함"
+        },
+        {
+          "char": "記",
+          "radical": "言",
+          "component": "己",
+          "meaning": "적다, 기록하다",
+          "word": "記す",
+          "word_reading": "しるす",
+          "word_meaning": "적다, 기록하다"
         }
       ]
     },
@@ -3194,6 +3230,15 @@
           "word": "悩ます",
           "word_reading": "なやます",
           "word_meaning": "괴롭히다, 고민하게 하다"
+        },
+        {
+          "char": "挑",
+          "radical": "扌",
+          "component": "儿",
+          "meaning": "도전하다, 대담하게 맞서다",
+          "word": "挑む",
+          "word_reading": "いどむ",
+          "word_meaning": "도전하다, 대담하게 맞서다"
         }
       ]
     },
@@ -3934,6 +3979,24 @@
           "word": "ご無沙汰",
           "word_reading": "ごぶさた",
           "word_meaning": "격조함, 오랫동안 연락하지 못함"
+        },
+        {
+          "char": "漕",
+          "radical": "氵",
+          "component": "曹",
+          "meaning": "젓다, 노를 젓다, 페달을 밟다",
+          "word": "漕ぐ",
+          "word_reading": "こぐ",
+          "word_meaning": "젓다, 노를 젓다, 페달을 밟다"
+        },
+        {
+          "char": "記",
+          "radical": "言",
+          "component": "己",
+          "meaning": "적다, 기록하다",
+          "word": "記す",
+          "word_reading": "しるす",
+          "word_meaning": "적다, 기록하다"
         }
       ]
     }
