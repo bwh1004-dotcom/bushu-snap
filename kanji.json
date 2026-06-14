@@ -1,5 +1,5 @@
 {
-  "total_words": 1280,
+  "total_words": 1300,
   "levels": {
     "1": {
       "radicals": [
@@ -765,6 +765,15 @@
           "word": "挑む",
           "word_reading": "いどむ",
           "word_meaning": "도전하다, 대담하게 맞서다"
+        },
+        {
+          "char": "仰",
+          "radical": "亻",
+          "component": "卩",
+          "meaning": "호들갑스럽다, 과장되다",
+          "word": "仰々しい",
+          "word_reading": "ぎょうぎょうしい",
+          "word_meaning": "호들갑스럽다, 과장되다"
         }
       ]
     },
@@ -1957,6 +1966,24 @@
           "word": "漕ぐ",
           "word_reading": "こぐ",
           "word_meaning": "젓다, 노를 젓다, 페달을 밟다"
+        },
+        {
+          "char": "潤",
+          "radical": "氵",
+          "component": "王",
+          "meaning": "윤택함, 풍족하고 넉넉함",
+          "word": "潤沢",
+          "word_reading": "じゅんたく",
+          "word_meaning": "윤택함, 풍족하고 넉넉함"
+        },
+        {
+          "char": "沢",
+          "radical": "氵",
+          "component": "尸",
+          "meaning": "윤택함, 풍족하고 넉넉함",
+          "word": "潤沢",
+          "word_reading": "じゅんたく",
+          "word_meaning": "윤택함, 풍족하고 넉넉함"
         }
       ]
     },
@@ -2652,6 +2679,15 @@
           "word": "記す",
           "word_reading": "しるす",
           "word_meaning": "적다, 기록하다"
+        },
+        {
+          "char": "仰",
+          "radical": "亻",
+          "component": "卩",
+          "meaning": "호들갑스럽다, 과장되다",
+          "word": "仰々しい",
+          "word_reading": "ぎょうぎょうしい",
+          "word_meaning": "호들갑스럽다, 과장되다"
         }
       ]
     },
@@ -3997,6 +4033,24 @@
           "word": "記す",
           "word_reading": "しるす",
           "word_meaning": "적다, 기록하다"
+        },
+        {
+          "char": "潤",
+          "radical": "氵",
+          "component": "王",
+          "meaning": "윤택함, 풍족하고 넉넉함",
+          "word": "潤沢",
+          "word_reading": "じゅんたく",
+          "word_meaning": "윤택함, 풍족하고 넉넉함"
+        },
+        {
+          "char": "沢",
+          "radical": "氵",
+          "component": "尸",
+          "meaning": "윤택함, 풍족하고 넉넉함",
+          "word": "潤沢",
+          "word_reading": "じゅんたく",
+          "word_meaning": "윤택함, 풍족하고 넉넉함"
         }
       ]
     }
