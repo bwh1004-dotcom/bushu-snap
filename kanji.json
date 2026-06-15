@@ -1,5 +1,5 @@
 {
-  "total_words": 1300,
+  "total_words": 1320,
   "levels": {
     "1": {
       "radicals": [
@@ -774,6 +774,15 @@
           "word": "仰々しい",
           "word_reading": "ぎょうぎょうしい",
           "word_meaning": "호들갑스럽다, 과장되다"
+        },
+        {
+          "char": "掴",
+          "radical": "扌",
+          "component": "王",
+          "meaning": "뜬구름 잡는 듯함, 손에 잡히지 않음",
+          "word": "雲を掴むよう",
+          "word_reading": "くもをつかむよう",
+          "word_meaning": "뜬구름 잡는 듯함, 손에 잡히지 않음"
         }
       ]
     },
@@ -1984,6 +1993,15 @@
           "word": "潤沢",
           "word_reading": "じゅんたく",
           "word_meaning": "윤택함, 풍족하고 넉넉함"
+        },
+        {
+          "char": "累",
+          "radical": "糸",
+          "component": "幺",
+          "meaning": "누가 되다, 피해가 미치다",
+          "word": "累が及ぶ",
+          "word_reading": "るいがおよぶ",
+          "word_meaning": "누가 되다, 피해가 미치다"
         }
       ]
     },
@@ -3275,6 +3293,15 @@
           "word": "挑む",
           "word_reading": "いどむ",
           "word_meaning": "도전하다, 대담하게 맞서다"
+        },
+        {
+          "char": "掴",
+          "radical": "扌",
+          "component": "王",
+          "meaning": "뜬구름 잡는 듯함, 손에 잡히지 않음",
+          "word": "雲を掴むよう",
+          "word_reading": "くもをつかむよう",
+          "word_meaning": "뜬구름 잡는 듯함, 손에 잡히지 않음"
         }
       ]
     },
