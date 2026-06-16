@@ -1,5 +1,5 @@
 {
-  "total_words": 1320,
+  "total_words": 1340,
   "levels": {
     "1": {
       "radicals": [
@@ -1298,6 +1298,15 @@
           "word": "記す",
           "word_reading": "しるす",
           "word_meaning": "적다, 기록하다"
+        },
+        {
+          "char": "訣",
+          "radical": "言",
+          "component": "人",
+          "meaning": "비결, 성공의 비밀 열쇠",
+          "word": "秘訣",
+          "word_reading": "ひけつ",
+          "word_meaning": "비결, 성공의 비밀 열쇠"
         }
       ]
     },
@@ -2002,6 +2011,24 @@
           "word": "累が及ぶ",
           "word_reading": "るいがおよぶ",
           "word_meaning": "누가 되다, 피해가 미치다"
+        },
+        {
+          "char": "絶",
+          "radical": "糸",
+          "component": "幺",
+          "meaning": "의절, 의리를 끊음",
+          "word": "義絶",
+          "word_reading": "ぎぜつ",
+          "word_meaning": "의절, 의리를 끊음"
+        },
+        {
+          "char": "派",
+          "radical": "氵",
+          "component": "斤",
+          "meaning": "파견, 일정 기간 다른 곳에 보냄",
+          "word": "派遣",
+          "word_reading": "はけん",
+          "word_meaning": "파견, 일정 기간 다른 곳에 보냄"
         }
       ]
     },
@@ -2706,6 +2733,15 @@
           "word": "仰々しい",
           "word_reading": "ぎょうぎょうしい",
           "word_meaning": "호들갑스럽다, 과장되다"
+        },
+        {
+          "char": "訣",
+          "radical": "言",
+          "component": "人",
+          "meaning": "비결, 성공의 비밀 열쇠",
+          "word": "秘訣",
+          "word_reading": "ひけつ",
+          "word_meaning": "비결, 성공의 비밀 열쇠"
         }
       ]
     },
@@ -4078,6 +4114,24 @@
           "word": "潤沢",
           "word_reading": "じゅんたく",
           "word_meaning": "윤택함, 풍족하고 넉넉함"
+        },
+        {
+          "char": "派",
+          "radical": "氵",
+          "component": "斤",
+          "meaning": "파견, 일정 기간 다른 곳에 보냄",
+          "word": "派遣",
+          "word_reading": "はけん",
+          "word_meaning": "파견, 일정 기간 다른 곳에 보냄"
+        },
+        {
+          "char": "訣",
+          "radical": "言",
+          "component": "人",
+          "meaning": "비결, 성공의 비밀 열쇠",
+          "word": "秘訣",
+          "word_reading": "ひけつ",
+          "word_meaning": "비결, 성공의 비밀 열쇠"
         }
       ]
     }
