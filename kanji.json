@@ -1,5 +1,5 @@
 {
-  "total_words": 1340,
+  "total_words": 1360,
   "levels": {
     "1": {
       "radicals": [
@@ -783,6 +783,33 @@
           "word": "雲を掴むよう",
           "word_reading": "くもをつかむよう",
           "word_meaning": "뜬구름 잡는 듯함, 손에 잡히지 않음"
+        },
+        {
+          "char": "倣",
+          "radical": "亻",
+          "component": "方",
+          "meaning": "모방, 흉내냄",
+          "word": "模倣",
+          "word_reading": "もほう",
+          "word_meaning": "모방, 흉내냄"
+        },
+        {
+          "char": "揺",
+          "radical": "扌",
+          "component": "干",
+          "meaning": "동요, 마음이 흔들림",
+          "word": "動揺",
+          "word_reading": "どうよう",
+          "word_meaning": "동요, 마음이 흔들림"
+        },
+        {
+          "char": "哲",
+          "radical": "扌",
+          "component": "斤",
+          "meaning": "유별남, 이상함 (주로 부정형으로 사용)",
+          "word": "変哲",
+          "word_reading": "へんてつ",
+          "word_meaning": "유별남, 이상함 (주로 부정형으로 사용)"
         }
       ]
     },
@@ -2029,6 +2056,15 @@
           "word": "派遣",
           "word_reading": "はけん",
           "word_meaning": "파견, 일정 기간 다른 곳에 보냄"
+        },
+        {
+          "char": "簿",
+          "radical": "氵",
+          "component": "十",
+          "meaning": "명부, 이름 목록",
+          "word": "名簿",
+          "word_reading": "めいぼ",
+          "word_meaning": "명부, 이름 목록"
         }
       ]
     },
@@ -2742,6 +2778,15 @@
           "word": "秘訣",
           "word_reading": "ひけつ",
           "word_meaning": "비결, 성공의 비밀 열쇠"
+        },
+        {
+          "char": "倣",
+          "radical": "亻",
+          "component": "方",
+          "meaning": "모방, 흉내냄",
+          "word": "模倣",
+          "word_reading": "もほう",
+          "word_meaning": "모방, 흉내냄"
         }
       ]
     },
@@ -3338,6 +3383,24 @@
           "word": "雲を掴むよう",
           "word_reading": "くもをつかむよう",
           "word_meaning": "뜬구름 잡는 듯함, 손에 잡히지 않음"
+        },
+        {
+          "char": "揺",
+          "radical": "扌",
+          "component": "干",
+          "meaning": "동요, 마음이 흔들림",
+          "word": "動揺",
+          "word_reading": "どうよう",
+          "word_meaning": "동요, 마음이 흔들림"
+        },
+        {
+          "char": "哲",
+          "radical": "扌",
+          "component": "斤",
+          "meaning": "유별남, 이상함 (주로 부정형으로 사용)",
+          "word": "変哲",
+          "word_reading": "へんてつ",
+          "word_meaning": "유별남, 이상함 (주로 부정형으로 사용)"
         }
       ]
     },
@@ -4132,6 +4195,15 @@
           "word": "秘訣",
           "word_reading": "ひけつ",
           "word_meaning": "비결, 성공의 비밀 열쇠"
+        },
+        {
+          "char": "簿",
+          "radical": "氵",
+          "component": "十",
+          "meaning": "명부, 이름 목록",
+          "word": "名簿",
+          "word_reading": "めいぼ",
+          "word_meaning": "명부, 이름 목록"
         }
       ]
     }
