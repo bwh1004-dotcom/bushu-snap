@@ -1,5 +1,5 @@
 {
-  "total_words": 1360,
+  "total_words": 1380,
   "levels": {
     "1": {
       "radicals": [
@@ -2065,6 +2065,15 @@
           "word": "名簿",
           "word_reading": "めいぼ",
           "word_meaning": "명부, 이름 목록"
+        },
+        {
+          "char": "絆",
+          "radical": "糸",
+          "component": "｜",
+          "meaning": "연대감, 유대감, 인연",
+          "word": "絆",
+          "word_reading": "きずな",
+          "word_meaning": "연대감, 유대감, 인연"
         }
       ]
     },
