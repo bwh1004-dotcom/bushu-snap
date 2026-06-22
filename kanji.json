@@ -1,5 +1,5 @@
 {
-  "total_words": 1420,
+  "total_words": 1440,
   "levels": {
     "1": {
       "radicals": [
@@ -810,6 +810,24 @@
           "word": "変哲",
           "word_reading": "へんてつ",
           "word_meaning": "유별남, 이상함 (주로 부정형으로 사용)"
+        },
+        {
+          "char": "像",
+          "radical": "亻",
+          "component": "勹",
+          "meaning": "영상, 화면에 나타나는 모습",
+          "word": "映像",
+          "word_reading": "えいぞう",
+          "word_meaning": "영상, 화면에 나타나는 모습"
+        },
+        {
+          "char": "貨",
+          "radical": "亻",
+          "component": "貝",
+          "meaning": "잡화, 여러 가지 생활용품",
+          "word": "雑貨",
+          "word_reading": "ざっか",
+          "word_meaning": "잡화, 여러 가지 생활용품"
         }
       ]
     },
@@ -2074,6 +2092,15 @@
           "word": "絆",
           "word_reading": "きずな",
           "word_meaning": "연대감, 유대감, 인연"
+        },
+        {
+          "char": "池",
+          "radical": "氵",
+          "component": "也",
+          "meaning": "건전지, 휴대용 전지",
+          "word": "乾電池",
+          "word_reading": "かんでんち",
+          "word_meaning": "건전지, 휴대용 전지"
         }
       ]
     },
@@ -2796,6 +2823,24 @@
           "word": "模倣",
           "word_reading": "もほう",
           "word_meaning": "모방, 흉내냄"
+        },
+        {
+          "char": "像",
+          "radical": "亻",
+          "component": "勹",
+          "meaning": "영상, 화면에 나타나는 모습",
+          "word": "映像",
+          "word_reading": "えいぞう",
+          "word_meaning": "영상, 화면에 나타나는 모습"
+        },
+        {
+          "char": "貨",
+          "radical": "亻",
+          "component": "貝",
+          "meaning": "잡화, 여러 가지 생활용품",
+          "word": "雑貨",
+          "word_reading": "ざっか",
+          "word_meaning": "잡화, 여러 가지 생활용품"
         }
       ]
     },
@@ -4213,6 +4258,15 @@
           "word": "名簿",
           "word_reading": "めいぼ",
           "word_meaning": "명부, 이름 목록"
+        },
+        {
+          "char": "池",
+          "radical": "氵",
+          "component": "也",
+          "meaning": "건전지, 휴대용 전지",
+          "word": "乾電池",
+          "word_reading": "かんでんち",
+          "word_meaning": "건전지, 휴대용 전지"
         }
       ]
     }
