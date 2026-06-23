@@ -1,5 +1,5 @@
 {
-  "total_words": 1440,
+  "total_words": 1460,
   "levels": {
     "1": {
       "radicals": [
@@ -2101,6 +2101,15 @@
           "word": "乾電池",
           "word_reading": "かんでんち",
           "word_meaning": "건전지, 휴대용 전지"
+        },
+        {
+          "char": "繁",
+          "radical": "糸",
+          "component": "幺",
+          "meaning": "번영, 사업이나 나라가 크게 번성함",
+          "word": "繁栄",
+          "word_reading": "はんえい",
+          "word_meaning": "번영, 사업이나 나라가 크게 번성함"
         }
       ]
     },
