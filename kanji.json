@@ -1,5 +1,5 @@
 {
-  "total_words": 1460,
+  "total_words": 1480,
   "levels": {
     "1": {
       "radicals": [
@@ -2110,6 +2110,15 @@
           "word": "繁栄",
           "word_reading": "はんえい",
           "word_meaning": "번영, 사업이나 나라가 크게 번성함"
+        },
+        {
+          "char": "涼",
+          "radical": "氵",
+          "component": "口",
+          "meaning": "납량, 더위를 피해 시원함을 즐김",
+          "word": "納涼",
+          "word_reading": "のうりょう",
+          "word_meaning": "납량, 더위를 피해 시원함을 즐김"
         }
       ]
     },
@@ -4276,6 +4285,15 @@
           "word": "乾電池",
           "word_reading": "かんでんち",
           "word_meaning": "건전지, 휴대용 전지"
+        },
+        {
+          "char": "涼",
+          "radical": "氵",
+          "component": "口",
+          "meaning": "납량, 더위를 피해 시원함을 즐김",
+          "word": "納涼",
+          "word_reading": "のうりょう",
+          "word_meaning": "납량, 더위를 피해 시원함을 즐김"
         }
       ]
     }
