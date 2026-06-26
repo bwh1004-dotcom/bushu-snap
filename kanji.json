@@ -1,5 +1,5 @@
 {
-  "total_words": 1500,
+  "total_words": 1520,
   "levels": {
     "1": {
       "radicals": [
@@ -2119,6 +2119,15 @@
           "word": "納涼",
           "word_reading": "のうりょう",
           "word_meaning": "납량, 더위를 피해 시원함을 즐김"
+        },
+        {
+          "char": "淡",
+          "radical": "氵",
+          "component": "火",
+          "meaning": "담담함, 감정의 기복 없이 차분함",
+          "word": "淡々",
+          "word_reading": "たんたん",
+          "word_meaning": "담담함, 감정의 기복 없이 차분함"
         }
       ]
     },
@@ -4294,6 +4303,15 @@
           "word": "納涼",
           "word_reading": "のうりょう",
           "word_meaning": "납량, 더위를 피해 시원함을 즐김"
+        },
+        {
+          "char": "淡",
+          "radical": "氵",
+          "component": "火",
+          "meaning": "담담함, 감정의 기복 없이 차분함",
+          "word": "淡々",
+          "word_reading": "たんたん",
+          "word_meaning": "담담함, 감정의 기복 없이 차분함"
         }
       ]
     }
