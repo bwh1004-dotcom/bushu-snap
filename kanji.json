@@ -1,5 +1,5 @@
 {
-  "total_words": 1540,
+  "total_words": 1560,
   "levels": {
     "1": {
       "radicals": [
@@ -1361,6 +1361,15 @@
           "word": "秘訣",
           "word_reading": "ひけつ",
           "word_meaning": "비결, 성공의 비밀 열쇠"
+        },
+        {
+          "char": "諾",
+          "radical": "言",
+          "component": "ノ",
+          "meaning": "승낙, 요청이나 제안을 받아들임",
+          "word": "承諾",
+          "word_reading": "しょうだく",
+          "word_meaning": "승낙, 요청이나 제안을 받아들임"
         }
       ]
     },
@@ -2146,6 +2155,15 @@
           "word": "脚光を浴びる",
           "word_reading": "きゃっこうをあびる",
           "word_meaning": "각광을 받다, 주목을 받다"
+        },
+        {
+          "char": "滅",
+          "radical": "氵",
+          "component": "ノ",
+          "meaning": "절멸, 멸종, 완전히 없어짐",
+          "word": "絶滅",
+          "word_reading": "ぜつめつ",
+          "word_meaning": "절멸, 멸종, 완전히 없어짐"
         }
       ]
     },
@@ -2886,6 +2904,15 @@
           "word": "雑貨",
           "word_reading": "ざっか",
           "word_meaning": "잡화, 여러 가지 생활용품"
+        },
+        {
+          "char": "諾",
+          "radical": "言",
+          "component": "ノ",
+          "meaning": "승낙, 요청이나 제안을 받아들임",
+          "word": "承諾",
+          "word_reading": "しょうだく",
+          "word_meaning": "승낙, 요청이나 제안을 받아들임"
         }
       ]
     },
@@ -4348,6 +4375,24 @@
           "word": "脚光を浴びる",
           "word_reading": "きゃっこうをあびる",
           "word_meaning": "각광을 받다, 주목을 받다"
+        },
+        {
+          "char": "諾",
+          "radical": "言",
+          "component": "ノ",
+          "meaning": "승낙, 요청이나 제안을 받아들임",
+          "word": "承諾",
+          "word_reading": "しょうだく",
+          "word_meaning": "승낙, 요청이나 제안을 받아들임"
+        },
+        {
+          "char": "滅",
+          "radical": "氵",
+          "component": "ノ",
+          "meaning": "절멸, 멸종, 완전히 없어짐",
+          "word": "絶滅",
+          "word_reading": "ぜつめつ",
+          "word_meaning": "절멸, 멸종, 완전히 없어짐"
         }
       ]
     }
