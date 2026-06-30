@@ -1,5 +1,5 @@
 {
-  "total_words": 1560,
+  "total_words": 1580,
   "levels": {
     "1": {
       "radicals": [
@@ -837,6 +837,51 @@
           "word": "万雷の拍手",
           "word_reading": "ばんらいのはくしゅ",
           "word_meaning": "우레와 같은 박수, 엄청난 박수갈채"
+        },
+        {
+          "char": "優",
+          "radical": "亻",
+          "component": "一",
+          "meaning": "우위, 더 유리하거나 뛰어난 위치",
+          "word": "優位",
+          "word_reading": "ゆうい",
+          "word_meaning": "우위, 더 유리하거나 뛰어난 위치"
+        },
+        {
+          "char": "位",
+          "radical": "亻",
+          "component": "立",
+          "meaning": "우위, 더 유리하거나 뛰어난 위치",
+          "word": "優位",
+          "word_reading": "ゆうい",
+          "word_meaning": "우위, 더 유리하거나 뛰어난 위치"
+        },
+        {
+          "char": "化",
+          "radical": "亻",
+          "component": "匕",
+          "meaning": "빈껍데기만 남음, 형식만 남고 실질이 없어짐",
+          "word": "形骸化",
+          "word_reading": "けいがいか",
+          "word_meaning": "빈껍데기만 남음, 형식만 남고 실질이 없어짐"
+        },
+        {
+          "char": "挫",
+          "radical": "扌",
+          "component": "｜",
+          "meaning": "실패, 일이 도중에 꺾여 중단됨",
+          "word": "頓挫",
+          "word_reading": "とんざ",
+          "word_meaning": "실패, 일이 도중에 꺾여 중단됨"
+        },
+        {
+          "char": "捻",
+          "radical": "扌",
+          "component": "｜",
+          "meaning": "생각을 짜냄, 어렵게 마련하거나 쥐어짜냄",
+          "word": "捻出",
+          "word_reading": "ねんしゅつ",
+          "word_meaning": "생각을 짜냄, 어렵게 마련하거나 쥐어짜냄"
         }
       ]
     },
@@ -1370,6 +1415,15 @@
           "word": "承諾",
           "word_reading": "しょうだく",
           "word_meaning": "승낙, 요청이나 제안을 받아들임"
+        },
+        {
+          "char": "恒",
+          "radical": "忄",
+          "component": "一",
+          "meaning": "항구, 영원히 변하지 않고 지속됨",
+          "word": "恒久",
+          "word_reading": "こうきゅう",
+          "word_meaning": "항구, 영원히 변하지 않고 지속됨"
         }
       ]
     },
@@ -2164,6 +2218,15 @@
           "word": "絶滅",
           "word_reading": "ぜつめつ",
           "word_meaning": "절멸, 멸종, 완전히 없어짐"
+        },
+        {
+          "char": "波",
+          "radical": "氵",
+          "component": "皮",
+          "meaning": "파급, 영향이 점점 퍼져나감",
+          "word": "波及",
+          "word_reading": "はきゅう",
+          "word_meaning": "파급, 영향이 점점 퍼져나감"
         }
       ]
     },
@@ -2913,6 +2976,33 @@
           "word": "承諾",
           "word_reading": "しょうだく",
           "word_meaning": "승낙, 요청이나 제안을 받아들임"
+        },
+        {
+          "char": "優",
+          "radical": "亻",
+          "component": "一",
+          "meaning": "우위, 더 유리하거나 뛰어난 위치",
+          "word": "優位",
+          "word_reading": "ゆうい",
+          "word_meaning": "우위, 더 유리하거나 뛰어난 위치"
+        },
+        {
+          "char": "位",
+          "radical": "亻",
+          "component": "立",
+          "meaning": "우위, 더 유리하거나 뛰어난 위치",
+          "word": "優位",
+          "word_reading": "ゆうい",
+          "word_meaning": "우위, 더 유리하거나 뛰어난 위치"
+        },
+        {
+          "char": "化",
+          "radical": "亻",
+          "component": "匕",
+          "meaning": "빈껍데기만 남음, 형식만 남고 실질이 없어짐",
+          "word": "形骸化",
+          "word_reading": "けいがいか",
+          "word_meaning": "빈껍데기만 남음, 형식만 남고 실질이 없어짐"
         }
       ]
     },
@@ -3536,6 +3626,33 @@
           "word": "万雷の拍手",
           "word_reading": "ばんらいのはくしゅ",
           "word_meaning": "우레와 같은 박수, 엄청난 박수갈채"
+        },
+        {
+          "char": "恒",
+          "radical": "忄",
+          "component": "一",
+          "meaning": "항구, 영원히 변하지 않고 지속됨",
+          "word": "恒久",
+          "word_reading": "こうきゅう",
+          "word_meaning": "항구, 영원히 변하지 않고 지속됨"
+        },
+        {
+          "char": "挫",
+          "radical": "扌",
+          "component": "｜",
+          "meaning": "실패, 일이 도중에 꺾여 중단됨",
+          "word": "頓挫",
+          "word_reading": "とんざ",
+          "word_meaning": "실패, 일이 도중에 꺾여 중단됨"
+        },
+        {
+          "char": "捻",
+          "radical": "扌",
+          "component": "｜",
+          "meaning": "생각을 짜냄, 어렵게 마련하거나 쥐어짜냄",
+          "word": "捻出",
+          "word_reading": "ねんしゅつ",
+          "word_meaning": "생각을 짜냄, 어렵게 마련하거나 쥐어짜냄"
         }
       ]
     },
@@ -4393,6 +4510,15 @@
           "word": "絶滅",
           "word_reading": "ぜつめつ",
           "word_meaning": "절멸, 멸종, 완전히 없어짐"
+        },
+        {
+          "char": "波",
+          "radical": "氵",
+          "component": "皮",
+          "meaning": "파급, 영향이 점점 퍼져나감",
+          "word": "波及",
+          "word_reading": "はきゅう",
+          "word_meaning": "파급, 영향이 점점 퍼져나감"
         }
       ]
     }
