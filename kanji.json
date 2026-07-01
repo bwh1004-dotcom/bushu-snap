@@ -1,5 +1,5 @@
 {
-  "total_words": 1580,
+  "total_words": 1600,
   "levels": {
     "1": {
       "radicals": [
@@ -882,6 +882,24 @@
           "word": "捻出",
           "word_reading": "ねんしゅつ",
           "word_meaning": "생각을 짜냄, 어렵게 마련하거나 쥐어짜냄"
+        },
+        {
+          "char": "掟",
+          "radical": "扌",
+          "component": "疋",
+          "meaning": "규칙, 규정, 불문율",
+          "word": "掟",
+          "word_reading": "おきて",
+          "word_meaning": "규칙, 규정, 불문율"
+        },
+        {
+          "char": "拝",
+          "radical": "扌",
+          "component": "｜",
+          "meaning": "절하다, 경배하다, 간절히 부탁하다",
+          "word": "拝む",
+          "word_reading": "おがむ",
+          "word_meaning": "절하다, 경배하다, 간절히 부탁하다"
         }
       ]
     },
@@ -3653,6 +3671,24 @@
           "word": "捻出",
           "word_reading": "ねんしゅつ",
           "word_meaning": "생각을 짜냄, 어렵게 마련하거나 쥐어짜냄"
+        },
+        {
+          "char": "掟",
+          "radical": "扌",
+          "component": "疋",
+          "meaning": "규칙, 규정, 불문율",
+          "word": "掟",
+          "word_reading": "おきて",
+          "word_meaning": "규칙, 규정, 불문율"
+        },
+        {
+          "char": "拝",
+          "radical": "扌",
+          "component": "｜",
+          "meaning": "절하다, 경배하다, 간절히 부탁하다",
+          "word": "拝む",
+          "word_reading": "おがむ",
+          "word_meaning": "절하다, 경배하다, 간절히 부탁하다"
         }
       ]
     },
