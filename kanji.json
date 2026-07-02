@@ -1,5 +1,5 @@
 {
-  "total_words": 1600,
+  "total_words": 1620,
   "levels": {
     "1": {
       "radicals": [
@@ -1442,6 +1442,15 @@
           "word": "恒久",
           "word_reading": "こうきゅう",
           "word_meaning": "항구, 영원히 변하지 않고 지속됨"
+        },
+        {
+          "char": "悟",
+          "radical": "忄",
+          "component": "一",
+          "meaning": "깨닫다, 눈치채다",
+          "word": "悟る",
+          "word_reading": "さとる",
+          "word_meaning": "깨닫다, 눈치채다"
         }
       ]
     },
@@ -3689,6 +3698,15 @@
           "word": "拝む",
           "word_reading": "おがむ",
           "word_meaning": "절하다, 경배하다, 간절히 부탁하다"
+        },
+        {
+          "char": "悟",
+          "radical": "忄",
+          "component": "一",
+          "meaning": "깨닫다, 눈치채다",
+          "word": "悟る",
+          "word_reading": "さとる",
+          "word_meaning": "깨닫다, 눈치채다"
         }
       ]
     },
