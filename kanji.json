@@ -1,5 +1,5 @@
 {
-  "total_words": 1640,
+  "total_words": 1660,
   "levels": {
     "1": {
       "radicals": [
@@ -2254,6 +2254,24 @@
           "word": "波及",
           "word_reading": "はきゅう",
           "word_meaning": "파급, 영향이 점점 퍼져나감"
+        },
+        {
+          "char": "漁",
+          "radical": "氵",
+          "component": "魚",
+          "meaning": "어선, 고기잡이 배",
+          "word": "漁船",
+          "word_reading": "ぎょせん",
+          "word_meaning": "어선, 고기잡이 배"
+        },
+        {
+          "char": "油",
+          "radical": "氵",
+          "component": "｜",
+          "meaning": "원유, 정제되지 않은 석유",
+          "word": "原油",
+          "word_reading": "げんゆ",
+          "word_meaning": "원유, 정제되지 않은 석유"
         }
       ]
     },
@@ -4573,6 +4591,24 @@
           "word": "波及",
           "word_reading": "はきゅう",
           "word_meaning": "파급, 영향이 점점 퍼져나감"
+        },
+        {
+          "char": "漁",
+          "radical": "氵",
+          "component": "魚",
+          "meaning": "어선, 고기잡이 배",
+          "word": "漁船",
+          "word_reading": "ぎょせん",
+          "word_meaning": "어선, 고기잡이 배"
+        },
+        {
+          "char": "油",
+          "radical": "氵",
+          "component": "｜",
+          "meaning": "원유, 정제되지 않은 석유",
+          "word": "原油",
+          "word_reading": "げんゆ",
+          "word_meaning": "원유, 정제되지 않은 석유"
         }
       ]
     }
