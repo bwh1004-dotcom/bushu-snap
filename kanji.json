@@ -1,5 +1,5 @@
 {
-  "total_words": 1660,
+  "total_words": 1680,
   "levels": {
     "1": {
       "radicals": [
@@ -900,6 +900,24 @@
           "word": "拝む",
           "word_reading": "おがむ",
           "word_meaning": "절하다, 경배하다, 간절히 부탁하다"
+        },
+        {
+          "char": "償",
+          "radical": "亻",
+          "component": "貝",
+          "meaning": "보상, 손해나 손실에 대해 갚아줌",
+          "word": "補償",
+          "word_reading": "ほしょう",
+          "word_meaning": "보상, 손해나 손실에 대해 갚아줌"
+        },
+        {
+          "char": "擦",
+          "radical": "扌",
+          "component": "ノ",
+          "meaning": "마찰, 서로 부딪혀 갈등이 생김",
+          "word": "摩擦",
+          "word_reading": "まさつ",
+          "word_meaning": "마찰, 서로 부딪혀 갈등이 생김"
         }
       ]
     },
@@ -1451,6 +1469,15 @@
           "word": "悟る",
           "word_reading": "さとる",
           "word_meaning": "깨닫다, 눈치채다"
+        },
+        {
+          "char": "謳",
+          "radical": "言",
+          "component": "口",
+          "meaning": "구가, 자유나 행복을 마음껏 누림",
+          "word": "謳歌",
+          "word_reading": "おうか",
+          "word_meaning": "구가, 자유나 행복을 마음껏 누림"
         }
       ]
     },
@@ -2272,6 +2299,33 @@
           "word": "原油",
           "word_reading": "げんゆ",
           "word_meaning": "원유, 정제되지 않은 석유"
+        },
+        {
+          "char": "潜",
+          "radical": "氵",
+          "component": "人",
+          "meaning": "잠수함",
+          "word": "潜水艦",
+          "word_reading": "せんすいかん",
+          "word_meaning": "잠수함"
+        },
+        {
+          "char": "系",
+          "radical": "糸",
+          "component": "ノ",
+          "meaning": "체계, 일정한 원리로 조직된 전체",
+          "word": "体系",
+          "word_reading": "たいけい",
+          "word_meaning": "체계, 일정한 원리로 조직된 전체"
+        },
+        {
+          "char": "統",
+          "radical": "糸",
+          "component": "幺",
+          "meaning": "통제, 일정한 방침으로 제한하고 관리함",
+          "word": "統制",
+          "word_reading": "とうせい",
+          "word_meaning": "통제, 일정한 방침으로 제한하고 관리함"
         }
       ]
     },
@@ -3048,6 +3102,24 @@
           "word": "形骸化",
           "word_reading": "けいがいか",
           "word_meaning": "빈껍데기만 남음, 형식만 남고 실질이 없어짐"
+        },
+        {
+          "char": "償",
+          "radical": "亻",
+          "component": "貝",
+          "meaning": "보상, 손해나 손실에 대해 갚아줌",
+          "word": "補償",
+          "word_reading": "ほしょう",
+          "word_meaning": "보상, 손해나 손실에 대해 갚아줌"
+        },
+        {
+          "char": "謳",
+          "radical": "言",
+          "component": "口",
+          "meaning": "구가, 자유나 행복을 마음껏 누림",
+          "word": "謳歌",
+          "word_reading": "おうか",
+          "word_meaning": "구가, 자유나 행복을 마음껏 누림"
         }
       ]
     },
@@ -3725,6 +3797,15 @@
           "word": "悟る",
           "word_reading": "さとる",
           "word_meaning": "깨닫다, 눈치채다"
+        },
+        {
+          "char": "擦",
+          "radical": "扌",
+          "component": "ノ",
+          "meaning": "마찰, 서로 부딪혀 갈등이 생김",
+          "word": "摩擦",
+          "word_reading": "まさつ",
+          "word_meaning": "마찰, 서로 부딪혀 갈등이 생김"
         }
       ]
     },
@@ -4609,6 +4690,24 @@
           "word": "原油",
           "word_reading": "げんゆ",
           "word_meaning": "원유, 정제되지 않은 석유"
+        },
+        {
+          "char": "潜",
+          "radical": "氵",
+          "component": "人",
+          "meaning": "잠수함",
+          "word": "潜水艦",
+          "word_reading": "せんすいかん",
+          "word_meaning": "잠수함"
+        },
+        {
+          "char": "謳",
+          "radical": "言",
+          "component": "口",
+          "meaning": "구가, 자유나 행복을 마음껏 누림",
+          "word": "謳歌",
+          "word_reading": "おうか",
+          "word_meaning": "구가, 자유나 행복을 마음껏 누림"
         }
       ]
     }
