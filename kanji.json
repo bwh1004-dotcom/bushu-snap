@@ -1,5 +1,5 @@
 {
-  "total_words": 1680,
+  "total_words": 1700,
   "levels": {
     "1": {
       "radicals": [
@@ -2326,6 +2326,15 @@
           "word": "統制",
           "word_reading": "とうせい",
           "word_meaning": "통제, 일정한 방침으로 제한하고 관리함"
+        },
+        {
+          "char": "渚",
+          "radical": "氵",
+          "component": "日",
+          "meaning": "물가, 파도가 닿는 해변",
+          "word": "渚",
+          "word_reading": "なぎさ",
+          "word_meaning": "물가, 파도가 닿는 해변"
         }
       ]
     },
@@ -4708,6 +4717,15 @@
           "word": "謳歌",
           "word_reading": "おうか",
           "word_meaning": "구가, 자유나 행복을 마음껏 누림"
+        },
+        {
+          "char": "渚",
+          "radical": "氵",
+          "component": "日",
+          "meaning": "물가, 파도가 닿는 해변",
+          "word": "渚",
+          "word_reading": "なぎさ",
+          "word_meaning": "물가, 파도가 닿는 해변"
         }
       ]
     }
