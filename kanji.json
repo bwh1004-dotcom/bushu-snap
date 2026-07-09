@@ -1,5 +1,5 @@
 {
-  "total_words": 1740,
+  "total_words": 1760,
   "levels": {
     "1": {
       "radicals": [
@@ -2335,6 +2335,15 @@
           "word": "渚",
           "word_reading": "なぎさ",
           "word_meaning": "물가, 파도가 닿는 해변"
+        },
+        {
+          "char": "紆",
+          "radical": "糸",
+          "component": "幺",
+          "meaning": "우여곡절, 이리저리 굽이치며 복잡하게 전개됨",
+          "word": "紆余曲折",
+          "word_reading": "うよきょくせつ",
+          "word_meaning": "우여곡절, 이리저리 굽이치며 복잡하게 전개됨"
         }
       ]
     },
