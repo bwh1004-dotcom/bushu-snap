@@ -1,5 +1,5 @@
 {
-  "total_words": 1760,
+  "total_words": 1780,
   "levels": {
     "1": {
       "radicals": [
@@ -918,6 +918,15 @@
           "word": "摩擦",
           "word_reading": "まさつ",
           "word_meaning": "마찰, 서로 부딪혀 갈등이 생김"
+        },
+        {
+          "char": "伝",
+          "radical": "亻",
+          "component": "二",
+          "meaning": "전달, 정보나 지시를 전함",
+          "word": "伝達",
+          "word_reading": "でんたつ",
+          "word_meaning": "전달, 정보나 지시를 전함"
         }
       ]
     },
@@ -3138,6 +3147,15 @@
           "word": "謳歌",
           "word_reading": "おうか",
           "word_meaning": "구가, 자유나 행복을 마음껏 누림"
+        },
+        {
+          "char": "伝",
+          "radical": "亻",
+          "component": "二",
+          "meaning": "전달, 정보나 지시를 전함",
+          "word": "伝達",
+          "word_reading": "でんたつ",
+          "word_meaning": "전달, 정보나 지시를 전함"
         }
       ]
     },
