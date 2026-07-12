@@ -1,5 +1,5 @@
 {
-  "total_words": 1780,
+  "total_words": 1800,
   "levels": {
     "1": {
       "radicals": [
@@ -927,6 +927,15 @@
           "word": "伝達",
           "word_reading": "でんたつ",
           "word_meaning": "전달, 정보나 지시를 전함"
+        },
+        {
+          "char": "搾",
+          "radical": "扌",
+          "component": "｜",
+          "meaning": "착취, 부당하게 빼앗음",
+          "word": "搾取",
+          "word_reading": "さくしゅ",
+          "word_meaning": "착취, 부당하게 빼앗음"
         }
       ]
     },
@@ -2353,6 +2362,15 @@
           "word": "紆余曲折",
           "word_reading": "うよきょくせつ",
           "word_meaning": "우여곡절, 이리저리 굽이치며 복잡하게 전개됨"
+        },
+        {
+          "char": "洩",
+          "radical": "氵",
+          "component": "ノ",
+          "meaning": "누설, 비밀이나 정보가 새어나감",
+          "word": "漏洩",
+          "word_reading": "ろうえい",
+          "word_meaning": "누설, 비밀이나 정보가 새어나감"
         }
       ]
     },
@@ -3842,6 +3860,15 @@
           "word": "摩擦",
           "word_reading": "まさつ",
           "word_meaning": "마찰, 서로 부딪혀 갈등이 생김"
+        },
+        {
+          "char": "搾",
+          "radical": "扌",
+          "component": "｜",
+          "meaning": "착취, 부당하게 빼앗음",
+          "word": "搾取",
+          "word_reading": "さくしゅ",
+          "word_meaning": "착취, 부당하게 빼앗음"
         }
       ]
     },
@@ -4753,6 +4780,15 @@
           "word": "渚",
           "word_reading": "なぎさ",
           "word_meaning": "물가, 파도가 닿는 해변"
+        },
+        {
+          "char": "洩",
+          "radical": "氵",
+          "component": "ノ",
+          "meaning": "누설, 비밀이나 정보가 새어나감",
+          "word": "漏洩",
+          "word_reading": "ろうえい",
+          "word_meaning": "누설, 비밀이나 정보가 새어나감"
         }
       ]
     }
