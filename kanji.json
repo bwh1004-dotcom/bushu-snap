@@ -1,5 +1,5 @@
 {
-  "total_words": 1800,
+  "total_words": 1820,
   "levels": {
     "1": {
       "radicals": [
@@ -936,6 +936,24 @@
           "word": "搾取",
           "word_reading": "さくしゅ",
           "word_meaning": "착취, 부당하게 빼앗음"
+        },
+        {
+          "char": "揚",
+          "radical": "扌",
+          "component": "一",
+          "meaning": "튀기다",
+          "word": "揚げる",
+          "word_reading": "あげる",
+          "word_meaning": "튀기다"
+        },
+        {
+          "char": "偏",
+          "radical": "亻",
+          "component": "｜",
+          "meaning": "기울다, 치우치다",
+          "word": "偏る",
+          "word_reading": "かたよる",
+          "word_meaning": "기울다, 치우치다"
         }
       ]
     },
@@ -2371,6 +2389,24 @@
           "word": "漏洩",
           "word_reading": "ろうえい",
           "word_meaning": "누설, 비밀이나 정보가 새어나감"
+        },
+        {
+          "char": "縄",
+          "radical": "糸",
+          "component": "亀",
+          "meaning": "영역",
+          "word": "縄張り",
+          "word_reading": "なわばり",
+          "word_meaning": "영역"
+        },
+        {
+          "char": "温",
+          "radical": "氵",
+          "component": "皿",
+          "meaning": "데우다",
+          "word": "温める",
+          "word_reading": "あたためる",
+          "word_meaning": "데우다"
         }
       ]
     },
@@ -3174,6 +3210,15 @@
           "word": "伝達",
           "word_reading": "でんたつ",
           "word_meaning": "전달, 정보나 지시를 전함"
+        },
+        {
+          "char": "偏",
+          "radical": "亻",
+          "component": "｜",
+          "meaning": "기울다, 치우치다",
+          "word": "偏る",
+          "word_reading": "かたよる",
+          "word_meaning": "기울다, 치우치다"
         }
       ]
     },
@@ -3869,6 +3914,15 @@
           "word": "搾取",
           "word_reading": "さくしゅ",
           "word_meaning": "착취, 부당하게 빼앗음"
+        },
+        {
+          "char": "揚",
+          "radical": "扌",
+          "component": "一",
+          "meaning": "튀기다",
+          "word": "揚げる",
+          "word_reading": "あげる",
+          "word_meaning": "튀기다"
         }
       ]
     },
@@ -4789,6 +4843,15 @@
           "word": "漏洩",
           "word_reading": "ろうえい",
           "word_meaning": "누설, 비밀이나 정보가 새어나감"
+        },
+        {
+          "char": "温",
+          "radical": "氵",
+          "component": "皿",
+          "meaning": "데우다",
+          "word": "温める",
+          "word_reading": "あたためる",
+          "word_meaning": "데우다"
         }
       ]
     }
