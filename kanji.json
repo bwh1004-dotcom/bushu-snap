@@ -1,5 +1,5 @@
 {
-  "total_words": 1820,
+  "total_words": 1840,
   "levels": {
     "1": {
       "radicals": [
@@ -2407,6 +2407,33 @@
           "word": "温める",
           "word_reading": "あたためる",
           "word_meaning": "데우다"
+        },
+        {
+          "char": "溶",
+          "radical": "氵",
+          "component": "穴",
+          "meaning": "(고체를) 녹이다",
+          "word": "溶かす",
+          "word_reading": "とかす",
+          "word_meaning": "(고체를) 녹이다"
+        },
+        {
+          "char": "紛",
+          "radical": "糸",
+          "component": "幺",
+          "meaning": "마음을 달래다, 기분을 전환하다",
+          "word": "紛らす",
+          "word_reading": "まぎらす",
+          "word_meaning": "마음을 달래다, 기분을 전환하다"
+        },
+        {
+          "char": "渋",
+          "radical": "氵",
+          "component": "止",
+          "meaning": "떫다, 쓴맛이 나다, 멋스럽다",
+          "word": "渋い",
+          "word_reading": "しぶい",
+          "word_meaning": "떫다, 쓴맛이 나다, 멋스럽다"
         }
       ]
     },
@@ -4852,6 +4879,24 @@
           "word": "温める",
           "word_reading": "あたためる",
           "word_meaning": "데우다"
+        },
+        {
+          "char": "溶",
+          "radical": "氵",
+          "component": "穴",
+          "meaning": "(고체를) 녹이다",
+          "word": "溶かす",
+          "word_reading": "とかす",
+          "word_meaning": "(고체를) 녹이다"
+        },
+        {
+          "char": "渋",
+          "radical": "氵",
+          "component": "止",
+          "meaning": "떫다, 쓴맛이 나다, 멋스럽다",
+          "word": "渋い",
+          "word_reading": "しぶい",
+          "word_meaning": "떫다, 쓴맛이 나다, 멋스럽다"
         }
       ]
     }
