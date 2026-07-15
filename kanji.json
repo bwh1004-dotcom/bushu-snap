@@ -1,5 +1,5 @@
 {
-  "total_words": 1840,
+  "total_words": 1860,
   "levels": {
     "1": {
       "radicals": [
@@ -954,6 +954,24 @@
           "word": "偏る",
           "word_reading": "かたよる",
           "word_meaning": "기울다, 치우치다"
+        },
+        {
+          "char": "儘",
+          "radical": "亻",
+          "component": "ヨ",
+          "meaning": "있는 그대로",
+          "word": "有りの儘",
+          "word_reading": "ありのまま",
+          "word_meaning": "있는 그대로"
+        },
+        {
+          "char": "依",
+          "radical": "亻",
+          "component": "衣",
+          "meaning": "구태의연",
+          "word": "旧態依然",
+          "word_reading": "きゅうたいいぜん",
+          "word_meaning": "구태의연"
         }
       ]
     },
@@ -2434,6 +2452,15 @@
           "word": "渋い",
           "word_reading": "しぶい",
           "word_meaning": "떫다, 쓴맛이 나다, 멋스럽다"
+        },
+        {
+          "char": "溺",
+          "radical": "氵",
+          "component": "弓",
+          "meaning": "물에 빠지면 지푸라기도 잡는다",
+          "word": "溺れる者は藁をも掴む",
+          "word_reading": "おぼれるものはわらをもつかむ",
+          "word_meaning": "물에 빠지면 지푸라기도 잡는다"
         }
       ]
     },
@@ -3246,6 +3273,24 @@
           "word": "偏る",
           "word_reading": "かたよる",
           "word_meaning": "기울다, 치우치다"
+        },
+        {
+          "char": "儘",
+          "radical": "亻",
+          "component": "ヨ",
+          "meaning": "있는 그대로",
+          "word": "有りの儘",
+          "word_reading": "ありのまま",
+          "word_meaning": "있는 그대로"
+        },
+        {
+          "char": "依",
+          "radical": "亻",
+          "component": "衣",
+          "meaning": "구태의연",
+          "word": "旧態依然",
+          "word_reading": "きゅうたいいぜん",
+          "word_meaning": "구태의연"
         }
       ]
     },
@@ -4897,6 +4942,15 @@
           "word": "渋い",
           "word_reading": "しぶい",
           "word_meaning": "떫다, 쓴맛이 나다, 멋스럽다"
+        },
+        {
+          "char": "溺",
+          "radical": "氵",
+          "component": "弓",
+          "meaning": "물에 빠지면 지푸라기도 잡는다",
+          "word": "溺れる者は藁をも掴む",
+          "word_reading": "おぼれるものはわらをもつかむ",
+          "word_meaning": "물에 빠지면 지푸라기도 잡는다"
         }
       ]
     }
