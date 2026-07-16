@@ -1,5 +1,5 @@
 {
-  "total_words": 1860,
+  "total_words": 1880,
   "levels": {
     "1": {
       "radicals": [
@@ -2461,6 +2461,15 @@
           "word": "溺れる者は藁をも掴む",
           "word_reading": "おぼれるものはわらをもつかむ",
           "word_meaning": "물에 빠지면 지푸라기도 잡는다"
+        },
+        {
+          "char": "添",
+          "radical": "氵",
+          "component": "ノ",
+          "meaning": "좋은 것에 좋은 것을 더하다, 꽃을 더하다",
+          "word": "花を添える",
+          "word_reading": "はなをそえる",
+          "word_meaning": "좋은 것에 좋은 것을 더하다, 꽃을 더하다"
         }
       ]
     },
@@ -4951,6 +4960,15 @@
           "word": "溺れる者は藁をも掴む",
           "word_reading": "おぼれるものはわらをもつかむ",
           "word_meaning": "물에 빠지면 지푸라기도 잡는다"
+        },
+        {
+          "char": "添",
+          "radical": "氵",
+          "component": "ノ",
+          "meaning": "좋은 것에 좋은 것을 더하다, 꽃을 더하다",
+          "word": "花を添える",
+          "word_reading": "はなをそえる",
+          "word_meaning": "좋은 것에 좋은 것을 더하다, 꽃을 더하다"
         }
       ]
     }
