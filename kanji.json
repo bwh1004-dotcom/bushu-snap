@@ -1,5 +1,5 @@
 {
-  "total_words": 1880,
+  "total_words": 1900,
   "levels": {
     "1": {
       "radicals": [
@@ -1532,6 +1532,15 @@
           "word": "謳歌",
           "word_reading": "おうか",
           "word_meaning": "구가, 자유나 행복을 마음껏 누림"
+        },
+        {
+          "char": "誉",
+          "radical": "言",
+          "component": "一",
+          "meaning": "명예",
+          "word": "名誉",
+          "word_reading": "めいよ",
+          "word_meaning": "명예"
         }
       ]
     },
@@ -2470,6 +2479,33 @@
           "word": "花を添える",
           "word_reading": "はなをそえる",
           "word_meaning": "좋은 것에 좋은 것을 더하다, 꽃을 더하다"
+        },
+        {
+          "char": "紀",
+          "radical": "糸",
+          "component": "幺",
+          "meaning": "세기",
+          "word": "世紀",
+          "word_reading": "せいき",
+          "word_meaning": "세기"
+        },
+        {
+          "char": "済",
+          "radical": "氵",
+          "component": "｜",
+          "meaning": "변제",
+          "word": "返済",
+          "word_reading": "へんさい",
+          "word_meaning": "변제"
+        },
+        {
+          "char": "没",
+          "radical": "氵",
+          "component": "殳",
+          "meaning": "매몰",
+          "word": "埋没",
+          "word_reading": "まいぼつ",
+          "word_meaning": "매몰"
         }
       ]
     },
@@ -3300,6 +3336,15 @@
           "word": "旧態依然",
           "word_reading": "きゅうたいいぜん",
           "word_meaning": "구태의연"
+        },
+        {
+          "char": "誉",
+          "radical": "言",
+          "component": "一",
+          "meaning": "명예",
+          "word": "名誉",
+          "word_reading": "めいよ",
+          "word_meaning": "명예"
         }
       ]
     },
@@ -4969,6 +5014,33 @@
           "word": "花を添える",
           "word_reading": "はなをそえる",
           "word_meaning": "좋은 것에 좋은 것을 더하다, 꽃을 더하다"
+        },
+        {
+          "char": "済",
+          "radical": "氵",
+          "component": "｜",
+          "meaning": "변제",
+          "word": "返済",
+          "word_reading": "へんさい",
+          "word_meaning": "변제"
+        },
+        {
+          "char": "没",
+          "radical": "氵",
+          "component": "殳",
+          "meaning": "매몰",
+          "word": "埋没",
+          "word_reading": "まいぼつ",
+          "word_meaning": "매몰"
+        },
+        {
+          "char": "誉",
+          "radical": "言",
+          "component": "一",
+          "meaning": "명예",
+          "word": "名誉",
+          "word_reading": "めいよ",
+          "word_meaning": "명예"
         }
       ]
     }
