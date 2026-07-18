@@ -1,5 +1,5 @@
 {
-  "total_words": 1900,
+  "total_words": 1920,
   "levels": {
     "1": {
       "radicals": [
@@ -972,6 +972,15 @@
           "word": "旧態依然",
           "word_reading": "きゅうたいいぜん",
           "word_meaning": "구태의연"
+        },
+        {
+          "char": "仲",
+          "radical": "亻",
+          "component": "｜",
+          "meaning": "절친, 사이좋은 친구",
+          "word": "仲良し",
+          "word_reading": "なかよし",
+          "word_meaning": "절친, 사이좋은 친구"
         }
       ]
     },
@@ -3345,6 +3354,15 @@
           "word": "名誉",
           "word_reading": "めいよ",
           "word_meaning": "명예"
+        },
+        {
+          "char": "仲",
+          "radical": "亻",
+          "component": "｜",
+          "meaning": "절친, 사이좋은 친구",
+          "word": "仲良し",
+          "word_reading": "なかよし",
+          "word_meaning": "절친, 사이좋은 친구"
         }
       ]
     },
