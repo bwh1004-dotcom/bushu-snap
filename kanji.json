@@ -1,5 +1,5 @@
 {
-  "total_words": 1920,
+  "total_words": 1940,
   "levels": {
     "1": {
       "radicals": [
@@ -1550,6 +1550,15 @@
           "word": "名誉",
           "word_reading": "めいよ",
           "word_meaning": "명예"
+        },
+        {
+          "char": "怯",
+          "radical": "忄",
+          "component": "土",
+          "meaning": "무서워하다, 겁내다",
+          "word": "怯える",
+          "word_reading": "おびえる",
+          "word_meaning": "무서워하다, 겁내다"
         }
       ]
     },
@@ -2515,6 +2524,24 @@
           "word": "埋没",
           "word_reading": "まいぼつ",
           "word_meaning": "매몰"
+        },
+        {
+          "char": "涎",
+          "radical": "氵",
+          "component": "ノ",
+          "meaning": "(질질 흘리는) 침",
+          "word": "涎",
+          "word_reading": "よだれ",
+          "word_meaning": "(질질 흘리는) 침"
+        },
+        {
+          "char": "涙",
+          "radical": "氵",
+          "component": "戸",
+          "meaning": "눈물을 글썽이다",
+          "word": "涙ぐむ",
+          "word_reading": "なみだぐむ",
+          "word_meaning": "눈물을 글썽이다"
         }
       ]
     },
@@ -4067,6 +4094,15 @@
           "word": "揚げる",
           "word_reading": "あげる",
           "word_meaning": "튀기다"
+        },
+        {
+          "char": "怯",
+          "radical": "忄",
+          "component": "土",
+          "meaning": "무서워하다, 겁내다",
+          "word": "怯える",
+          "word_reading": "おびえる",
+          "word_meaning": "무서워하다, 겁내다"
         }
       ]
     },
@@ -5059,6 +5095,24 @@
           "word": "名誉",
           "word_reading": "めいよ",
           "word_meaning": "명예"
+        },
+        {
+          "char": "涎",
+          "radical": "氵",
+          "component": "ノ",
+          "meaning": "(질질 흘리는) 침",
+          "word": "涎",
+          "word_reading": "よだれ",
+          "word_meaning": "(질질 흘리는) 침"
+        },
+        {
+          "char": "涙",
+          "radical": "氵",
+          "component": "戸",
+          "meaning": "눈물을 글썽이다",
+          "word": "涙ぐむ",
+          "word_reading": "なみだぐむ",
+          "word_meaning": "눈물을 글썽이다"
         }
       ]
     }
