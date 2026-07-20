@@ -1,5 +1,5 @@
 {
-  "total_words": 1940,
+  "total_words": 1960,
   "levels": {
     "1": {
       "radicals": [
@@ -981,6 +981,15 @@
           "word": "仲良し",
           "word_reading": "なかよし",
           "word_meaning": "절친, 사이좋은 친구"
+        },
+        {
+          "char": "健",
+          "radical": "亻",
+          "component": "廴",
+          "meaning": "건재함, 건강하게 살아있음",
+          "word": "健在",
+          "word_reading": "けんざい",
+          "word_meaning": "건재함, 건강하게 살아있음"
         }
       ]
     },
@@ -3390,6 +3399,15 @@
           "word": "仲良し",
           "word_reading": "なかよし",
           "word_meaning": "절친, 사이좋은 친구"
+        },
+        {
+          "char": "健",
+          "radical": "亻",
+          "component": "廴",
+          "meaning": "건재함, 건강하게 살아있음",
+          "word": "健在",
+          "word_reading": "けんざい",
+          "word_meaning": "건재함, 건강하게 살아있음"
         }
       ]
     },
