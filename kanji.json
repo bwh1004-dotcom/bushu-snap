@@ -1,5 +1,5 @@
 {
-  "total_words": 1960,
+  "total_words": 1980,
   "levels": {
     "1": {
       "radicals": [
@@ -990,6 +990,15 @@
           "word": "健在",
           "word_reading": "けんざい",
           "word_meaning": "건재함, 건강하게 살아있음"
+        },
+        {
+          "char": "掉",
+          "radical": "扌",
+          "component": "十",
+          "meaning": "대미를 장식하다",
+          "word": "掉尾を飾る",
+          "word_reading": "とうびをかざる",
+          "word_meaning": "대미를 장식하다"
         }
       ]
     },
@@ -2551,6 +2560,24 @@
           "word": "涙ぐむ",
           "word_reading": "なみだぐむ",
           "word_meaning": "눈물을 글썽이다"
+        },
+        {
+          "char": "湯",
+          "radical": "氵",
+          "component": "｜",
+          "meaning": "현실에 안주하다",
+          "word": "ぬるま湯に浸かる",
+          "word_reading": "ぬるまゆにつかる",
+          "word_meaning": "현실에 안주하다"
+        },
+        {
+          "char": "浸",
+          "radical": "氵",
+          "component": "ヨ",
+          "meaning": "현실에 안주하다",
+          "word": "ぬるま湯に浸かる",
+          "word_reading": "ぬるまゆにつかる",
+          "word_meaning": "현실에 안주하다"
         }
       ]
     },
@@ -4121,6 +4148,15 @@
           "word": "怯える",
           "word_reading": "おびえる",
           "word_meaning": "무서워하다, 겁내다"
+        },
+        {
+          "char": "掉",
+          "radical": "扌",
+          "component": "十",
+          "meaning": "대미를 장식하다",
+          "word": "掉尾を飾る",
+          "word_reading": "とうびをかざる",
+          "word_meaning": "대미를 장식하다"
         }
       ]
     },
@@ -5131,6 +5167,24 @@
           "word": "涙ぐむ",
           "word_reading": "なみだぐむ",
           "word_meaning": "눈물을 글썽이다"
+        },
+        {
+          "char": "湯",
+          "radical": "氵",
+          "component": "｜",
+          "meaning": "현실에 안주하다",
+          "word": "ぬるま湯に浸かる",
+          "word_reading": "ぬるまゆにつかる",
+          "word_meaning": "현실에 안주하다"
+        },
+        {
+          "char": "浸",
+          "radical": "氵",
+          "component": "ヨ",
+          "meaning": "현실에 안주하다",
+          "word": "ぬるま湯に浸かる",
+          "word_reading": "ぬるまゆにつかる",
+          "word_meaning": "현실에 안주하다"
         }
       ]
     }
