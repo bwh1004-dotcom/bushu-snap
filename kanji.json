@@ -1,5 +1,5 @@
 {
-  "total_words": 1980,
+  "total_words": 2000,
   "levels": {
     "1": {
       "radicals": [
@@ -999,6 +999,51 @@
           "word": "掉尾を飾る",
           "word_reading": "とうびをかざる",
           "word_meaning": "대미를 장식하다"
+        },
+        {
+          "char": "援",
+          "radical": "扌",
+          "component": "ノ",
+          "meaning": "구원",
+          "word": "救援",
+          "word_reading": "きゅうえん",
+          "word_meaning": "구원"
+        },
+        {
+          "char": "拒",
+          "radical": "扌",
+          "component": "匚",
+          "meaning": "거부",
+          "word": "拒否",
+          "word_reading": "きょひ",
+          "word_meaning": "거부"
+        },
+        {
+          "char": "拾",
+          "radical": "扌",
+          "component": "口",
+          "meaning": "수습",
+          "word": "収拾",
+          "word_reading": "しゅうしゅう",
+          "word_meaning": "수습"
+        },
+        {
+          "char": "抵",
+          "radical": "扌",
+          "component": "氏",
+          "meaning": "저항",
+          "word": "抵抗",
+          "word_reading": "ていこう",
+          "word_meaning": "저항"
+        },
+        {
+          "char": "抗",
+          "radical": "扌",
+          "component": "亠",
+          "meaning": "저항",
+          "word": "抵抗",
+          "word_reading": "ていこう",
+          "word_meaning": "저항"
         }
       ]
     },
@@ -2578,6 +2623,24 @@
           "word": "ぬるま湯に浸かる",
           "word_reading": "ぬるまゆにつかる",
           "word_meaning": "현실에 안주하다"
+        },
+        {
+          "char": "渓",
+          "radical": "氵",
+          "component": "人",
+          "meaning": "계곡",
+          "word": "渓谷",
+          "word_reading": "けいこく",
+          "word_meaning": "계곡"
+        },
+        {
+          "char": "紋",
+          "radical": "糸",
+          "component": "幺",
+          "meaning": "지문",
+          "word": "指紋",
+          "word_reading": "しもん",
+          "word_meaning": "지문"
         }
       ]
     },
@@ -4157,6 +4220,51 @@
           "word": "掉尾を飾る",
           "word_reading": "とうびをかざる",
           "word_meaning": "대미를 장식하다"
+        },
+        {
+          "char": "援",
+          "radical": "扌",
+          "component": "ノ",
+          "meaning": "구원",
+          "word": "救援",
+          "word_reading": "きゅうえん",
+          "word_meaning": "구원"
+        },
+        {
+          "char": "拒",
+          "radical": "扌",
+          "component": "匚",
+          "meaning": "거부",
+          "word": "拒否",
+          "word_reading": "きょひ",
+          "word_meaning": "거부"
+        },
+        {
+          "char": "拾",
+          "radical": "扌",
+          "component": "口",
+          "meaning": "수습",
+          "word": "収拾",
+          "word_reading": "しゅうしゅう",
+          "word_meaning": "수습"
+        },
+        {
+          "char": "抵",
+          "radical": "扌",
+          "component": "氏",
+          "meaning": "저항",
+          "word": "抵抗",
+          "word_reading": "ていこう",
+          "word_meaning": "저항"
+        },
+        {
+          "char": "抗",
+          "radical": "扌",
+          "component": "亠",
+          "meaning": "저항",
+          "word": "抵抗",
+          "word_reading": "ていこう",
+          "word_meaning": "저항"
         }
       ]
     },
@@ -5185,6 +5293,15 @@
           "word": "ぬるま湯に浸かる",
           "word_reading": "ぬるまゆにつかる",
           "word_meaning": "현실에 안주하다"
+        },
+        {
+          "char": "渓",
+          "radical": "氵",
+          "component": "人",
+          "meaning": "계곡",
+          "word": "渓谷",
+          "word_reading": "けいこく",
+          "word_meaning": "계곡"
         }
       ]
     }
