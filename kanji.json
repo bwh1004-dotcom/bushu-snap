@@ -1,5 +1,5 @@
 {
-  "total_words": 2000,
+  "total_words": 2020,
   "levels": {
     "1": {
       "radicals": [
@@ -1622,6 +1622,15 @@
           "word": "怯える",
           "word_reading": "おびえる",
           "word_meaning": "무서워하다, 겁내다"
+        },
+        {
+          "char": "試",
+          "radical": "言",
+          "component": "工",
+          "meaning": "시행착오",
+          "word": "試行錯誤",
+          "word_reading": "しこうさくご",
+          "word_meaning": "시행착오"
         }
       ]
     },
@@ -2641,6 +2650,15 @@
           "word": "指紋",
           "word_reading": "しもん",
           "word_meaning": "지문"
+        },
+        {
+          "char": "沖",
+          "radical": "氵",
+          "component": "｜",
+          "meaning": "육지에서 멀리 떨어진 바다나 호수",
+          "word": "沖",
+          "word_reading": "おき",
+          "word_meaning": "육지에서 멀리 떨어진 바다나 호수"
         }
       ]
     },
@@ -3498,6 +3516,15 @@
           "word": "健在",
           "word_reading": "けんざい",
           "word_meaning": "건재함, 건강하게 살아있음"
+        },
+        {
+          "char": "試",
+          "radical": "言",
+          "component": "工",
+          "meaning": "시행착오",
+          "word": "試行錯誤",
+          "word_reading": "しこうさくご",
+          "word_meaning": "시행착오"
         }
       ]
     },
@@ -5302,6 +5329,24 @@
           "word": "渓谷",
           "word_reading": "けいこく",
           "word_meaning": "계곡"
+        },
+        {
+          "char": "試",
+          "radical": "言",
+          "component": "工",
+          "meaning": "시행착오",
+          "word": "試行錯誤",
+          "word_reading": "しこうさくご",
+          "word_meaning": "시행착오"
+        },
+        {
+          "char": "沖",
+          "radical": "氵",
+          "component": "｜",
+          "meaning": "육지에서 멀리 떨어진 바다나 호수",
+          "word": "沖",
+          "word_reading": "おき",
+          "word_meaning": "육지에서 멀리 떨어진 바다나 호수"
         }
       ]
     }
