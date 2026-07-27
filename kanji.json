@@ -1,5 +1,5 @@
 {
-  "total_words": 2020,
+  "total_words": 2040,
   "levels": {
     "1": {
       "radicals": [
@@ -1044,6 +1044,15 @@
           "word": "抵抗",
           "word_reading": "ていこう",
           "word_meaning": "저항"
+        },
+        {
+          "char": "靴",
+          "radical": "亻",
+          "component": "革",
+          "meaning": "신발에 발이 쓸림",
+          "word": "靴擦れ",
+          "word_reading": "くつずれ",
+          "word_meaning": "신발에 발이 쓸림"
         }
       ]
     },
@@ -1631,6 +1640,15 @@
           "word": "試行錯誤",
           "word_reading": "しこうさくご",
           "word_meaning": "시행착오"
+        },
+        {
+          "char": "憤",
+          "radical": "忄",
+          "component": "貝",
+          "meaning": "분개하다",
+          "word": "憤る",
+          "word_reading": "いきどおる",
+          "word_meaning": "분개하다"
         }
       ]
     },
@@ -3525,6 +3543,15 @@
           "word": "試行錯誤",
           "word_reading": "しこうさくご",
           "word_meaning": "시행착오"
+        },
+        {
+          "char": "靴",
+          "radical": "亻",
+          "component": "革",
+          "meaning": "신발에 발이 쓸림",
+          "word": "靴擦れ",
+          "word_reading": "くつずれ",
+          "word_meaning": "신발에 발이 쓸림"
         }
       ]
     },
@@ -4292,6 +4319,15 @@
           "word": "抵抗",
           "word_reading": "ていこう",
           "word_meaning": "저항"
+        },
+        {
+          "char": "憤",
+          "radical": "忄",
+          "component": "貝",
+          "meaning": "분개하다",
+          "word": "憤る",
+          "word_reading": "いきどおる",
+          "word_meaning": "분개하다"
         }
       ]
     },
