@@ -1,5 +1,5 @@
 {
-  "total_words": 2060,
+  "total_words": 2080,
   "levels": {
     "1": {
       "radicals": [
@@ -1053,6 +1053,15 @@
           "word": "靴擦れ",
           "word_reading": "くつずれ",
           "word_meaning": "신발에 발이 쓸림"
+        },
+        {
+          "char": "描",
+          "radical": "扌",
+          "component": "田",
+          "meaning": "그림의 떡",
+          "word": "絵に描いた餅",
+          "word_reading": "えにかいたもち",
+          "word_meaning": "그림의 떡"
         }
       ]
     },
@@ -4328,6 +4337,15 @@
           "word": "憤る",
           "word_reading": "いきどおる",
           "word_meaning": "분개하다"
+        },
+        {
+          "char": "描",
+          "radical": "扌",
+          "component": "田",
+          "meaning": "그림의 떡",
+          "word": "絵に描いた餅",
+          "word_reading": "えにかいたもち",
+          "word_meaning": "그림의 떡"
         }
       ]
     },
