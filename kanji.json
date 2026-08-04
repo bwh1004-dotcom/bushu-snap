@@ -1,5 +1,5 @@
 {
-  "total_words": 2100,
+  "total_words": 2120,
   "levels": {
     "1": {
       "radicals": [
@@ -1062,6 +1062,24 @@
           "word": "絵に描いた餅",
           "word_reading": "えにかいたもち",
           "word_meaning": "그림의 떡"
+        },
+        {
+          "char": "停",
+          "radical": "亻",
+          "component": "口",
+          "meaning": "정체",
+          "word": "停滞",
+          "word_reading": "ていたい",
+          "word_meaning": "정체"
+        },
+        {
+          "char": "掃",
+          "radical": "扌",
+          "component": "ヨ",
+          "meaning": "일소",
+          "word": "一掃",
+          "word_reading": "いっそう",
+          "word_meaning": "일소"
         }
       ]
     },
@@ -3561,6 +3579,15 @@
           "word": "靴擦れ",
           "word_reading": "くつずれ",
           "word_meaning": "신발에 발이 쓸림"
+        },
+        {
+          "char": "停",
+          "radical": "亻",
+          "component": "口",
+          "meaning": "정체",
+          "word": "停滞",
+          "word_reading": "ていたい",
+          "word_meaning": "정체"
         }
       ]
     },
@@ -4346,6 +4373,15 @@
           "word": "絵に描いた餅",
           "word_reading": "えにかいたもち",
           "word_meaning": "그림의 떡"
+        },
+        {
+          "char": "掃",
+          "radical": "扌",
+          "component": "ヨ",
+          "meaning": "일소",
+          "word": "一掃",
+          "word_reading": "いっそう",
+          "word_meaning": "일소"
         }
       ]
     },
