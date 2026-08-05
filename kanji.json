@@ -1,5 +1,5 @@
 {
-  "total_words": 2120,
+  "total_words": 2140,
   "levels": {
     "1": {
       "radicals": [
@@ -2704,6 +2704,24 @@
           "word": "沖",
           "word_reading": "おき",
           "word_meaning": "육지에서 멀리 떨어진 바다나 호수"
+        },
+        {
+          "char": "浪",
+          "radical": "氵",
+          "component": "艮",
+          "meaning": "역마살, 방랑벽",
+          "word": "放浪癖",
+          "word_reading": "ほうろうへき",
+          "word_meaning": "역마살, 방랑벽"
+        },
+        {
+          "char": "汗",
+          "radical": "氵",
+          "component": "干",
+          "meaning": "식은땀",
+          "word": "冷や汗",
+          "word_reading": "ひやあせ",
+          "word_meaning": "식은땀"
         }
       ]
     },
@@ -5437,6 +5455,24 @@
           "word": "沖",
           "word_reading": "おき",
           "word_meaning": "육지에서 멀리 떨어진 바다나 호수"
+        },
+        {
+          "char": "浪",
+          "radical": "氵",
+          "component": "艮",
+          "meaning": "역마살, 방랑벽",
+          "word": "放浪癖",
+          "word_reading": "ほうろうへき",
+          "word_meaning": "역마살, 방랑벽"
+        },
+        {
+          "char": "汗",
+          "radical": "氵",
+          "component": "干",
+          "meaning": "식은땀",
+          "word": "冷や汗",
+          "word_reading": "ひやあせ",
+          "word_meaning": "식은땀"
         }
       ]
     }
