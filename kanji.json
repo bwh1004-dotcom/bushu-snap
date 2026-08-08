@@ -1,5 +1,5 @@
 {
- "total_words": 2180,
+ "total_words": 2200,
  "levels": {
   "1": {
    "radicals": [
@@ -1080,6 +1080,15 @@
      "word": "一掃",
      "word_reading": "いっそう",
      "word_meaning": "일소"
+    },
+    {
+     "char": "借",
+     "radical": "亻",
+     "component": "昔",
+     "meaning": "빌리다",
+     "word": "猫の手も借りたい",
+     "word_reading": "ねこのてもかりたい",
+     "word_meaning": "대단히 바쁘다"
     }
    ]
   },
@@ -3606,6 +3615,15 @@
      "word": "停滞",
      "word_reading": "ていたい",
      "word_meaning": "정체"
+    },
+    {
+     "char": "借",
+     "radical": "亻",
+     "component": "昔",
+     "meaning": "빌리다",
+     "word": "猫の手も借りたい",
+     "word_reading": "ねこのてもかりたい",
+     "word_meaning": "대단히 바쁘다"
     }
    ]
   },
