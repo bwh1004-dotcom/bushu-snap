@@ -1,5 +1,5 @@
 {
- "total_words": 2200,
+ "total_words": 2220,
  "levels": {
   "1": {
    "radicals": [
@@ -2731,6 +2731,24 @@
      "word": "冷や汗",
      "word_reading": "ひやあせ",
      "word_meaning": "식은땀"
+    },
+    {
+     "char": "縫",
+     "radical": "糸",
+     "component": "逢",
+     "meaning": "꿰매다",
+     "word": "裁縫",
+     "word_reading": "さいほう",
+     "word_meaning": "재봉"
+    },
+    {
+     "char": "洗",
+     "radical": "氵",
+     "component": "先",
+     "meaning": "씻다",
+     "word": "洗剤",
+     "word_reading": "せんざい",
+     "word_meaning": "세제"
     }
    ]
   },
@@ -5491,6 +5509,15 @@
      "word": "冷や汗",
      "word_reading": "ひやあせ",
      "word_meaning": "식은땀"
+    },
+    {
+     "char": "洗",
+     "radical": "氵",
+     "component": "先",
+     "meaning": "씻다",
+     "word": "洗剤",
+     "word_reading": "せんざい",
+     "word_meaning": "세제"
     }
    ]
   }
