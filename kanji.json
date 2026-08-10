@@ -1,5 +1,5 @@
 {
- "total_words": 2220,
+ "total_words": 2240,
  "levels": {
   "1": {
    "radicals": [
@@ -1685,6 +1685,15 @@
      "word": "憤る",
      "word_reading": "いきどおる",
      "word_meaning": "분개하다"
+    },
+    {
+     "char": "忖",
+     "radical": "忄",
+     "component": "寸",
+     "meaning": "헤아리다",
+     "word": "忖度",
+     "word_reading": "そんたく",
+     "word_meaning": "남의 의중을 파악함"
     }
    ]
   },
@@ -4436,6 +4445,15 @@
      "word": "一掃",
      "word_reading": "いっそう",
      "word_meaning": "일소"
+    },
+    {
+     "char": "忖",
+     "radical": "忄",
+     "component": "寸",
+     "meaning": "헤아리다",
+     "word": "忖度",
+     "word_reading": "そんたく",
+     "word_meaning": "남의 의중을 파악함"
     }
    ]
   },
