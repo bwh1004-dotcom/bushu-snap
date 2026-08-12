@@ -1,5 +1,5 @@
 {
- "total_words": 2240,
+ "total_words": 2280,
  "levels": {
   "1": {
    "radicals": [
@@ -1089,6 +1089,33 @@
      "word": "猫の手も借りたい",
      "word_reading": "ねこのてもかりたい",
      "word_meaning": "대단히 바쁘다"
+    },
+    {
+     "char": "採",
+     "radical": "扌",
+     "component": "采",
+     "meaning": "뽑다",
+     "word": "採る",
+     "word_reading": "とる",
+     "word_meaning": "뽑다, 채용하다"
+    },
+    {
+     "char": "揃",
+     "radical": "扌",
+     "component": "前",
+     "meaning": "갖추다",
+     "word": "品揃え",
+     "word_reading": "しなぞろえ",
+     "word_meaning": "준비된 상품의 종류"
+    },
+    {
+     "char": "据",
+     "radical": "扌",
+     "component": "居",
+     "meaning": "고정하다",
+     "word": "据え付ける",
+     "word_reading": "すえつける",
+     "word_meaning": "설치하다, 고정하다"
     }
    ]
   },
@@ -1694,6 +1721,15 @@
      "word": "忖度",
      "word_reading": "そんたく",
      "word_meaning": "남의 의중을 파악함"
+    },
+    {
+     "char": "諮",
+     "radical": "言",
+     "component": "咨",
+     "meaning": "자문하다",
+     "word": "諮る",
+     "word_reading": "はかる",
+     "word_meaning": "자문하다"
     }
    ]
   },
@@ -2758,6 +2794,15 @@
      "word": "洗剤",
      "word_reading": "せんざい",
      "word_meaning": "세제"
+    },
+    {
+     "char": "綱",
+     "radical": "糸",
+     "component": "岡",
+     "meaning": "밧줄",
+     "word": "綱渡り",
+     "word_reading": "つなわたり",
+     "word_meaning": "줄타기"
     }
    ]
   },
@@ -3651,6 +3696,15 @@
      "word": "猫の手も借りたい",
      "word_reading": "ねこのてもかりたい",
      "word_meaning": "대단히 바쁘다"
+    },
+    {
+     "char": "諮",
+     "radical": "言",
+     "component": "咨",
+     "meaning": "자문하다",
+     "word": "諮る",
+     "word_reading": "はかる",
+     "word_meaning": "자문하다"
     }
    ]
   },
@@ -4454,6 +4508,33 @@
      "word": "忖度",
      "word_reading": "そんたく",
      "word_meaning": "남의 의중을 파악함"
+    },
+    {
+     "char": "採",
+     "radical": "扌",
+     "component": "采",
+     "meaning": "뽑다",
+     "word": "採る",
+     "word_reading": "とる",
+     "word_meaning": "뽑다, 채용하다"
+    },
+    {
+     "char": "揃",
+     "radical": "扌",
+     "component": "前",
+     "meaning": "갖추다",
+     "word": "品揃え",
+     "word_reading": "しなぞろえ",
+     "word_meaning": "준비된 상품의 종류"
+    },
+    {
+     "char": "据",
+     "radical": "扌",
+     "component": "居",
+     "meaning": "고정하다",
+     "word": "据え付ける",
+     "word_reading": "すえつける",
+     "word_meaning": "설치하다, 고정하다"
     }
    ]
   },
@@ -5536,6 +5617,15 @@
      "word": "洗剤",
      "word_reading": "せんざい",
      "word_meaning": "세제"
+    },
+    {
+     "char": "諮",
+     "radical": "言",
+     "component": "咨",
+     "meaning": "자문하다",
+     "word": "諮る",
+     "word_reading": "はかる",
+     "word_meaning": "자문하다"
     }
    ]
   }
