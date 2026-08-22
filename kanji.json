@@ -1,5 +1,5 @@
 {
- "total_words": 2280,
+ "total_words": 2320,
  "levels": {
   "1": {
    "radicals": [
@@ -1116,6 +1116,33 @@
      "word": "据え付ける",
      "word_reading": "すえつける",
      "word_meaning": "설치하다, 고정하다"
+    },
+    {
+     "char": "億",
+     "radical": "亻",
+     "component": "意",
+     "meaning": "억",
+     "word": "億劫",
+     "word_reading": "おっくう",
+     "word_meaning": "귀찮음"
+    },
+    {
+     "char": "拡",
+     "radical": "扌",
+     "component": "広",
+     "meaning": "넓히다",
+     "word": "拡散",
+     "word_reading": "かくさん",
+     "word_meaning": "확산"
+    },
+    {
+     "char": "偽",
+     "radical": "亻",
+     "component": "為",
+     "meaning": "거짓",
+     "word": "偽造",
+     "word_reading": "ぎぞう",
+     "word_meaning": "위조"
     }
    ]
   },
@@ -1730,6 +1757,15 @@
      "word": "諮る",
      "word_reading": "はかる",
      "word_meaning": "자문하다"
+    },
+    {
+     "char": "慎",
+     "radical": "忄",
+     "component": "真",
+     "meaning": "삼가다",
+     "word": "慎重",
+     "word_reading": "しんちょう",
+     "word_meaning": "신중함"
     }
    ]
   },
@@ -2803,6 +2839,24 @@
      "word": "綱渡り",
      "word_reading": "つなわたり",
      "word_meaning": "줄타기"
+    },
+    {
+     "char": "液",
+     "radical": "氵",
+     "component": "夜",
+     "meaning": "진액",
+     "word": "液体",
+     "word_reading": "えきたい",
+     "word_meaning": "액체"
+    },
+    {
+     "char": "汚",
+     "radical": "氵",
+     "component": "于",
+     "meaning": "더럽다",
+     "word": "汚水",
+     "word_reading": "おすい",
+     "word_meaning": "오수, 더러운 물"
     }
    ]
   },
@@ -3705,6 +3759,24 @@
      "word": "諮る",
      "word_reading": "はかる",
      "word_meaning": "자문하다"
+    },
+    {
+     "char": "億",
+     "radical": "亻",
+     "component": "意",
+     "meaning": "억",
+     "word": "億劫",
+     "word_reading": "おっくう",
+     "word_meaning": "귀찮음"
+    },
+    {
+     "char": "偽",
+     "radical": "亻",
+     "component": "為",
+     "meaning": "거짓",
+     "word": "偽造",
+     "word_reading": "ぎぞう",
+     "word_meaning": "위조"
     }
    ]
   },
@@ -4535,6 +4607,24 @@
      "word": "据え付ける",
      "word_reading": "すえつける",
      "word_meaning": "설치하다, 고정하다"
+    },
+    {
+     "char": "慎",
+     "radical": "忄",
+     "component": "真",
+     "meaning": "삼가다",
+     "word": "慎重",
+     "word_reading": "しんちょう",
+     "word_meaning": "신중함"
+    },
+    {
+     "char": "拡",
+     "radical": "扌",
+     "component": "広",
+     "meaning": "넓히다",
+     "word": "拡散",
+     "word_reading": "かくさん",
+     "word_meaning": "확산"
     }
    ]
   },
@@ -5626,6 +5716,24 @@
      "word": "諮る",
      "word_reading": "はかる",
      "word_meaning": "자문하다"
+    },
+    {
+     "char": "液",
+     "radical": "氵",
+     "component": "夜",
+     "meaning": "진액",
+     "word": "液体",
+     "word_reading": "えきたい",
+     "word_meaning": "액체"
+    },
+    {
+     "char": "汚",
+     "radical": "氵",
+     "component": "于",
+     "meaning": "더럽다",
+     "word": "汚水",
+     "word_reading": "おすい",
+     "word_meaning": "오수, 더러운 물"
     }
    ]
   }
