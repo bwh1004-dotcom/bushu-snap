@@ -1,5 +1,5 @@
 {
- "total_words": 2380,
+ "total_words": 2400,
  "levels": {
   "1": {
    "radicals": [
@@ -1143,6 +1143,15 @@
      "word": "偽造",
      "word_reading": "ぎぞう",
      "word_meaning": "위조"
+    },
+    {
+     "char": "伏",
+     "radical": "亻",
+     "component": "犬",
+     "meaning": "엎드리다",
+     "word": "待ち伏せる",
+     "word_reading": "まちぶせる",
+     "word_meaning": "숨어서 기다리다"
     }
    ]
   },
@@ -2857,6 +2866,15 @@
      "word": "汚水",
      "word_reading": "おすい",
      "word_meaning": "오수, 더러운 물"
+    },
+    {
+     "char": "潔",
+     "radical": "氵",
+     "component": "絜",
+     "meaning": "깨끗하다",
+     "word": "潔い",
+     "word_reading": "いさぎよい",
+     "word_meaning": "떳떳하다, 미련 없다"
     }
    ]
   },
@@ -3777,6 +3795,15 @@
      "word": "偽造",
      "word_reading": "ぎぞう",
      "word_meaning": "위조"
+    },
+    {
+     "char": "伏",
+     "radical": "亻",
+     "component": "犬",
+     "meaning": "엎드리다",
+     "word": "待ち伏せる",
+     "word_reading": "まちぶせる",
+     "word_meaning": "숨어서 기다리다"
     }
    ]
   },
@@ -5734,6 +5761,15 @@
      "word": "汚水",
      "word_reading": "おすい",
      "word_meaning": "오수, 더러운 물"
+    },
+    {
+     "char": "潔",
+     "radical": "氵",
+     "component": "絜",
+     "meaning": "깨끗하다",
+     "word": "潔い",
+     "word_reading": "いさぎよい",
+     "word_meaning": "떳떳하다, 미련 없다"
     }
    ]
   }
