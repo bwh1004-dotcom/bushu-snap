@@ -1,5 +1,5 @@
 {
- "total_words": 2400,
+ "total_words": 2420,
  "levels": {
   "1": {
    "radicals": [
@@ -2875,6 +2875,24 @@
      "word": "潔い",
      "word_reading": "いさぎよい",
      "word_meaning": "떳떳하다, 미련 없다"
+    },
+    {
+     "char": "索",
+     "radical": "糸",
+     "component": "十",
+     "meaning": "찾다, 노끈",
+     "word": "暗中模索",
+     "word_reading": "あんちゅうもさく",
+     "word_meaning": "암중모색"
+    },
+    {
+     "char": "緩",
+     "radical": "糸",
+     "component": "爰",
+     "meaning": "느슨하다",
+     "word": "たがが緩む",
+     "word_reading": "たががゆるむ",
+     "word_meaning": "긴장이 풀리다"
     }
    ]
   },
