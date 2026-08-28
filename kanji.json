@@ -1,5 +1,5 @@
 {
- "total_words": 2420,
+ "total_words": 2440,
  "levels": {
   "1": {
    "radicals": [
@@ -1152,6 +1152,15 @@
      "word": "待ち伏せる",
      "word_reading": "まちぶせる",
      "word_meaning": "숨어서 기다리다"
+    },
+    {
+     "char": "倦",
+     "radical": "亻",
+     "component": "巻",
+     "meaning": "지치다",
+     "word": "倦怠感",
+     "word_reading": "けんたいかん",
+     "word_meaning": "권태감"
     }
    ]
   },
@@ -2893,6 +2902,15 @@
      "word": "たがが緩む",
      "word_reading": "たががゆるむ",
      "word_meaning": "긴장이 풀리다"
+    },
+    {
+     "char": "激",
+     "radical": "氵",
+     "component": "敫",
+     "meaning": "격렬하다",
+     "word": "激怒",
+     "word_reading": "げきど",
+     "word_meaning": "격노"
     }
    ]
   },
@@ -3822,6 +3840,15 @@
      "word": "待ち伏せる",
      "word_reading": "まちぶせる",
      "word_meaning": "숨어서 기다리다"
+    },
+    {
+     "char": "倦",
+     "radical": "亻",
+     "component": "巻",
+     "meaning": "지치다",
+     "word": "倦怠感",
+     "word_reading": "けんたいかん",
+     "word_meaning": "권태감"
     }
    ]
   },
@@ -5788,6 +5815,15 @@
      "word": "潔い",
      "word_reading": "いさぎよい",
      "word_meaning": "떳떳하다, 미련 없다"
+    },
+    {
+     "char": "激",
+     "radical": "氵",
+     "component": "敫",
+     "meaning": "격렬하다",
+     "word": "激怒",
+     "word_reading": "げきど",
+     "word_meaning": "격노"
     }
    ]
   }
