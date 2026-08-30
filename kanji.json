@@ -1,5 +1,5 @@
 {
- "total_words": 2440,
+ "total_words": 2460,
  "levels": {
   "1": {
    "radicals": [
@@ -1161,6 +1161,24 @@
      "word": "倦怠感",
      "word_reading": "けんたいかん",
      "word_meaning": "권태감"
+    },
+    {
+     "char": "抑",
+     "radical": "扌",
+     "component": "卬",
+     "meaning": "누르다",
+     "word": "抑圧",
+     "word_reading": "よくあつ",
+     "word_meaning": "억압"
+    },
+    {
+     "char": "仮",
+     "radical": "亻",
+     "component": "反",
+     "meaning": "임시",
+     "word": "仮払い",
+     "word_reading": "かりばらい",
+     "word_meaning": "가불"
     }
    ]
   },
@@ -1784,6 +1802,15 @@
      "word": "慎重",
      "word_reading": "しんちょう",
      "word_meaning": "신중함"
+    },
+    {
+     "char": "慨",
+     "radical": "忄",
+     "component": "既",
+     "meaning": "분개하다",
+     "word": "憤慨",
+     "word_reading": "ふんがい",
+     "word_meaning": "분개"
     }
    ]
   },
@@ -2911,6 +2938,15 @@
      "word": "激怒",
      "word_reading": "げきど",
      "word_meaning": "격노"
+    },
+    {
+     "char": "紅",
+     "radical": "糸",
+     "component": "工",
+     "meaning": "붉다",
+     "word": "紅一点",
+     "word_reading": "こういってん",
+     "word_meaning": "홍일점"
     }
    ]
   },
@@ -3849,6 +3885,15 @@
      "word": "倦怠感",
      "word_reading": "けんたいかん",
      "word_meaning": "권태감"
+    },
+    {
+     "char": "仮",
+     "radical": "亻",
+     "component": "反",
+     "meaning": "임시",
+     "word": "仮払い",
+     "word_reading": "かりばらい",
+     "word_meaning": "가불"
     }
    ]
   },
@@ -4697,6 +4742,24 @@
      "word": "拡散",
      "word_reading": "かくさん",
      "word_meaning": "확산"
+    },
+    {
+     "char": "慨",
+     "radical": "忄",
+     "component": "既",
+     "meaning": "분개하다",
+     "word": "憤慨",
+     "word_reading": "ふんがい",
+     "word_meaning": "분개"
+    },
+    {
+     "char": "抑",
+     "radical": "扌",
+     "component": "卬",
+     "meaning": "누르다",
+     "word": "抑圧",
+     "word_reading": "よくあつ",
+     "word_meaning": "억압"
     }
    ]
   },
