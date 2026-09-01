@@ -1,5 +1,5 @@
 {
- "total_words": 2480,
+ "total_words": 2500,
  "levels": {
   "1": {
    "radicals": [
@@ -2956,6 +2956,24 @@
      "word": "ずぶ濡れ",
      "word_reading": "ずぶぬれ",
      "word_meaning": "흠뻑 젖음"
+    },
+    {
+     "char": "濃",
+     "radical": "氵",
+     "component": "農",
+     "meaning": "짙다",
+     "word": "色濃い",
+     "word_reading": "いろこい",
+     "word_meaning": "색이 짙다"
+    },
+    {
+     "char": "練",
+     "radical": "糸",
+     "component": "東",
+     "meaning": "단련하다",
+     "word": "未練がましい",
+     "word_reading": "みれんがましい",
+     "word_meaning": "미련이 남아 아쉽다"
     }
    ]
   },
@@ -5905,6 +5923,15 @@
      "word": "ずぶ濡れ",
      "word_reading": "ずぶぬれ",
      "word_meaning": "흠뻑 젖음"
+    },
+    {
+     "char": "濃",
+     "radical": "氵",
+     "component": "農",
+     "meaning": "짙다",
+     "word": "色濃い",
+     "word_reading": "いろこい",
+     "word_meaning": "색이 짙다"
     }
    ]
   }
