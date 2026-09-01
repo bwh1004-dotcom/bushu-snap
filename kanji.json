@@ -1,5 +1,5 @@
 {
- "total_words": 2460,
+ "total_words": 2480,
  "levels": {
   "1": {
    "radicals": [
@@ -2947,6 +2947,15 @@
      "word": "紅一点",
      "word_reading": "こういってん",
      "word_meaning": "홍일점"
+    },
+    {
+     "char": "濡",
+     "radical": "氵",
+     "component": "需",
+     "meaning": "젖다",
+     "word": "ずぶ濡れ",
+     "word_reading": "ずぶぬれ",
+     "word_meaning": "흠뻑 젖음"
     }
    ]
   },
@@ -5887,6 +5896,15 @@
      "word": "激怒",
      "word_reading": "げきど",
      "word_meaning": "격노"
+    },
+    {
+     "char": "濡",
+     "radical": "氵",
+     "component": "需",
+     "meaning": "젖다",
+     "word": "ずぶ濡れ",
+     "word_reading": "ずぶぬれ",
+     "word_meaning": "흠뻑 젖음"
     }
    ]
   }
