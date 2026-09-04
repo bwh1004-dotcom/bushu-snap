@@ -1,5 +1,5 @@
 {
- "total_words": 2520,
+ "total_words": 2540,
  "levels": {
   "1": {
    "radicals": [
@@ -1179,6 +1179,15 @@
      "word": "仮払い",
      "word_reading": "かりばらい",
      "word_meaning": "가불"
+    },
+    {
+     "char": "擬",
+     "radical": "扌",
+     "component": "疑",
+     "meaning": "흉내내다",
+     "word": "擬態語",
+     "word_reading": "ぎたいご",
+     "word_meaning": "의태어"
     }
    ]
   },
@@ -1811,6 +1820,15 @@
      "word": "憤慨",
      "word_reading": "ふんがい",
      "word_meaning": "분개"
+    },
+    {
+     "char": "議",
+     "radical": "言",
+     "component": "義",
+     "meaning": "의논하다",
+     "word": "異議",
+     "word_reading": "いぎ",
+     "word_meaning": "이의"
     }
    ]
   },
@@ -2974,6 +2992,15 @@
      "word": "未練がましい",
      "word_reading": "みれんがましい",
      "word_meaning": "미련이 남아 아쉽다"
+    },
+    {
+     "char": "漢",
+     "radical": "氵",
+     "component": "莫",
+     "meaning": "한나라",
+     "word": "漢語",
+     "word_reading": "かんご",
+     "word_meaning": "한자어"
     }
    ]
   },
@@ -3921,6 +3948,15 @@
      "word": "仮払い",
      "word_reading": "かりばらい",
      "word_meaning": "가불"
+    },
+    {
+     "char": "議",
+     "radical": "言",
+     "component": "義",
+     "meaning": "의논하다",
+     "word": "異議",
+     "word_reading": "いぎ",
+     "word_meaning": "이의"
     }
    ]
   },
@@ -4787,6 +4823,15 @@
      "word": "抑圧",
      "word_reading": "よくあつ",
      "word_meaning": "억압"
+    },
+    {
+     "char": "擬",
+     "radical": "扌",
+     "component": "疑",
+     "meaning": "흉내내다",
+     "word": "擬態語",
+     "word_reading": "ぎたいご",
+     "word_meaning": "의태어"
     }
    ]
   },
@@ -5932,6 +5977,24 @@
      "word": "色濃い",
      "word_reading": "いろこい",
      "word_meaning": "색이 짙다"
+    },
+    {
+     "char": "議",
+     "radical": "言",
+     "component": "義",
+     "meaning": "의논하다",
+     "word": "異議",
+     "word_reading": "いぎ",
+     "word_meaning": "이의"
+    },
+    {
+     "char": "漢",
+     "radical": "氵",
+     "component": "莫",
+     "meaning": "한나라",
+     "word": "漢語",
+     "word_reading": "かんご",
+     "word_meaning": "한자어"
     }
    ]
   }
