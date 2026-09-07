@@ -1,5 +1,5 @@
 {
- "total_words": 2560,
+ "total_words": 2580,
  "levels": {
   "1": {
    "radicals": [
@@ -1829,6 +1829,24 @@
      "word": "異議",
      "word_reading": "いぎ",
      "word_meaning": "이의"
+    },
+    {
+     "char": "諸",
+     "radical": "言",
+     "component": "者",
+     "meaning": "여러",
+     "word": "諸般",
+     "word_reading": "しょはん",
+     "word_meaning": "제반, 여러 가지"
+    },
+    {
+     "char": "惚",
+     "radical": "忄",
+     "component": "忽",
+     "meaning": "반하다",
+     "word": "一目惚れ",
+     "word_reading": "ひとめぼれ",
+     "word_meaning": "첫눈에 반함"
     }
    ]
   },
@@ -3957,6 +3975,15 @@
      "word": "異議",
      "word_reading": "いぎ",
      "word_meaning": "이의"
+    },
+    {
+     "char": "諸",
+     "radical": "言",
+     "component": "者",
+     "meaning": "여러",
+     "word": "諸般",
+     "word_reading": "しょはん",
+     "word_meaning": "제반, 여러 가지"
     }
    ]
   },
@@ -4832,6 +4859,15 @@
      "word": "擬態語",
      "word_reading": "ぎたいご",
      "word_meaning": "의태어"
+    },
+    {
+     "char": "惚",
+     "radical": "忄",
+     "component": "忽",
+     "meaning": "반하다",
+     "word": "一目惚れ",
+     "word_reading": "ひとめぼれ",
+     "word_meaning": "첫눈에 반함"
     }
    ]
   },
@@ -5995,6 +6031,15 @@
      "word": "漢語",
      "word_reading": "かんご",
      "word_meaning": "한자어"
+    },
+    {
+     "char": "諸",
+     "radical": "言",
+     "component": "者",
+     "meaning": "여러",
+     "word": "諸般",
+     "word_reading": "しょはん",
+     "word_meaning": "제반, 여러 가지"
     }
    ]
   }
