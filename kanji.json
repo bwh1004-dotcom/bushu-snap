@@ -1,5 +1,5 @@
 {
- "total_words": 2580,
+ "total_words": 2600,
  "levels": {
   "1": {
    "radicals": [
@@ -1847,6 +1847,15 @@
      "word": "一目惚れ",
      "word_reading": "ひとめぼれ",
      "word_meaning": "첫눈에 반함"
+    },
+    {
+     "char": "詫",
+     "radical": "言",
+     "component": "宅",
+     "meaning": "사죄하다",
+     "word": "詫びる",
+     "word_reading": "わびる",
+     "word_meaning": "사죄하다"
     }
    ]
   },
@@ -3019,6 +3028,15 @@
      "word": "漢語",
      "word_reading": "かんご",
      "word_meaning": "한자어"
+    },
+    {
+     "char": "漬",
+     "radical": "氵",
+     "component": "責",
+     "meaning": "담그다",
+     "word": "漬ける",
+     "word_reading": "つける",
+     "word_meaning": "담그다, 절이다"
     }
    ]
   },
@@ -3984,6 +4002,15 @@
      "word": "諸般",
      "word_reading": "しょはん",
      "word_meaning": "제반, 여러 가지"
+    },
+    {
+     "char": "詫",
+     "radical": "言",
+     "component": "宅",
+     "meaning": "사죄하다",
+     "word": "詫びる",
+     "word_reading": "わびる",
+     "word_meaning": "사죄하다"
     }
    ]
   },
@@ -6040,6 +6067,24 @@
      "word": "諸般",
      "word_reading": "しょはん",
      "word_meaning": "제반, 여러 가지"
+    },
+    {
+     "char": "漬",
+     "radical": "氵",
+     "component": "責",
+     "meaning": "담그다",
+     "word": "漬ける",
+     "word_reading": "つける",
+     "word_meaning": "담그다, 절이다"
+    },
+    {
+     "char": "詫",
+     "radical": "言",
+     "component": "宅",
+     "meaning": "사죄하다",
+     "word": "詫びる",
+     "word_reading": "わびる",
+     "word_meaning": "사죄하다"
     }
    ]
   }
