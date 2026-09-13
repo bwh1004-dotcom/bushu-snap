@@ -1,5 +1,5 @@
 {
- "total_words": 2620,
+ "total_words": 2640,
  "levels": {
   "1": {
    "radicals": [
@@ -1188,6 +1188,15 @@
      "word": "擬態語",
      "word_reading": "ぎたいご",
      "word_meaning": "의태어"
+    },
+    {
+     "char": "択",
+     "radical": "扌",
+     "component": "尺",
+     "meaning": "가리다",
+     "word": "取捨選択",
+     "word_reading": "しゅしゃせんたく",
+     "word_meaning": "취사선택"
     }
    ]
   },
@@ -4895,6 +4904,15 @@
      "word": "一目惚れ",
      "word_reading": "ひとめぼれ",
      "word_meaning": "첫눈에 반함"
+    },
+    {
+     "char": "択",
+     "radical": "扌",
+     "component": "尺",
+     "meaning": "가리다",
+     "word": "取捨選択",
+     "word_reading": "しゅしゃせんたく",
+     "word_meaning": "취사선택"
     }
    ]
   },
