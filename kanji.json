@@ -1,5 +1,5 @@
 {
- "total_words": 2660,
+ "total_words": 2680,
  "levels": {
   "1": {
    "radicals": [
@@ -1197,6 +1197,15 @@
      "word": "取捨選択",
      "word_reading": "しゅしゃせんたく",
      "word_meaning": "취사선택"
+    },
+    {
+     "char": "招",
+     "radical": "扌",
+     "component": "召",
+     "meaning": "부르다",
+     "word": "招致",
+     "word_reading": "しょうち",
+     "word_meaning": "유치, 불러들임"
     }
    ]
   },
@@ -4913,6 +4922,15 @@
      "word": "取捨選択",
      "word_reading": "しゅしゃせんたく",
      "word_meaning": "취사선택"
+    },
+    {
+     "char": "招",
+     "radical": "扌",
+     "component": "召",
+     "meaning": "부르다",
+     "word": "招致",
+     "word_reading": "しょうち",
+     "word_meaning": "유치, 불러들임"
     }
    ]
   },
