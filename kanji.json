@@ -1,5 +1,5 @@
 {
- "total_words": 2700,
+ "total_words": 2720,
  "levels": {
   "1": {
    "radicals": [
@@ -3055,6 +3055,15 @@
      "word": "漬ける",
      "word_reading": "つける",
      "word_meaning": "담그다, 절이다"
+    },
+    {
+     "char": "浅",
+     "radical": "氵",
+     "component": "戔",
+     "meaning": "얕다",
+     "word": "浅ましい",
+     "word_reading": "あさましい",
+     "word_meaning": "한심스럽다, 천박하다"
     }
    ]
   },
@@ -6121,6 +6130,15 @@
      "word": "詫びる",
      "word_reading": "わびる",
      "word_meaning": "사죄하다"
+    },
+    {
+     "char": "浅",
+     "radical": "氵",
+     "component": "戔",
+     "meaning": "얕다",
+     "word": "浅ましい",
+     "word_reading": "あさましい",
+     "word_meaning": "한심스럽다, 천박하다"
     }
    ]
   }
