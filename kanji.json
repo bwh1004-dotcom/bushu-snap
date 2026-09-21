@@ -1,5 +1,5 @@
 {
- "total_words": 2740,
+ "total_words": 2760,
  "levels": {
   "1": {
    "radicals": [
@@ -1874,6 +1874,15 @@
      "word": "詫びる",
      "word_reading": "わびる",
      "word_meaning": "사죄하다"
+    },
+    {
+     "char": "怪",
+     "radical": "忄",
+     "component": "圣",
+     "meaning": "괴이하다",
+     "word": "怪獣",
+     "word_reading": "かいじゅう",
+     "word_meaning": "괴수"
     }
    ]
   },
@@ -4940,6 +4949,15 @@
      "word": "招致",
      "word_reading": "しょうち",
      "word_meaning": "유치, 불러들임"
+    },
+    {
+     "char": "怪",
+     "radical": "忄",
+     "component": "圣",
+     "meaning": "괴이하다",
+     "word": "怪獣",
+     "word_reading": "かいじゅう",
+     "word_meaning": "괴수"
     }
    ]
   },
