@@ -1,5 +1,5 @@
 {
- "total_words": 2760,
+ "total_words": 2780,
  "levels": {
   "1": {
    "radicals": [
@@ -3073,6 +3073,15 @@
      "word": "浅ましい",
      "word_reading": "あさましい",
      "word_meaning": "한심스럽다, 천박하다"
+    },
+    {
+     "char": "紫",
+     "radical": "糸",
+     "component": "此",
+     "meaning": "보라",
+     "word": "紫外線",
+     "word_reading": "しがいせん",
+     "word_meaning": "자외선"
     }
    ]
   },
