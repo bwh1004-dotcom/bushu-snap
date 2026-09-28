@@ -1,5 +1,5 @@
 {
- "total_words": 2780,
+ "total_words": 2800,
  "levels": {
   "1": {
    "radicals": [
@@ -1206,6 +1206,24 @@
      "word": "招致",
      "word_reading": "しょうち",
      "word_meaning": "유치, 불러들임"
+    },
+    {
+     "char": "握",
+     "radical": "扌",
+     "component": "屋",
+     "meaning": "쥐다",
+     "word": "一握り",
+     "word_reading": "ひとにぎり",
+     "word_meaning": "극소수, 한 줌"
+    },
+    {
+     "char": "拵",
+     "radical": "扌",
+     "component": "存",
+     "meaning": "마련하다",
+     "word": "下拵え",
+     "word_reading": "したごしらえ",
+     "word_meaning": "재료를 미리 손질해둠"
     }
    ]
   },
@@ -4967,6 +4985,24 @@
      "word": "怪獣",
      "word_reading": "かいじゅう",
      "word_meaning": "괴수"
+    },
+    {
+     "char": "握",
+     "radical": "扌",
+     "component": "屋",
+     "meaning": "쥐다",
+     "word": "一握り",
+     "word_reading": "ひとにぎり",
+     "word_meaning": "극소수, 한 줌"
+    },
+    {
+     "char": "拵",
+     "radical": "扌",
+     "component": "存",
+     "meaning": "마련하다",
+     "word": "下拵え",
+     "word_reading": "したごしらえ",
+     "word_meaning": "재료를 미리 손질해둠"
     }
    ]
   },
