@@ -1,5 +1,5 @@
 {
- "total_words": 2800,
+ "total_words": 2820,
  "levels": {
   "1": {
    "radicals": [
@@ -1224,6 +1224,15 @@
      "word": "下拵え",
      "word_reading": "したごしらえ",
      "word_meaning": "재료를 미리 손질해둠"
+    },
+    {
+     "char": "拗",
+     "radical": "扌",
+     "component": "幼",
+     "meaning": "비틀리다",
+     "word": "拗れる",
+     "word_reading": "こじれる",
+     "word_meaning": "꼬이다"
     }
    ]
   },
@@ -3100,6 +3109,15 @@
      "word": "紫外線",
      "word_reading": "しがいせん",
      "word_meaning": "자외선"
+    },
+    {
+     "char": "絡",
+     "radical": "糸",
+     "component": "各",
+     "meaning": "얽히다",
+     "word": "絡みつく",
+     "word_reading": "からみつく",
+     "word_meaning": "휘감기다"
     }
    ]
   },
@@ -5003,6 +5021,15 @@
      "word": "下拵え",
      "word_reading": "したごしらえ",
      "word_meaning": "재료를 미리 손질해둠"
+    },
+    {
+     "char": "拗",
+     "radical": "扌",
+     "component": "幼",
+     "meaning": "비틀리다",
+     "word": "拗れる",
+     "word_reading": "こじれる",
+     "word_meaning": "꼬이다"
     }
    ]
   },
