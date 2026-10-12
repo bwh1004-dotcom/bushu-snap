@@ -1,5 +1,5 @@
 {
- "total_words": 2860,
+ "total_words": 2900,
  "levels": {
   "1": {
    "radicals": [
@@ -1910,6 +1910,15 @@
      "word": "怪獣",
      "word_reading": "かいじゅう",
      "word_meaning": "괴수"
+    },
+    {
+     "char": "譜",
+     "radical": "言",
+     "component": "普",
+     "meaning": "악보, 계보",
+     "word": "楽譜",
+     "word_reading": "がくふ",
+     "word_meaning": "악보"
     }
    ]
   },
@@ -4092,6 +4101,15 @@
      "word": "詫びる",
      "word_reading": "わびる",
      "word_meaning": "사죄하다"
+    },
+    {
+     "char": "譜",
+     "radical": "言",
+     "component": "普",
+     "meaning": "악보, 계보",
+     "word": "楽譜",
+     "word_reading": "がくふ",
+     "word_meaning": "악보"
     }
    ]
   },
@@ -6229,6 +6247,15 @@
      "word": "浅ましい",
      "word_reading": "あさましい",
      "word_meaning": "한심스럽다, 천박하다"
+    },
+    {
+     "char": "譜",
+     "radical": "言",
+     "component": "普",
+     "meaning": "악보, 계보",
+     "word": "楽譜",
+     "word_reading": "がくふ",
+     "word_meaning": "악보"
     }
    ]
   }
