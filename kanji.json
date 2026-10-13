@@ -1,5 +1,5 @@
 {
- "total_words": 2900,
+ "total_words": 2920,
  "levels": {
   "1": {
    "radicals": [
@@ -1233,6 +1233,15 @@
      "word": "拗れる",
      "word_reading": "こじれる",
      "word_meaning": "꼬이다"
+    },
+    {
+     "char": "捧",
+     "radical": "扌",
+     "component": "奉",
+     "meaning": "바치다",
+     "word": "捧げる",
+     "word_reading": "ささげる",
+     "word_meaning": "바치다"
     }
    ]
   },
@@ -5048,6 +5057,15 @@
      "word": "拗れる",
      "word_reading": "こじれる",
      "word_meaning": "꼬이다"
+    },
+    {
+     "char": "捧",
+     "radical": "扌",
+     "component": "奉",
+     "meaning": "바치다",
+     "word": "捧げる",
+     "word_reading": "ささげる",
+     "word_meaning": "바치다"
     }
    ]
   },
