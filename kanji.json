@@ -1,5 +1,5 @@
 {
- "total_words": 2940,
+ "total_words": 2960,
  "levels": {
   "1": {
    "radicals": [
@@ -3136,6 +3136,15 @@
      "word": "絡みつく",
      "word_reading": "からみつく",
      "word_meaning": "휘감기다"
+    },
+    {
+     "char": "繊",
+     "radical": "糸",
+     "component": "戈",
+     "meaning": "가늘다",
+     "word": "繊細",
+     "word_reading": "せんさい",
+     "word_meaning": "섬세함"
     }
    ]
   },
