@@ -1,5 +1,5 @@
 {
- "total_words": 2980,
+ "total_words": 3000,
  "levels": {
   "1": {
    "radicals": [
@@ -1242,6 +1242,15 @@
      "word": "捧げる",
      "word_reading": "ささげる",
      "word_meaning": "바치다"
+    },
+    {
+     "char": "捏",
+     "radical": "扌",
+     "component": "土",
+     "meaning": "반죽하다",
+     "word": "捏造",
+     "word_reading": "ねつぞう",
+     "word_meaning": "날조"
     }
    ]
   },
@@ -1928,6 +1937,15 @@
      "word": "楽譜",
      "word_reading": "がくふ",
      "word_meaning": "악보"
+    },
+    {
+     "char": "診",
+     "radical": "言",
+     "component": "彡",
+     "meaning": "진찰하다",
+     "word": "打診",
+     "word_reading": "だしん",
+     "word_meaning": "타진, 의향을 떠봄"
     }
    ]
   },
@@ -3145,6 +3163,15 @@
      "word": "繊細",
      "word_reading": "せんさい",
      "word_meaning": "섬세함"
+    },
+    {
+     "char": "綻",
+     "radical": "糸",
+     "component": "定",
+     "meaning": "터지다",
+     "word": "破綻",
+     "word_reading": "はたん",
+     "word_meaning": "파탄"
     }
    ]
   },
@@ -4128,6 +4155,15 @@
      "word": "楽譜",
      "word_reading": "がくふ",
      "word_meaning": "악보"
+    },
+    {
+     "char": "診",
+     "radical": "言",
+     "component": "彡",
+     "meaning": "진찰하다",
+     "word": "打診",
+     "word_reading": "だしん",
+     "word_meaning": "타진, 의향을 떠봄"
     }
    ]
   },
@@ -5075,6 +5111,15 @@
      "word": "捧げる",
      "word_reading": "ささげる",
      "word_meaning": "바치다"
+    },
+    {
+     "char": "捏",
+     "radical": "扌",
+     "component": "土",
+     "meaning": "반죽하다",
+     "word": "捏造",
+     "word_reading": "ねつぞう",
+     "word_meaning": "날조"
     }
    ]
   },
@@ -6283,6 +6328,15 @@
      "word": "楽譜",
      "word_reading": "がくふ",
      "word_meaning": "악보"
+    },
+    {
+     "char": "診",
+     "radical": "言",
+     "component": "彡",
+     "meaning": "진찰하다",
+     "word": "打診",
+     "word_reading": "だしん",
+     "word_meaning": "타진, 의향을 떠봄"
     }
    ]
   }
