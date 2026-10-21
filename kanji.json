@@ -1,5 +1,5 @@
 {
- "total_words": 3020,
+ "total_words": 3040,
  "levels": {
   "1": {
    "radicals": [
@@ -1946,6 +1946,15 @@
      "word": "打診",
      "word_reading": "だしん",
      "word_meaning": "타진, 의향을 떠봄"
+    },
+    {
+     "char": "訴",
+     "radical": "言",
+     "component": "斥",
+     "meaning": "호소하다",
+     "word": "訴える",
+     "word_reading": "うったえる",
+     "word_meaning": "고소하다, 호소하다"
     }
    ]
   },
@@ -3172,6 +3181,15 @@
      "word": "破綻",
      "word_reading": "はたん",
      "word_meaning": "파탄"
+    },
+    {
+     "char": "繕",
+     "radical": "糸",
+     "component": "善",
+     "meaning": "깁다",
+     "word": "繕う",
+     "word_reading": "つくろう",
+     "word_meaning": "수선하다, 겉을 꾸미다"
     }
    ]
   },
@@ -4164,6 +4182,15 @@
      "word": "打診",
      "word_reading": "だしん",
      "word_meaning": "타진, 의향을 떠봄"
+    },
+    {
+     "char": "訴",
+     "radical": "言",
+     "component": "斥",
+     "meaning": "호소하다",
+     "word": "訴える",
+     "word_reading": "うったえる",
+     "word_meaning": "고소하다, 호소하다"
     }
    ]
   },
@@ -6337,6 +6364,15 @@
      "word": "打診",
      "word_reading": "だしん",
      "word_meaning": "타진, 의향을 떠봄"
+    },
+    {
+     "char": "訴",
+     "radical": "言",
+     "component": "斥",
+     "meaning": "호소하다",
+     "word": "訴える",
+     "word_reading": "うったえる",
+     "word_meaning": "고소하다, 호소하다"
     }
    ]
   }
