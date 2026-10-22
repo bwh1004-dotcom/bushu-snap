@@ -1,5 +1,5 @@
 {
- "total_words": 3040,
+ "total_words": 3060,
  "levels": {
   "1": {
    "radicals": [
@@ -3190,6 +3190,15 @@
      "word": "繕う",
      "word_reading": "つくろう",
      "word_meaning": "수선하다, 겉을 꾸미다"
+    },
+    {
+     "char": "澄",
+     "radical": "氵",
+     "component": "登",
+     "meaning": "맑다",
+     "word": "研ぎ澄ます",
+     "word_reading": "とぎすます",
+     "word_meaning": "예리하게 다듬다"
     }
    ]
   },
@@ -6373,6 +6382,15 @@
      "word": "訴える",
      "word_reading": "うったえる",
      "word_meaning": "고소하다, 호소하다"
+    },
+    {
+     "char": "澄",
+     "radical": "氵",
+     "component": "登",
+     "meaning": "맑다",
+     "word": "研ぎ澄ます",
+     "word_reading": "とぎすます",
+     "word_meaning": "예리하게 다듬다"
     }
    ]
   }
