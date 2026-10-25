@@ -1,5 +1,5 @@
 {
- "total_words": 3080,
+ "total_words": 3100,
  "levels": {
   "1": {
    "radicals": [
@@ -3199,6 +3199,24 @@
      "word": "研ぎ澄ます",
      "word_reading": "とぎすます",
      "word_meaning": "예리하게 다듬다"
+    },
+    {
+     "char": "縁",
+     "radical": "糸",
+     "component": "彖",
+     "meaning": "인연",
+     "word": "縁談",
+     "word_reading": "えんだん",
+     "word_meaning": "혼담"
+    },
+    {
+     "char": "緯",
+     "radical": "糸",
+     "component": "韋",
+     "meaning": "씨실",
+     "word": "経緯",
+     "word_reading": "けいい",
+     "word_meaning": "경위, 자초지종"
     }
    ]
   },
