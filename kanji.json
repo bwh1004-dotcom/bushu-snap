@@ -1,5 +1,5 @@
 {
- "total_words": 3100,
+ "total_words": 3120,
  "levels": {
   "1": {
    "radicals": [
@@ -1251,6 +1251,24 @@
      "word": "捏造",
      "word_reading": "ねつぞう",
      "word_meaning": "날조"
+    },
+    {
+     "char": "撤",
+     "radical": "扌",
+     "component": "育",
+     "meaning": "거두다",
+     "word": "撤退",
+     "word_reading": "てったい",
+     "word_meaning": "철수"
+    },
+    {
+     "char": "揉",
+     "radical": "扌",
+     "component": "柔",
+     "meaning": "주무르다",
+     "word": "内輪揉め",
+     "word_reading": "うちわもめ",
+     "word_meaning": "집안싸움, 내분"
     }
    ]
   },
@@ -1955,6 +1973,15 @@
      "word": "訴える",
      "word_reading": "うったえる",
      "word_meaning": "고소하다, 호소하다"
+    },
+    {
+     "char": "謂",
+     "radical": "言",
+     "component": "胃",
+     "meaning": "이르다",
+     "word": "謂れ",
+     "word_reading": "いわれ",
+     "word_meaning": "내력, 유래"
     }
    ]
   },
@@ -4218,6 +4245,15 @@
      "word": "訴える",
      "word_reading": "うったえる",
      "word_meaning": "고소하다, 호소하다"
+    },
+    {
+     "char": "謂",
+     "radical": "言",
+     "component": "胃",
+     "meaning": "이르다",
+     "word": "謂れ",
+     "word_reading": "いわれ",
+     "word_meaning": "내력, 유래"
     }
    ]
   },
@@ -5174,6 +5210,24 @@
      "word": "捏造",
      "word_reading": "ねつぞう",
      "word_meaning": "날조"
+    },
+    {
+     "char": "撤",
+     "radical": "扌",
+     "component": "育",
+     "meaning": "거두다",
+     "word": "撤退",
+     "word_reading": "てったい",
+     "word_meaning": "철수"
+    },
+    {
+     "char": "揉",
+     "radical": "扌",
+     "component": "柔",
+     "meaning": "주무르다",
+     "word": "内輪揉め",
+     "word_reading": "うちわもめ",
+     "word_meaning": "집안싸움, 내분"
     }
    ]
   },
@@ -6409,6 +6463,15 @@
      "word": "研ぎ澄ます",
      "word_reading": "とぎすます",
      "word_meaning": "예리하게 다듬다"
+    },
+    {
+     "char": "謂",
+     "radical": "言",
+     "component": "胃",
+     "meaning": "이르다",
+     "word": "謂れ",
+     "word_reading": "いわれ",
+     "word_meaning": "내력, 유래"
     }
    ]
   }
