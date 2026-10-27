@@ -1,5 +1,5 @@
 {
- "total_words": 3120,
+ "total_words": 3140,
  "levels": {
   "1": {
    "radicals": [
@@ -1269,6 +1269,24 @@
      "word": "内輪揉め",
      "word_reading": "うちわもめ",
      "word_meaning": "집안싸움, 내분"
+    },
+    {
+     "char": "係",
+     "radical": "亻",
+     "component": "系",
+     "meaning": "매이다",
+     "word": "係る",
+     "word_reading": "かかる",
+     "word_meaning": "관계되다"
+    },
+    {
+     "char": "括",
+     "radical": "扌",
+     "component": "舌",
+     "meaning": "묶다",
+     "word": "一括り",
+     "word_reading": "ひとくくり",
+     "word_meaning": "한데 묶음"
     }
    ]
   },
@@ -4254,6 +4272,15 @@
      "word": "謂れ",
      "word_reading": "いわれ",
      "word_meaning": "내력, 유래"
+    },
+    {
+     "char": "係",
+     "radical": "亻",
+     "component": "系",
+     "meaning": "매이다",
+     "word": "係る",
+     "word_reading": "かかる",
+     "word_meaning": "관계되다"
     }
    ]
   },
@@ -5228,6 +5255,15 @@
      "word": "内輪揉め",
      "word_reading": "うちわもめ",
      "word_meaning": "집안싸움, 내분"
+    },
+    {
+     "char": "括",
+     "radical": "扌",
+     "component": "舌",
+     "meaning": "묶다",
+     "word": "一括り",
+     "word_reading": "ひとくくり",
+     "word_meaning": "한데 묶음"
     }
    ]
   },
