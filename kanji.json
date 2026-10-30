@@ -1,5 +1,5 @@
 {
- "total_words": 3160,
+ "total_words": 3200,
  "levels": {
   "1": {
    "radicals": [
@@ -1287,6 +1287,15 @@
      "word": "一括り",
      "word_reading": "ひとくくり",
      "word_meaning": "한데 묶음"
+    },
+    {
+     "char": "僅",
+     "radical": "亻",
+     "component": "堇",
+     "meaning": "겨우",
+     "word": "僅か",
+     "word_reading": "わずか",
+     "word_meaning": "아주 적음, 불과"
     }
    ]
   },
@@ -4281,6 +4290,15 @@
      "word": "係る",
      "word_reading": "かかる",
      "word_meaning": "관계되다"
+    },
+    {
+     "char": "僅",
+     "radical": "亻",
+     "component": "堇",
+     "meaning": "겨우",
+     "word": "僅か",
+     "word_reading": "わずか",
+     "word_meaning": "아주 적음, 불과"
     }
    ]
   },
