@@ -1,5 +1,5 @@
 {
- "total_words": 3200,
+ "total_words": 3220,
  "levels": {
   "1": {
    "radicals": [
@@ -1296,6 +1296,15 @@
      "word": "僅か",
      "word_reading": "わずか",
      "word_meaning": "아주 적음, 불과"
+    },
+    {
+     "char": "挿",
+     "radical": "扌",
+     "component": "千",
+     "meaning": "끼우다",
+     "word": "挿入",
+     "word_reading": "そうにゅう",
+     "word_meaning": "삽입"
     }
    ]
   },
@@ -2009,6 +2018,15 @@
      "word": "謂れ",
      "word_reading": "いわれ",
      "word_meaning": "내력, 유래"
+    },
+    {
+     "char": "憬",
+     "radical": "忄",
+     "component": "景",
+     "meaning": "그리워하다",
+     "word": "憧憬",
+     "word_reading": "しょうけい",
+     "word_meaning": "동경"
     }
    ]
   },
@@ -5282,6 +5300,24 @@
      "word": "一括り",
      "word_reading": "ひとくくり",
      "word_meaning": "한데 묶음"
+    },
+    {
+     "char": "憬",
+     "radical": "忄",
+     "component": "景",
+     "meaning": "그리워하다",
+     "word": "憧憬",
+     "word_reading": "しょうけい",
+     "word_meaning": "동경"
+    },
+    {
+     "char": "挿",
+     "radical": "扌",
+     "component": "千",
+     "meaning": "끼우다",
+     "word": "挿入",
+     "word_reading": "そうにゅう",
+     "word_meaning": "삽입"
     }
    ]
   },
