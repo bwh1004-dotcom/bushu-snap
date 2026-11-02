@@ -1,5 +1,5 @@
 {
- "total_words": 3240,
+ "total_words": 3260,
  "levels": {
   "1": {
    "radicals": [
@@ -1305,6 +1305,15 @@
      "word": "挿入",
      "word_reading": "そうにゅう",
      "word_meaning": "삽입"
+    },
+    {
+     "char": "儲",
+     "radical": "亻",
+     "component": "諸",
+     "meaning": "벌다",
+     "word": "儲かる",
+     "word_reading": "もうかる",
+     "word_meaning": "돈이 벌리다"
     }
    ]
   },
@@ -3289,6 +3298,15 @@
      "word": "経緯",
      "word_reading": "けいい",
      "word_meaning": "경위, 자초지종"
+    },
+    {
+     "char": "溢",
+     "radical": "氵",
+     "component": "益",
+     "meaning": "넘치다",
+     "word": "溢れる",
+     "word_reading": "あふれる",
+     "word_meaning": "넘치다"
     }
    ]
   },
@@ -4317,6 +4335,15 @@
      "word": "僅か",
      "word_reading": "わずか",
      "word_meaning": "아주 적음, 불과"
+    },
+    {
+     "char": "儲",
+     "radical": "亻",
+     "component": "諸",
+     "meaning": "벌다",
+     "word": "儲かる",
+     "word_reading": "もうかる",
+     "word_meaning": "돈이 벌리다"
     }
    ]
   },
@@ -6562,6 +6589,15 @@
      "word": "謂れ",
      "word_reading": "いわれ",
      "word_meaning": "내력, 유래"
+    },
+    {
+     "char": "溢",
+     "radical": "氵",
+     "component": "益",
+     "meaning": "넘치다",
+     "word": "溢れる",
+     "word_reading": "あふれる",
+     "word_meaning": "넘치다"
     }
    ]
   }
