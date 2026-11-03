@@ -1,5 +1,5 @@
 {
- "total_words": 3260,
+ "total_words": 3280,
  "levels": {
   "1": {
    "radicals": [
@@ -3307,6 +3307,24 @@
      "word": "溢れる",
      "word_reading": "あふれる",
      "word_meaning": "넘치다"
+    },
+    {
+     "char": "滲",
+     "radical": "氵",
+     "component": "参",
+     "meaning": "스며들다",
+     "word": "滲み出る",
+     "word_reading": "にじみでる",
+     "word_meaning": "스며나오다"
+    },
+    {
+     "char": "漠",
+     "radical": "氵",
+     "component": "莫",
+     "meaning": "아득하다",
+     "word": "漠然と",
+     "word_reading": "ばくぜんと",
+     "word_meaning": "막연히"
     }
    ]
   },
@@ -6598,6 +6616,24 @@
      "word": "溢れる",
      "word_reading": "あふれる",
      "word_meaning": "넘치다"
+    },
+    {
+     "char": "滲",
+     "radical": "氵",
+     "component": "参",
+     "meaning": "스며들다",
+     "word": "滲み出る",
+     "word_reading": "にじみでる",
+     "word_meaning": "스며나오다"
+    },
+    {
+     "char": "漠",
+     "radical": "氵",
+     "component": "莫",
+     "meaning": "아득하다",
+     "word": "漠然と",
+     "word_reading": "ばくぜんと",
+     "word_meaning": "막연히"
     }
    ]
   }
