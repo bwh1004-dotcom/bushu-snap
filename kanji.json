@@ -1,5 +1,5 @@
 {
- "total_words": 3280,
+ "total_words": 3300,
  "levels": {
   "1": {
    "radicals": [
@@ -3325,6 +3325,15 @@
      "word": "漠然と",
      "word_reading": "ばくぜんと",
      "word_meaning": "막연히"
+    },
+    {
+     "char": "溝",
+     "radical": "氵",
+     "component": "冓",
+     "meaning": "도랑",
+     "word": "溝が埋まらない",
+     "word_reading": "みぞがうまらない",
+     "word_meaning": "간극이 좁혀지지 않다"
     }
    ]
   },
@@ -6634,6 +6643,15 @@
      "word": "漠然と",
      "word_reading": "ばくぜんと",
      "word_meaning": "막연히"
+    },
+    {
+     "char": "溝",
+     "radical": "氵",
+     "component": "冓",
+     "meaning": "도랑",
+     "word": "溝が埋まらない",
+     "word_reading": "みぞがうまらない",
+     "word_meaning": "간극이 좁혀지지 않다"
     }
    ]
   }
