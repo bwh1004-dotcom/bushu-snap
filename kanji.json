@@ -1,5 +1,5 @@
 {
- "total_words": 3300,
+ "total_words": 3320,
  "levels": {
   "1": {
    "radicals": [
@@ -2036,6 +2036,15 @@
      "word": "憧憬",
      "word_reading": "しょうけい",
      "word_meaning": "동경"
+    },
+    {
+     "char": "悼",
+     "radical": "忄",
+     "component": "卓",
+     "meaning": "슬퍼하다",
+     "word": "哀悼",
+     "word_reading": "あいとう",
+     "word_meaning": "애도"
     }
    ]
   },
@@ -5372,6 +5381,15 @@
      "word": "挿入",
      "word_reading": "そうにゅう",
      "word_meaning": "삽입"
+    },
+    {
+     "char": "悼",
+     "radical": "忄",
+     "component": "卓",
+     "meaning": "슬퍼하다",
+     "word": "哀悼",
+     "word_reading": "あいとう",
+     "word_meaning": "애도"
     }
    ]
   },
