@@ -1,5 +1,5 @@
 {
- "total_words": 3320,
+ "total_words": 3340,
  "levels": {
   "1": {
    "radicals": [
@@ -1314,6 +1314,15 @@
      "word": "儲かる",
      "word_reading": "もうかる",
      "word_meaning": "돈이 벌리다"
+    },
+    {
+     "char": "佐",
+     "radical": "亻",
+     "component": "左",
+     "meaning": "돕다",
+     "word": "補佐",
+     "word_reading": "ほさ",
+     "word_meaning": "보좌"
     }
    ]
   },
@@ -4380,6 +4389,15 @@
      "word": "儲かる",
      "word_reading": "もうかる",
      "word_meaning": "돈이 벌리다"
+    },
+    {
+     "char": "佐",
+     "radical": "亻",
+     "component": "左",
+     "meaning": "돕다",
+     "word": "補佐",
+     "word_reading": "ほさ",
+     "word_meaning": "보좌"
     }
    ]
   },
