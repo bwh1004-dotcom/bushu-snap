@@ -1,5 +1,5 @@
 {
- "total_words": 3340,
+ "total_words": 3360,
  "levels": {
   "1": {
    "radicals": [
@@ -1323,6 +1323,15 @@
      "word": "補佐",
      "word_reading": "ほさ",
      "word_meaning": "보좌"
+    },
+    {
+     "char": "伴",
+     "radical": "亻",
+     "component": "半",
+     "meaning": "동반하다",
+     "word": "伴う",
+     "word_reading": "ともなう",
+     "word_meaning": "동반하다, 따르다"
     }
    ]
   },
@@ -4398,6 +4407,15 @@
      "word": "補佐",
      "word_reading": "ほさ",
      "word_meaning": "보좌"
+    },
+    {
+     "char": "伴",
+     "radical": "亻",
+     "component": "半",
+     "meaning": "동반하다",
+     "word": "伴う",
+     "word_reading": "ともなう",
+     "word_meaning": "동반하다, 따르다"
     }
    ]
   },
