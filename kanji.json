@@ -1,5 +1,5 @@
 {
- "total_words": 3360,
+ "total_words": 3380,
  "levels": {
   "1": {
    "radicals": [
@@ -3361,6 +3361,15 @@
      "word": "溝が埋まらない",
      "word_reading": "みぞがうまらない",
      "word_meaning": "간극이 좁혀지지 않다"
+    },
+    {
+     "char": "淀",
+     "radical": "氵",
+     "component": "定",
+     "meaning": "고이다",
+     "word": "淀む",
+     "word_reading": "よどむ",
+     "word_meaning": "탁해지다, 고이다"
     }
    ]
   },
@@ -6706,6 +6715,15 @@
      "word": "溝が埋まらない",
      "word_reading": "みぞがうまらない",
      "word_meaning": "간극이 좁혀지지 않다"
+    },
+    {
+     "char": "淀",
+     "radical": "氵",
+     "component": "定",
+     "meaning": "고이다",
+     "word": "淀む",
+     "word_reading": "よどむ",
+     "word_meaning": "탁해지다, 고이다"
     }
    ]
   }
