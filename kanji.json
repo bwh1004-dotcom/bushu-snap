@@ -1,5 +1,5 @@
 {
- "total_words": 3420,
+ "total_words": 3440,
  "levels": {
   "1": {
    "radicals": [
@@ -1332,6 +1332,15 @@
      "word": "伴う",
      "word_reading": "ともなう",
      "word_meaning": "동반하다, 따르다"
+    },
+    {
+     "char": "摂",
+     "radical": "扌",
+     "component": "耳",
+     "meaning": "끌어들이다",
+     "word": "摂取",
+     "word_reading": "せっしゅ",
+     "word_meaning": "섭취"
     }
    ]
   },
@@ -2063,6 +2072,15 @@
      "word": "哀悼",
      "word_reading": "あいとう",
      "word_meaning": "애도"
+    },
+    {
+     "char": "惰",
+     "radical": "忄",
+     "component": "月",
+     "meaning": "게으르다",
+     "word": "惰性",
+     "word_reading": "だせい",
+     "word_meaning": "타성"
     }
    ]
   },
@@ -5435,6 +5453,24 @@
      "word": "哀悼",
      "word_reading": "あいとう",
      "word_meaning": "애도"
+    },
+    {
+     "char": "摂",
+     "radical": "扌",
+     "component": "耳",
+     "meaning": "끌어들이다",
+     "word": "摂取",
+     "word_reading": "せっしゅ",
+     "word_meaning": "섭취"
+    },
+    {
+     "char": "惰",
+     "radical": "忄",
+     "component": "月",
+     "meaning": "게으르다",
+     "word": "惰性",
+     "word_reading": "だせい",
+     "word_meaning": "타성"
     }
    ]
   },
