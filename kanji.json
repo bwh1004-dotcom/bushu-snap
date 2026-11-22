@@ -1,5 +1,5 @@
 {
- "total_words": 3460,
+ "total_words": 3500,
  "levels": {
   "1": {
    "radicals": [
@@ -3388,6 +3388,15 @@
      "word": "淀む",
      "word_reading": "よどむ",
      "word_meaning": "탁해지다, 고이다"
+    },
+    {
+     "char": "絞",
+     "radical": "糸",
+     "component": "交",
+     "meaning": "짜다",
+     "word": "絞る",
+     "word_reading": "しぼる",
+     "word_meaning": "짜내다, 좁히다"
     }
    ]
   },
