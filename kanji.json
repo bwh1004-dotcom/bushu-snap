@@ -1,5 +1,5 @@
 {
- "total_words": 3520,
+ "total_words": 3540,
  "levels": {
   "1": {
    "radicals": [
@@ -1341,6 +1341,15 @@
      "word": "摂取",
      "word_reading": "せっしゅ",
      "word_meaning": "섭취"
+    },
+    {
+     "char": "傍",
+     "radical": "亻",
+     "component": "旁",
+     "meaning": "곁",
+     "word": "傍聴",
+     "word_reading": "ぼうちょう",
+     "word_meaning": "방청"
     }
    ]
   },
@@ -4452,6 +4461,15 @@
      "word": "伴う",
      "word_reading": "ともなう",
      "word_meaning": "동반하다, 따르다"
+    },
+    {
+     "char": "傍",
+     "radical": "亻",
+     "component": "旁",
+     "meaning": "곁",
+     "word": "傍聴",
+     "word_reading": "ぼうちょう",
+     "word_meaning": "방청"
     }
    ]
   },
