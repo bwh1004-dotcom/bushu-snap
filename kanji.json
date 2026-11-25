@@ -1,5 +1,5 @@
 {
- "total_words": 3540,
+ "total_words": 3560,
  "levels": {
   "1": {
    "radicals": [
@@ -1350,6 +1350,15 @@
      "word": "傍聴",
      "word_reading": "ぼうちょう",
      "word_meaning": "방청"
+    },
+    {
+     "char": "伽",
+     "radical": "亻",
+     "component": "加",
+     "meaning": "시중들다",
+     "word": "お伽話",
+     "word_reading": "おとぎばなし",
+     "word_meaning": "옛날이야기, 동화"
     }
    ]
   },
@@ -4470,6 +4479,15 @@
      "word": "傍聴",
      "word_reading": "ぼうちょう",
      "word_meaning": "방청"
+    },
+    {
+     "char": "伽",
+     "radical": "亻",
+     "component": "加",
+     "meaning": "시중들다",
+     "word": "お伽話",
+     "word_reading": "おとぎばなし",
+     "word_meaning": "옛날이야기, 동화"
     }
    ]
   },
